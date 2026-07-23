@@ -1,0 +1,1207 @@
+Customer_ID,Age,Gender,Region,Annual_Income,Years_as_Customer,Email_Opt_In,Promotion_Response,Num_Campaigns_Received,Num_Campaigns_Clicked,Website_Visits_Per_Month,App_Usage_Hours_Month,Social_Media_Engagement_Score,Total_Spend,Num_Purchases_Last_Year,Avg_Order_Value,Discount_Usage_Rate,Customer_Satisfaction_Score,Support_Tickets_Raised,Loyalty_Program_Member,Preferred_Channel,Last_Purchase_Days_Ago,Target_Churn
+CUST10918,33,Male,West,66561.77,1.9,Yes,Ignored,12,4,6,0.2,35.4,1148.78,6,191.46,0.231,8.8,2,No,Mobile App,121,No
+CUST10615,40,Female,South,44416.59,3.4,no,Ignored,10,3,9,3.8,4.4,540.02,8,67.5,0.101,4,1,Yes,Online,29,No
+CUST10947,30,Female,North,73895.83,2.1,No,Responded,4,1,10,6.7,43,600.96,10,60.1,0.06,8.8,0,No,Online,159,Yes
+CUST10063,24,Female,East,,0.9,No,Ignored,5,3,5,6.6,94.5,917.69,7,131.1,0.28,5.3,3,Yes,Online,120,Yes
+CUST10351,56,Female,South,95160.43,4.8,No,Ignored,9,5,13,0.4,47.6,395.55,7,56.51,,6.7,1,Yes,In-Store,5,No
+CUST10053,45,Male,Central,43475.26,0.3,No,Ignored,7,1,8,4.2,59,1231.23,4,307.81,0.26,8.5,1,Yes,Online,64,Yes
+CUST10781,22,Male,South,44284.79,0.4,Yes,Ignored,6,3,6,7.9,31,615.8,10,61.58,0.22,7.6,2,Yes,Online,40,No
+CUST11013,30,Female,West,16237.91,2.6,Yes,Ignored,3,2,7,3,30.5,708.85,8,88.61,0.138,3.8,1,Yes,Online,28,Yes
+CUST10266,58,Male,East,34367.26,10.3,No,Ignored,7,5,5,0.9,65.6,1076.76,9,119.64,0.087,8.8,2,Yes,Online,29,No
+CUST11060,47,Female,North,17240.24,9.5,Yes,Ignored,4,1,6,0.6,17.7,1367.29,7,195.33,0.345,6.9,2,No,Mobile App,11,No
+CUST10565,33,Female,North,95865.38,2.7,No,Ignored,8,3,7,4.9,51.9,1373.78,6,228.96,0.36,7.1,0,Yes,Mobile App,41,Yes
+CUST10272,52,Male,South,38119.01,5.8,Yes,Ignored,5,2,9,0.9,24.7,714.87,11,64.99,0.464,6.2,1,No,Mobile App,120,Yes
+CUST10689,43,Male,East,63480.7,10.2,Yes,Unsubscribed,8,3,6,7.8,77.3,1342.72,10,134.27,0.329,,2,Yes,Online,283,Yes
+CUST11127,29,Male,South,58574.44,0,Yes,Unsubscribed,4,0,9,0.9,76.4,1049.28,12,87.44,0.116,9,0,Yes,Online,43,No
+CUST10908,46,Male,South,48929.86,3,No,Ignored,3,1,9,,14.6,524.44,8,65.56,0.313,5.8,4,No,In-Store,41,Yes
+CUST10988,35,Female,West,910050.8714,4.4,Yes,Ignored,9,3,11,1.2,24.4,1264.44,8,158.06,0.55,8.1,1,Yes,In-Store,12,No
+CUST10657,38,Female,West,34156.6,0.8,Yes,Unsubscribed,9,1,8,1.8,20.3,1615.82,7,230.83,,7.7,1,No,In-Store,98,Yes
+CUST10962,40,Male,North,57985.25,2.3,Yes,Responded,2,1,7,1.7,34.7,1941.85,4,485.46,0.038,7.9,2,No,Online,63,No
+CUST10088,32,Male,Central,92142.16,6.3,No,Unsubscribed,5,0,5,4.6,83.4,1384.13,5,276.83,0.237,4.2,0,Yes,Online,3,Yes
+CUST10758,28,Male,Central,55125.15,,Yes,Ignored,13,2,6,2.7,72.1,697.44,11,63.4,0.106,9.5,1,No,Online,25,No
+CUST10726,38,Other,West,21354.62,1.1,No,Ignored,7,0,6,3.1,25.3,1243.87,14,88.85,0.611,5.7,0,Yes,Online,0,No
+CUST10305,39,Female,South,65246.61,1.9,Yes,Unsubscribed,6,2,8,3.1,78.3,1126,12,93.83,0.336,7.6,1,Yes,Online,45,No
+CUST10778,37,Female,Central,35513.65,2.9,Yes,Ignored,8,3,6,1,79.7,1740.56,16,108.78,0.203,9.8,2,Yes,Online,16,No
+CUST10396,18,Female,South,69414.54,0.5,No,Ignored,8,3,3,0.3,78.2,771.47,9,85.72,0.443,6.7,1,No,Online,57,Yes
+CUST10985,24,Male,East,99700.07,5.9,No,Ignored,10,6,9,3.9,53.9,751.94,13,57.84,,5.4,2,No,Mobile App,2,No
+CUST11105,26,Male,Central,112809.35,1.4,Yes,Responded,2,0,11,7.7,21.7,1520.09,8,190.01,0.373,9,0,Yes,In-Store,29,No
+CUST11061,18,Male,North,127373.51,2.7,No,Ignored,6,2,7,,63,593.35,13,45.64,0.475,4.6,1,Yes,Online,16,No
+CUST10617,47,Other,East,21046.61,2.5,No,Ignored,7,3,9,1.4,66.6,474.29,10,47.43,0.042,,0,No,Online,63,Yes
+CUST10356,38,Female,South,55424.45,3.2,Yes,Unsubscribed,1,0,12,3.9,98,884.19,8,110.52,0.154,10,2,Yes,Mobile App,10,Yes
+CUST10408,39,Female,Central,31923.18,3,Yes,Unsubscribed,9,4,7,7.5,81.6,885.59,11,80.51,0.203,7.6,1,Yes,Online,13,No
+CUST10146,23,Male,North,92879.35,2.3,No,Responded,6,2,8,1.1,17.4,770.24,11,70.02,0.13,10,1,No,In-Store,28,No
+CUST10086,49,Female,South,35447.43,0,No,Responded,5,1,15,2.6,14.2,335.44,10,33.54,0.039,6.8,1,No,In-Store,87,No
+CUST10124,45,Female,Central,94319.72,1.8,Yes,Unsubscribed,8,3,7,5.5,45.4,1555.96,7,222.28,0.16,7.7,2,No,In-Store,27,Yes
+CUST11026,38,Male,West,64907.58,9.6,Yes,Ignored,12,5,7,3.1,46.8,734,5,146.8,0.138,8.2,1,No,Mobile App,93,No
+CUST10295,30,Female,South,,3.6,Yes,Responded,11,3,1,9.1,,1493.43,11,135.77,,4.4,2,No,Mobile App,33,No
+CUST10223,19,Female,North,109739.18,8.1,Yes,Ignored,5,1,12,4.3,55.9,548.9,3,182.97,,7.5,1,Yes,In-Store,68,No
+CUST10456,37,Male,West,38265.31,1.8,Yes,Responded,5,1,8,14.1,28.4,608.67,9,67.63,0.281,7,1,Yes,In-Store,66,No
+CUST10017,42,Male,Central,35823.94,0.1,No,Responded,6,2,12,2,31.6,736.5,10,73.65,0.481,4.4,2,Yes,In-Store,83,Yes
+CUST10383,32,Female,West,35898.17,,No,Ignored,8,2,7,5.8,54.5,406.21,5,81.24,0.29,7.4,2,Yes,In-Store,39,No
+CUST11082,34,Female,South,30012.44,0.6,Yes,Unsubscribed,11,4,9,0.3,49.7,1650.11,12,137.51,0.124,5.7,0,Yes,Online,14,Yes
+CUST10378,64,Female,West,47976.18,4.6,Yes,Unsubscribed,4,0,5,0.8,10.8,172.25,16,10.77,0.045,7.3,0,Yes,Online,22,Yes
+CUST10708,18,Female,East,34539.38,2.6,No,Ignored,12,5,10,3.2,38.5,313.23,5,62.65,0.277,3.4,0,Yes,In-Store,16,Yes
+CUST10982,26,Female,North,40128.64,0.3,No,Ignored,6,3,7,9.4,40.9,499.46,8,62.43,0.27,6.4,1,No,In-Store,168,No
+CUST11161,65,Male,South,54936.38,0.3,Yes,Responded,8,1,3,2.5,27.6,775.61,15,51.71,0.263,8.4,2,No,Online,6,No
+CUST10245,34,Female,South,38584.04,,No,Ignored,9,1,8,10.1,58.7,855.39,9,95.04,0.672,7.1,0,Yes,Online,47,No
+CUST10499,21,Female,South,53975.25,2.1,No,Unsubscribed,2,0,8,1.8,8.8,902.59,12,75.22,0.16,7,1,Yes,Online,1,Yes
+CUST10193,23,Female,East,50520.95,8.4,Yes,Ignored,6,3,5,1.9,1.4,965.21,6,160.87,0.383,4.3,3,No,Online,28,No
+CUST10466,45,FEMALE,South,60972.8,,No,Ignored,9,3,15,0.5,7.5,967.26,11,87.93,0.052,4.1,0,No,In-Store,56,No
+CUST10144,41,Male,West,34533.04,0,No,Responded,6,2,7,8.7,59.4,263.32,10,26.33,0.246,7.8,2,Yes,Online,51,No
+CUST10478,75,Female,South,110204.57,4.9,No,Responded,5,1,10,0.2,76.1,1229.1,7,175.59,0.485,5.4,1,Yes,In-Store,33,Yes
+CUST10593,42,Female,East,54379.55,0.7,No,Responded,9,3,8,10.2,66,1734.55,5,346.91,0.139,8.7,1,No,Online,3,No
+CUST10640,34,Female,North,18563.6,5.5,No,Ignored,8,3,8,5.8,25,859.64,8,107.46,0.404,7.1,3,Yes,Online,23,Yes
+CUST10214,34,Male,South,93983.27,1.4,Yes,Ignored,10,5,6,0.7,57.3,413.94,9,45.99,0.106,4.9,3,Yes,Online,44,No
+CUST10799,38,Male,East,81810.29,3.7,Yes,Responded,6,1,7,3.6,48,872.86,8,109.11,0.527,6.2,3,No,Online,74,No
+CUST11023,64,Female,Central,28038.6,7.5,No,Responded,7,1,12,5.2,91.9,603.63,6,100.6,,7.8,1,No,Mobile App,2,No
+CUST10703,21,Female,West,59866.22,3.5,Yes,Ignored,5,1,7,1.7,48.6,1176.14,12,98.01,0.113,7.3,0,No,Mobile App,12,No
+CUST10813,40,Male,West,50451.19,0.5,No,Ignored,8,2,8,3.7,31.9,753.48,6,125.58,0.241,7.8,1,No,In-Store,55,Yes
+CUST10570,38,Male,West,25132.73,,No,Ignored,5,2,9,4.5,48.6,1145.73,11,104.16,0.017,5.9,0,No,In-Store,20,No
+CUST10504,30,Male,East,78868,1.7,Yes,Responded,10,1,12,4.5,6.9,1554.36,10,155.44,0.216,7.8,1,No,Mobile App,4,No
+CUST10960,46,Female,South,38543.58,8.1,Yes,Ignored,5,1,8,19.5,,653.56,4,163.39,0.675,8.2,1,Yes,Mobile App,41,No
+CUST10153,41,Male,West,70155.44,2.6,No,Ignored,4,2,9,3.4,22.4,19411.96592,10,182.61,0.118,7.4,0,No,Online,27,Yes
+CUST10467,47,Male,North,57287.97,4.7,Yes,Ignored,3,1,6,4.1,11.5,590.28,12,49.19,0.526,5.1,2,No,In-Store,0,No
+CUST10700,32,Female,East,60692.66,0.7,Yes,Unsubscribed,8,1,7,3.5,75.9,546.35,9,60.71,,6.7,4,Yes,Online,18,Yes
+CUST10253,50,Female,West,63772.98,0.2,No,Unsubscribed,6,1,5,4.5,6.1,848.45,11,77.13,0.255,,2,No,In-Store,113,Yes
+CUST10644,35,Female,Central,53415.32,1.3,No,Responded,11,1,12,1.7,49.9,686.35,10,68.64,0.114,3.6,2,No,In-Store,24,Yes
+CUST10002,46,Other,South,69723.08,1.5,No,Unsubscribed,4,1,12,6.6,53.9,556.68,8,69.58,0.432,5.2,2,No,In-Store,8,Yes
+CUST10042,37,Female,West,,0.4,No,Unsubscribed,9,2,5,3.8,82.9,2542.97,7,363.28,0.379,7.8,0,No,In-Store,24,Yes
+CUST10858,31,Male,West,37670.9,3.1,Yes,Ignored,5,1,7,3.1,10.1,1062.68,12,88.56,0.073,6.8,0,No,Online,16,No
+CUST10401,31,Male,South,41536.8,0.7,No,Ignored,5,1,13,0.7,69.7,752.94,10,75.29,0.073,6.9,2,Yes,In-Store,121,Yes
+CUST10630,18,Female,North,60367.89,1.6,Yes,Ignored,3,1,9,1.2,86.5,1146.77,11,104.25,0.159,7.1,0,Yes,Online,61,No
+CUST10588,48,Male,Central,63529.97,0.2,No,Unsubscribed,10,4,9,3.7,4.3,1897.75,3,632.58,0.177,6.1,2,No,Online,15,Yes
+CUST11050,30,Male,North,45717.53,1.9,Yes,Responded,6,1,6,1.3,35.6,1978.57,9,219.84,0.139,2.2,1,Yes,Online,206,Yes
+CUST10369,29,Female,North,52192.93,,No,Responded,11,4,5,6.5,42.3,1083.78,5,216.76,0.092,6.5,3,Yes,Online,50,Yes
+CUST10695,34,Other,Central,85937.05,6.6,No,Unsubscribed,6,2,7,1.9,49.4,2136.31,3,712.1,0.105,3.3,0,No,In-Store,6,No
+CUST10065,54,Male,North,29361.41,1.5,Yes,Responded,4,0,9,1.2,65.8,1217.09,9,135.23,0.204,7.7,1,Yes,Online,11,No
+CUST10757,40,Male,East,63740.41,1.6,Yes,Ignored,9,3,11,0.6,38.4,1411.59,14,100.83,0.342,,1,No,Online,37,No
+CUST11182,49,Female,Central,32843.06,1.3,No,Ignored,3,0,10,2,41.1,1193.27,7,170.47,0.345,5.3,2,Yes,Online,45,Yes
+CUST10143,40,Female,West,49055.16,0.2,Yes,Unsubscribed,8,0,9,3.6,86.1,607.42,9,67.49,0.341,8.6,2,Yes,In-Store,65,Yes
+CUST11021,31,Female,North,39165.13,6.4,Yes,Responded,5,1,9,1.8,85,226.29,7,32.33,0.599,7.9,0,No,In-Store,6,Yes
+CUST10685,47,Female,South,67145.53,2.8,Yes,Ignored,5,3,14,1.3,39.2,1619.11,7,231.3,0.325,5.3,1,No,Online,71,Yes
+CUST10213,46,Female,South,54433.44,0.8,Yes,Unsubscribed,5,1,10,1.9,75,730.95,11,66.45,0.059,8.3,1,No,Online,82,Yes
+CUST11159,34,Male,South,,1.4,Yes,Ignored,5,1,9,2.3,74.9,1825.48,2,912.74,0.165,5.6,1,No,Mobile App,56,Yes
+CUST10637,39,Female,Central,78086.47,8.6,No,Responded,10,3,7,4.3,53.1,1896.56,11,172.41,0.36,7,2,Yes,Online,15,No
+CUST10910,34,Female,East,58574.07,8.7,No,Unsubscribed,7,1,12,,46.9,1107.37,8,138.42,0.173,,2,No,Online,145,Yes
+CUST11002,39,Male,Central,29075.86,5.1,No,Unsubscribed,7,2,7,1.1,80.1,876.11,8,109.51,0.208,1,1,No,Online,15,Yes
+CUST10619,41,Male,South,92442.87,1.2,Yes,Responded,11,3,8,3,99.9,1485.73,14,106.12,0.525,7.8,1,No,In-Store,48,No
+CUST10107,40,Female,East,129350.5,1.2,Yes,Responded,2,1,4,5.3,63.5,1018.1,9,113.12,0.098,,1,No,Online,47,No
+CUST10812,55,Male,South,38734,1.5,Yes,Ignored,8,1,10,2.8,,442.53,3,147.51,0.497,7.8,2,Yes,Online,72,No
+CUST10958,45,Female,West,73650.74,7.7,No,Unsubscribed,9,2,9,9.4,4.6,1252.28,10,125.23,0.269,6.9,1,No,Online,62,Yes
+CUST10154,42,Male,North,104151.41,12.9,No,Ignored,8,2,6,0.6,55.2,713.14,5,142.63,0.036,8.4,2,Yes,Online,10,No
+CUST10129,32,Male,North,41974.02,1.3,Yes,Unsubscribed,6,1,4,5.4,41,659.95,10,66,0.273,7.5,2,No,Online,117,Yes
+CUST10680,47,Male,Central,86998.89,4.3,Yes,Responded,2,0,13,6.6,61.8,660.02,5,132,0.254,8.3,0,No,Mobile App,0,No
+CUST10397,54,Female,South,,3.2,Yes,Unsubscribed,5,1,7,,70.1,442.3,12,36.86,0.178,8,2,No,In-Store,77,No
+CUST10603,54,Male,South,32226.2,11.6,Yes,Ignored,9,3,7,6.6,76.8,719.49,5,143.9,0.555,7.7,2,Yes,Online,77,No
+CUST10821,55,Female,Central,44909.49,5.8,Yes,Responded,8,2,4,14.6,76.4,1006.58,10,100.66,0.093,7.2,1,Yes,In-Store,4,No
+CUST10450,37,Male,North,68864.86,4.1,No,Ignored,5,2,7,3.6,67.5,1322.02,12,110.17,0.127,9.5,3,No,Online,50,No
+CUST10481,27,Female,South,122124.03,3.4,No,Unsubscribed,1,0,10,4.3,11.9,729.65,9,81.07,0.2,7.4,1,Yes,Online,72,Yes
+CUST10927,43,Female,South,63550.7,16.2,Yes,Unsubscribed,3,1,5,4.3,9.4,593.32,11,53.94,0.233,6.9,1,No,Mobile App,1,Yes
+CUST10606,29,Male,North,69808.81,2,No,Ignored,5,2,11,1.6,92.9,479.79,9,53.31,0.244,7,0,No,In-Store,27,No
+CUST10770,46,Male,North,66422.34,1.1,Yes,Ignored,3,1,9,0.5,61.9,557.61,10,55.76,0.031,6.6,3,Yes,Online,38,No
+CUST10973,30,Male,West,44549.34,1.4,No,Responded,7,3,9,3.1,87.8,729.22,7,104.17,0.132,3.4,1,No,Online,63,Yes
+CUST10984,38,Male,South,85914.12,0.3,Yes,Unsubscribed,8,1,2,13.4,16.6,1055.92,6,175.99,0.258,7,1,No,Online,18,No
+CUST10259,47,Male,North,28715.83,3.7,No,Responded,2,0,10,5.4,68,408.99,12,34.08,0.124,10,2,Yes,Mobile App,18,No
+CUST10959,43,Male,South,44711.99,2,Yes,Unsubscribed,6,1,8,9.3,17.1,578.72,8,72.34,0.09,4.3,1,No,Online,18,Yes
+CUST11000,55,Male,South,43611.06,7.2,No,Ignored,9,2,8,0,31.3,1447.76,7,206.82,,6.3,1,Yes,Online,88,Yes
+CUST10590,39,Male,East,44483.42,4.5,No,Ignored,3,2,9,2.8,72.2,1182.08,5,236.42,0.258,9.1,1,Yes,Online,1,No
+CUST10025,39,Female,South,21756.94,5.7,Yes,Ignored,8,2,6,0.3,71.8,1349.63,12,112.47,0.104,5.3,4,Yes,Online,79,No
+CUST10684,23,Female,West,57240.22,2.4,No,Ignored,4,1,7,5.5,27.2,1952.23,2,976.12,0.053,7.7,1,No,In-Store,60,Yes
+CUST10167,61,Other,West,43306.42,0.6,Yes,Ignored,9,2,5,4.1,68.1,1907.87,7,272.55,0.224,6.2,2,Yes,Online,4,No
+CUST11154,58,Male,Central,61861.7,1.9,Yes,Unsubscribed,6,1,9,15.2,29.3,897.83,13,69.06,0.08,7.6,1,No,Mobile App,109,Yes
+CUST11066,22,Male,South,,0.3,Yes,Responded,5,0,12,2,66.5,1425.56,13,109.66,0.285,6.6,1,No,In-Store,21,No
+CUST10582,46,Male,East,39496.92,6.7,No,Responded,9,1,6,10.5,44.2,376.22,8,47.03,0.199,7.7,0,No,Online,23,No
+CUST10587,28,Female,West,47573.53,2.8,Yes,Ignored,3,1,9,0,65,561.23,9,62.36,0.34,7.5,0,Yes,Online,133,Yes
+CUST10541,24,Male,North,101484.72,5.5,Yes,Ignored,13,5,7,3,29.4,1700.71,6,283.45,0.364,4,2,No,In-Store,14,No
+CUST10403,39,Male,South,108913.72,2,Yes,Ignored,7,5,5,12.9,31.2,1860.39,10,186.04,0.545,7.1,3,Yes,Online,136,Yes
+CUST10262,18,Female,East,88512.19,1.4,No,Ignored,3,1,6,9.5,56,421.35,13,32.41,0.329,7.2,1,No,Online,59,No
+CUST10939,31,Female,South,,3.4,No,Ignored,2,1,7,15.2,,1574.82,17,92.64,0.121,4.2,1,Yes,In-Store,6,No
+CUST10713,43,Female,North,52817.38,0.7,No,Ignored,6,2,7,8.2,32,528.84,12,44.07,0.038,6.2,2,Yes,Online,49,No
+CUST10716,39,Female,North,81921.97,4.1,Yes,Ignored,3,1,5,0.9,54.9,1007.09,9,111.9,0.07,6.8,1,No,Online,56,No
+CUST10501,61,Male,East,43623.35,1,Yes,Ignored,4,0,10,0.1,52.1,895.94,10,89.59,0.162,5.1,0,No,In-Store,10,No
+CUST11080,34,Female,West,77105.35,1.3,Yes,Unsubscribed,7,1,11,4.1,31.5,471.68,9,52.41,0.307,4.2,3,No,Online,77,Yes
+CUST10518,39,Male,East,66826.96,3.1,No,Responded,8,2,11,2,13.5,862.87,8,107.86,0.328,7.9,0,No,Online,50,Yes
+CUST10269,40,Female,South,50307.7,5.1,No,Unsubscribed,3,2,15,6,19.2,1493.36,6,248.89,0.159,6,1,Yes,In-Store,75,Yes
+CUST10574,48,Other,West,38783.38,0.4,no,Ignored,3,1,13,0.8,8.9,756.26,7,108.04,0.124,7.6,2,No,In-Store,94,No
+CUST10578,20,Female,West,69382.2,3.9,Yes,Ignored,6,3,5,1.3,68.7,2140.44,9,237.83,0.53,4.6,1,Yes,In-Store,91,Yes
+CUST10611,37,Female,West,20306.54,3.3,No,Ignored,4,1,5,3.9,19.7,247.37,7,35.34,0.391,8.8,1,No,In-Store,24,No
+CUST10668,18,Female,South,47720.79,0.2,Yes,Ignored,3,1,7,,88.9,564.5,12,47.04,0.344,5.1,3,No,In-Store,11,Yes
+CUST10571,58,Female,West,,2,Yes,Responded,5,1,4,12,19.3,703.94,7,100.56,,,0,No,Online,17,No
+CUST10725,36,Female,West,,2.7,No,Responded,5,0,6,5,16.2,572.66,8,71.58,,5.8,1,No,Online,67,Yes
+CUST10300,28,Female,South,47175.63,3.8,Yes,Ignored,6,2,10,0.5,6.1,794.93,8,99.37,0.397,6.2,0,Yes,Mobile App,21,No
+CUST10860,40,Other,Central,44649.11,3.6,Yes,Ignored,2,1,9,15.9,35.8,336.9,7,48.13,0.449,7,3,No,In-Store,139,No
+CUST10343,32,Male,Central,39441.33,5.7,No,Ignored,4,0,8,10.4,46.6,1340.12,12,111.68,,3.2,1,Yes,In-Store,1,Yes
+CUST10594,50,Female,East,66899.66,3.9,Yes,Responded,7,3,10,0.1,93.1,215.42,6,35.9,0.222,7.4,1,No,Online,37,No
+CUST10225,51,OTHER,West,30748.73,1.7,No,Ignored,5,0,10,0.9,53.9,1521.15,11,138.29,0.319,,4,No,Mobile App,17,No
+CUST11145,38,Male,South,,2,Yes,Ignored,4,1,9,3.8,42.6,287.03,7,41,0.213,7.2,1,Yes,Mobile App,82,Yes
+CUST10483,40,Female,East,18813.59,0.4,Yes,Unsubscribed,6,3,7,6.8,50.5,780.53,9,86.73,0.443,7.9,1,Yes,Online,71,Yes
+CUST11143,40,Female,East,,0.2,Yes,Ignored,6,1,7,3.7,82,1233.75,11,112.16,0.283,10,0,No,Mobile App,22,No
+CUST10666,35,Female,West,86333.5,1.5,Yes,Ignored,12,7,7,5.9,59.3,917.78,12,76.48,0.228,6.7,0,Yes,Online,10,No
+CUST10301,31,Female,South,39167.06,2.2,Yes,Ignored,5,1,5,7.8,36.8,372.13,5,74.43,0.348,8.9,0,No,Online,80,No
+CUST10177,55,Male,Central,63935.94,0.8,Yes,Unsubscribed,7,1,8,2.2,81.5,671.3,8,83.91,0.208,6,0,No,Online,11,Yes
+CUST10319,36,Male,Central,88125.45,2.2,No,Responded,6,1,10,0.9,25.6,1053.08,13,81.01,0.292,7.7,0,No,Online,45,No
+CUST11157,65,Female,East,19070.81,6.8,Yes,Ignored,9,3,11,7.5,21.7,824.82,5,164.96,0.152,7.6,5,Yes,Online,4,No
+CUST10299,46,Male,South,17457.11,1.6,No,Ignored,9,5,6,0.6,,1280.81,8,160.1,,9.7,1,Yes,Mobile App,1,Yes
+CUST11102,63,Male,South,20819.31,2.5,Yes,Ignored,3,0,7,0.2,55.9,937.05,9,104.12,0.053,9.6,3,Yes,Online,24,No
+CUST10236,18,Female,East,31844.41,1.1,No,Ignored,7,1,9,3.9,73.5,1224.27,16,76.52,0.313,7.9,0,Yes,Mobile App,137,No
+CUST11090,37,Other,Central,30661.14,7.8,Yes,Unsubscribed,6,1,5,17.4,29.3,885.52,11,80.5,0.361,6.3,1,No,In-Store,2,Yes
+CUST10796,38,Female,Central,72553.89,1.6,Yes,Ignored,6,2,8,1.1,98.8,598.25,7,85.46,0.58,5.6,0,No,In-Store,25,No
+CUST10786,48,Male,South,42896.83,7.2,Yes,Unsubscribed,4,1,9,1.9,59.5,744.56,10,74.46,,7.2,2,No,Mobile App,42,No
+CUST10923,30,Other,North,74458.04,6.4,Yes,Ignored,5,3,12,0,63.6,366.63,9,40.74,0.397,4.8,0,Yes,Online,73,Yes
+CUST10500,49,Female,Central,42288.97,1.1,Yes,Ignored,4,1,6,6.4,49.3,1035.74,12,86.31,0.173,10,2,Yes,Online,8,No
+CUST10480,36,Male,North,17509.35,2,Yes,Ignored,10,5,9,3.5,41.5,835.8,13,64.29,0.055,5,3,Yes,Online,48,No
+CUST10806,41,Female,North,81132.78,1.8,Yes,Ignored,5,0,12,5.4,1.4,616.41,9,68.49,,7.1,0,No,Online,83,No
+CUST10304,38,Female,South,52395.37,0.2,Yes,Responded,5,2,9,2.9,50.1,1908.3,7,272.61,0.491,7.6,3,Yes,Online,12,No
+CUST10643,20,Female,Central,18239.36,2.6,No,Unsubscribed,4,2,8,1.4,13.2,518.63,11,47.15,,5.3,2,Yes,Mobile App,83,No
+CUST10307,31,MALE,Central,81793.3,2,Yes,Responded,5,0,4,4,6.4,1109.08,8,138.64,0.3,6.4,2,No,Online,23,No
+CUST10030,31,Female,South,33830.21,5.8,Yes,Unsubscribed,3,1,14,6,41,942.78,4,235.7,,5,1,Yes,In-Store,78,No
+CUST10003,56,Female,West,47222.12,5.8,Yes,Ignored,2,0,6,0.2,75.7,2522.3,4,630.58,0.24,6.8,7,No,In-Store,24,No
+CUST10542,44,Female,North,94494.18,2.1,Yes,Ignored,6,1,18,0.6,67.7,1088.63,13,83.74,0.146,4.4,0,Yes,Online,91,No
+CUST10224,32,Female,West,42231.85,9.3,Yes,Ignored,3,2,8,4,21.4,706.53,9,78.5,0.193,3.6,1,Yes,Online,108,Yes
+CUST10136,29,MALE,North,,2,Yes,Unsubscribed,4,1,8,3.9,10.7,1479.46,16,92.47,0.319,6.9,1,No,Online,27,Yes
+CUST10172,37,Male,South,68985.79,8.6,No,Ignored,7,1,7,0.3,15,1040.02,4,260,0.341,7.1,0,No,Online,2,Yes
+CUST10819,51,Female,West,51260.1,11.4,Yes,Ignored,11,1,4,5.3,77.5,1195.34,7,170.76,0.294,4.7,1,No,Online,3,No
+CUST10547,36,Female,North,38139.39,3.3,Yes,Unsubscribed,5,3,4,1.9,68.7,818.25,13,62.94,0.33,4.9,0,No,Online,12,Yes
+CUST10077,34,Female,West,39491.83,18.3,Yes,Ignored,10,1,4,0.4,11.9,668.7,9,74.3,0.239,7.9,0,No,In-Store,115,No
+CUST10022,39,Female,North,41703.12,5.5,Yes,Ignored,15,4,7,0.8,88.6,1069.48,12,89.12,0.2,1,2,No,In-Store,2,No
+CUST11079,48,Female,East,55430.73,4.7,No,Ignored,6,3,11,9.8,63.2,1246.08,12,103.84,0.166,6.4,1,Yes,Online,4,No
+CUST11186,26,Female,South,,2.4,Yes,Unsubscribed,3,1,11,2.8,51.1,885.42,11,80.49,0.264,7.2,2,Yes,In-Store,3,Yes
+CUST10430,24,Female,West,72500.21,0.9,Yes,Unsubscribed,8,1,2,14.7,77.3,590.69,13,45.44,0.538,5,2,Yes,In-Store,3,Yes
+CUST11007,46,Other,North,64291.35,3,Yes,Responded,7,3,10,10.6,27.9,1127.17,6,187.86,0.487,5.5,2,Yes,Online,9,No
+CUST11067,52,Male,East,56376.96,3.5,No,Responded,1,0,9,5.2,,1124.17,10,112.42,0.234,6.7,0,No,Mobile App,19,Yes
+CUST10586,32,Female,Central,64340.76,1.4,No,Ignored,2,1,3,9.4,0.1,711.7,11,64.7,0.201,8.4,2,No,Online,41,No
+CUST10616,39,Female,Central,64839.05,0.8,No,Ignored,7,5,10,0.3,98,726.44,11,66.04,0.192,6,0,Yes,Online,0,No
+CUST11094,47,Female,East,57077.13,1.7,Yes,Ignored,13,3,11,,70.9,739.43,14,52.82,0.195,3.8,1,No,Online,178,Yes
+CUST10880,68,Male,West,95890.52,6.2,Yes,Ignored,4,1,9,3.9,26.1,890.22,10,89.02,0.144,3.3,1,No,In-Store,29,Yes
+CUST10879,52,Other,Central,,1,Yes,Responded,7,4,5,,6.9,1169.5,10,116.95,0.05,,1,Yes,Online,52,Yes
+CUST10956,42,Male,Central,,2.5,No,Ignored,7,1,8,2.5,23.9,548.81,11,49.89,0.474,6.9,2,No,In-Store,3,No
+CUST10566,18,Female,North,54562.85,1.4,No,Responded,7,3,7,2.9,0.5,920.96,8,115.12,0.124,7.4,2,No,In-Store,23,No
+CUST10140,41,Female,West,59466.77,1.4,No,Ignored,5,0,8,1.1,98.9,1953.04,8,244.13,0.387,6.2,2,No,Online,28,No
+CUST10420,63,Male,West,25776.15,1.3,Yes,Responded,4,1,9,,74.9,305.07,12,25.42,0.445,8.8,1,No,Online,33,No
+CUST10552,52,Female,South,91271.71,10.2,Yes,Ignored,6,2,5,6.7,7.7,509.32,6,84.89,0.733,8.1,3,No,In-Store,42,No
+CUST10476,45,Male,North,102520.95,9.5,No,Ignored,5,1,8,0.4,21.1,614.59,7,87.8,0.189,5.8,2,No,Online,4,Yes
+CUST10678,49,Male,East,48169.6,2.1,No,Ignored,3,1,7,0.6,54.5,141.02,8,17.63,0.448,9.8,1,No,Online,77,No
+CUST10969,21,Female,North,70924.53,3.4,Yes,Responded,5,2,7,12,7,490.71,12,40.89,0.504,7.2,1,No,Online,99,No
+CUST11046,46,Male,North,53076.39,0.3,Yes,Responded,5,0,9,2.8,58,925.32,15,61.69,0.336,6.9,0,No,Online,52,No
+CUST10673,34,Female,East,75585.03,1.8,No,Responded,4,1,8,2.1,63.7,1393.98,9,154.89,0.314,,1,No,Mobile App,21,No
+CUST10851,31,Female,West,27099.22,0.2,Yes,Ignored,6,4,7,1.6,74.7,1214.66,12,101.22,0.356,7.8,1,No,Online,50,Yes
+CUST10764,52,Female,Central,81273.38,0.8,Yes,Responded,5,1,12,6.9,10.4,1254.69,8,156.84,0.511,7,2,No,In-Store,46,No
+CUST10998,31,Male,West,44089.42,3.6,Yes,Ignored,8,1,12,20.2,66.3,1220.88,5,244.18,0.329,7.7,1,Yes,Online,108,No
+CUST11027,39,Female,Central,27154.17,4,Yes,Ignored,7,3,7,10.3,49.1,423.98,6,70.66,0.341,7.3,1,No,Online,3,Yes
+CUST10776,29,Female,North,35079.44,1.5,Yes,Responded,8,3,7,1,51.8,1089.95,6,181.66,0.2,3.7,4,Yes,Online,62,No
+CUST10018,27,Female,East,9390.47,1.6,Yes,Ignored,7,1,5,11.5,91.7,976.94,10,97.69,0.58,4.3,0,Yes,In-Store,17,Yes
+CUST10333,30,Female,Central,23365.76,0.7,Yes,Responded,6,2,7,0.5,57.2,274.14,6,45.69,0.398,7.1,1,No,Online,25,No
+CUST10294,42,Male,North,,10.8,Yes,Ignored,8,3,3,0.9,13.3,1685.87,14,120.42,0.296,7,2,No,In-Store,42,Yes
+CUST10598,33,Male,South,89533.37,0.7,Yes,Responded,3,2,8,2.6,66.8,320.6,11,29.15,0.101,5.5,1,No,Online,124,No
+CUST10512,35,Male,North,50451.76,0.9,Yes,Responded,10,1,11,2.1,72.7,951.61,9,105.73,0.295,4.9,1,No,In-Store,44,Yes
+CUST10978,19,Male,North,179622.52,2.5,No,Responded,3,0,7,2.4,95.8,306.4,9,34.04,0.02,8.4,4,No,Mobile App,65,No
+CUST10447,27,Female,East,49463.32,8.4,Yes,Responded,9,1,9,0.5,64.2,1027.38,14,73.38,,6.6,1,Yes,In-Store,2,No
+CUST11069,42,Male,West,71149.59,0.8,No,Ignored,5,1,2,3.1,32.6,1079.98,7,154.28,0.358,9.5,2,Yes,Online,38,No
+CUST10207,44,FEMALE,West,122635.15,2,Yes,Ignored,4,2,8,7.2,7.9,601.6,9,66.84,0.091,9.1,3,Yes,Online,33,No
+CUST10495,44,Male,West,44272.19,4.2,Yes,Ignored,14,5,10,3.6,61.8,411.2,10,41.12,0.056,6.9,2,No,Online,8,No
+CUST10234,64,Male,West,99798.42,,Yes,Ignored,12,7,6,25.2,24.5,552.65,13,42.51,0.176,4.6,1,Yes,In-Store,6,No
+CUST10605,61,Female,East,41282.59,0.1,Yes,Responded,6,1,9,0,60.5,2517.17,10,251.72,0.063,8.7,1,No,Online,31,No
+CUST10861,20,Male,Central,40958.68,1.1,Yes,Unsubscribed,10,4,14,0.2,44.5,814.4,13,62.65,0.289,6.8,3,No,Online,111,Yes
+CUST10718,34,Female,South,12996.91,0.3,No,Responded,6,1,9,4.6,75.1,980.05,7,140.01,0.807,4.8,3,No,In-Store,23,No
+CUST10099,35,Female,South,111667.51,0.9,Yes,Responded,12,8,5,5.9,39.5,934.8,7,133.54,0.213,6.1,1,No,In-Store,123,Yes
+CUST10254,20,Male,South,37410.87,0.8,Yes,Ignored,8,4,10,0.9,62.7,1907.79,12,158.98,0.135,8.9,0,Yes,Online,14,No
+CUST10729,29,Female,East,76045.08,7.9,Yes,Ignored,7,2,4,2.3,58.5,814.4,7,116.34,0.416,5.1,4,No,In-Store,26,No
+CUST10113,68,Female,South,89766.69,2.3,Yes,Ignored,9,1,3,0.9,21.4,2114.88,15,140.99,0.36,6.4,0,Yes,Online,15,No
+CUST10648,35,Male,West,85202.96,0.1,No,Responded,5,2,12,6.6,0.4,1189.62,14,84.97,0.489,,0,No,Online,23,No
+CUST10686,35,Female,West,76682.92,0.6,Yes,Responded,5,0,5,16,1.2,531.67,3,177.22,0.225,7.4,0,No,In-Store,76,No
+CUST10233,30,Female,South,102664.39,0.8,No,Ignored,9,4,4,0.4,26.3,901.66,10,90.17,0.182,8.2,2,No,In-Store,4,Yes
+CUST10102,34,Male,West,35035.25,0.4,No,Responded,7,2,10,0.7,25.3,642.38,2,321.19,0.437,4.6,1,Yes,Online,46,Yes
+CUST11074,50,Male,West,69960.01,4.7,No,Unsubscribed,6,1,5,6.5,39.6,572.81,9,63.65,0.145,8.2,0,No,Mobile App,85,Yes
+CUST10491,56,Male,East,56468.35,3,Yes,Ignored,7,1,8,0.5,24.4,758.88,4,189.72,0.732,6,2,Yes,Online,25,No
+CUST10463,41,Male,West,42256.21,2.2,Yes,Unsubscribed,5,1,8,10.8,12.2,431.22,11,39.2,0.322,10,1,No,Online,11,No
+CUST10745,29,Female,Central,118922.81,6.1,Yes,Ignored,9,4,11,0.3,3.4,1142.94,10,114.29,0.064,4.3,3,No,Mobile App,3,No
+CUST10353,36,Male,West,58724.45,5.9,Yes,Ignored,8,3,8,2.2,5.9,806.51,13,62.04,,8.2,2,No,Online,92,Yes
+CUST10376,48,Female,West,45974.92,9.4,Yes,Ignored,8,4,8,4.3,58,860.48,8,107.56,,4.2,2,Yes,Mobile App,12,No
+CUST10287,45,Female,South,77591.54,1.6,Yes,Ignored,8,2,10,0.1,11.9,1801.02,11,163.73,0.344,3,0,No,Online,60,Yes
+CUST10415,29,Male,East,64698.12,2.3,Yes,Ignored,10,6,10,1.2,6.1,1187.67,9,131.96,,4,1,No,In-Store,27,No
+CUST10502,21,Male,East,53747.31,,Yes,Ignored,5,1,5,1.1,80.5,1146.6,9,127.4,0.563,7.8,0,No,Mobile App,14,No
+CUST10350,42,Male,North,64972,1.5,Yes,Ignored,9,2,8,1.1,,1117.74,11,101.61,0.064,7.6,3,Yes,Online,1,No
+CUST11174,29,Female,West,63886.38,0.2,No,Ignored,8,2,5,1.3,95.7,823.71,10,82.37,0.089,6.1,1,No,Mobile App,24,No
+CUST10525,18,FEMALE,East,34025.48,0.7,No,Ignored,3,1,6,0,77.5,883.47,8,110.43,0.448,8.4,0,No,In-Store,128,No
+CUST10171,28,Male,South,100104.93,12,No,Ignored,4,1,0,3.5,32.8,580.52,7,82.93,0.551,4.8,2,No,Mobile App,4,No
+CUST10428,51,Male,West,51901.53,6.3,Yes,Ignored,10,2,4,1.7,23.3,1814.57,10,181.46,0.376,8.2,1,No,Online,10,No
+CUST11120,51,Female,West,27293.6,0.1,No,Responded,10,1,5,,84.2,680.08,8,85.01,0.201,,1,No,In-Store,92,No
+CUST10057,34,Female,Central,34096.63,0.3,Yes,Unsubscribed,6,2,3,3.7,81.2,465.98,11,42.36,0.352,,0,Yes,In-Store,58,Yes
+CUST10050,42,Male,Central,111291.38,0.9,Yes,Unsubscribed,4,2,8,4.9,1.3,593.69,6,98.95,0.166,7.9,5,No,In-Store,91,Yes
+CUST10152,30,Other,North,54061.34,2.3,Yes,Responded,7,2,7,5.4,12.9,393.3,7,56.19,0.69,,1,Yes,Online,52,Yes
+CUST10257,30,FEMALE,West,29904.57,0.1,Yes,Unsubscribed,3,0,5,3.8,10.5,992.18,12,82.68,0.349,5.9,1,Yes,In-Store,18,Yes
+CUST10131,39,FEMALE,North,68736.53,2.6,Yes,Ignored,6,2,12,2.8,25.7,1182.65,6,197.11,0.173,3.8,1,No,Online,13,No
+CUST11064,34,Male,South,138198.46,0,Yes,Ignored,3,1,4,1.4,66.4,404.62,22,18.39,0.17,4.5,3,Yes,In-Store,5,Yes
+CUST10016,26,Female,North,53179.93,4.1,Yes,Ignored,7,4,10,,37.8,762.4,8,95.3,0.096,9.6,0,No,Online,22,No
+CUST10968,38,Male,South,69368.27,1.4,Yes,Unsubscribed,11,2,16,9.9,16.4,1217.32,7,173.9,,7.1,3,No,In-Store,56,Yes
+CUST10332,39,Female,West,53288.41,0.1,Yes,Ignored,8,4,5,2.7,9.7,639.7,8,79.96,0.554,7.8,2,No,Online,93,No
+CUST10865,33,Male,West,69395.17,2.4,Yes,Responded,7,2,5,3.8,26.1,300.72,10,30.07,,6.6,2,No,In-Store,62,No
+CUST10719,37,Female,West,,13,No,Responded,5,2,6,2.2,97.6,1521.32,7,217.33,0.056,8.2,0,No,Online,123,Yes
+CUST10667,56,Male,East,60101.17,0.9,Yes,Ignored,5,1,5,16,25.1,965.71,8,120.71,0.179,8,0,No,Mobile App,97,No
+CUST11141,55,Male,South,55718.76,0.1,Yes,Ignored,7,2,5,5.1,97.9,510.63,11,46.42,0.14,9.3,4,Yes,In-Store,24,No
+CUST10950,35,Other,Central,55635.31,12.4,Yes,Responded,10,2,15,5.5,95.9,593.96,6,98.99,0.305,7.2,0,No,In-Store,77,No
+CUST10767,59,Male,Central,34641.32,7.9,No,Responded,7,4,6,1.3,9.4,1246.78,11,113.34,0.142,7.1,3,No,In-Store,22,Yes
+CUST10158,24,Female,Central,53476.52,0.8,No,Ignored,4,1,8,4.2,50.6,728.1,10,72.81,,6.8,0,No,In-Store,27,Yes
+CUST10048,42,Male,North,82734.05,0.3,No,Ignored,9,4,8,4.2,46.2,432.38,6,72.06,0.446,9.9,1,Yes,Online,54,Yes
+CUST11170,47,Female,West,58824.36,1.7,No,Ignored,6,2,9,3.3,21.4,1180.76,12,98.4,0.341,7.2,0,No,In-Store,136,Yes
+CUST10874,38,Female,North,34805.59,3.1,Yes,Responded,11,2,9,0,81.6,1034.48,7,147.78,0.349,7.6,0,Yes,In-Store,8,No
+CUST10020,56,Female,East,29657.31,2.7,Yes,Responded,4,0,9,2.5,57.9,831.27,4,207.82,0.083,8.6,1,Yes,In-Store,85,No
+CUST11128,37,Male,North,66807.34,9.7,Yes,Ignored,7,2,4,17.8,,1295.71,13,99.67,0.328,6.2,2,No,Online,66,No
+CUST10769,60,Male,South,50632.01,0.9,Yes,Responded,4,2,6,0.6,27.2,594.78,5,118.96,,6.5,2,No,Mobile App,43,No
+CUST11097,18,Male,West,59597.99,3.4,No,Responded,6,3,9,0.8,71.1,537.04,13,41.31,0.107,7.7,0,No,In-Store,51,Yes
+CUST10515,47,Male,North,83816,5.2,No,Responded,3,0,3,,86.2,912.95,5,182.59,0.439,6.7,2,No,Mobile App,33,Yes
+CUST11055,30,Male,Central,52410.67,4.8,No,Ignored,4,2,5,0.1,66.7,553.89,9,61.54,0.181,6.8,2,Yes,Mobile App,5,No
+CUST11089,36,Female,North,108865.16,7.5,No,Responded,6,4,7,0.7,79.1,1876.72,8,234.59,0.498,6.1,2,No,Online,4,No
+CUST10917,40,Male,South,75287.25,3.9,Yes,Ignored,4,0,9,0.8,58.4,928.15,7,132.59,0.239,8.7,0,Yes,Mobile App,4,No
+CUST11166,55,Male,Central,59964.38,0.6,Yes,Ignored,10,1,6,0.2,9,800.37,4,200.09,,,1,No,Mobile App,89,Yes
+CUST10338,43,Male,South,37157.46,2.7,Yes,Responded,9,2,8,4.2,46.7,869.92,7,124.27,,6.5,3,Yes,Online,8,No
+CUST11034,32,Female,North,48708.4,3.6,No,Unsubscribed,6,2,6,1.8,66,1230.6,11,111.87,,3.9,1,Yes,Online,23,Yes
+CUST10754,27,Female,Central,44875.65,1.7,Yes,Ignored,3,1,6,8.5,94.9,614.07,10,61.41,0.252,9.8,2,No,Online,29,No
+CUST10389,31,Female,West,46650.9,1,No,Unsubscribed,3,2,4,3.8,88.2,1221.43,4,305.36,0.253,8.7,0,Yes,Online,16,No
+CUST10437,21,Male,East,109156.16,0.2,Yes,Ignored,5,1,10,2.2,6.6,770.62,10,77.06,0.215,8.4,0,No,Online,2,No
+CUST11045,49,Female,West,143715.48,2.1,Yes,Ignored,9,1,1,,2.6,750.53,6,125.09,0.165,,1,No,In-Store,4,No
+CUST10365,33,Male,North,21492.46,3.1,Yes,Responded,10,6,7,6.4,,405.31,13,31.18,0.127,7.2,1,Yes,Online,40,No
+CUST10600,47,Female,South,8619.24,2.3,Yes,Ignored,8,3,12,3.7,16.3,723.67,16,45.23,0.145,8.5,2,No,Online,4,No
+CUST11006,49,Male,South,111148.38,2.6,No,Unsubscribed,7,3,5,1.3,99,2332.14,5,466.43,0.701,10,1,No,Online,3,No
+CUST10023,21,Male,South,68669.28,0.9,Yes,Responded,2,1,7,1.9,,153.02,7,21.86,0.413,6.9,2,No,In-Store,79,Yes
+CUST10787,44,Male,North,70012.21,20,Yes,Ignored,4,2,9,7.7,44.7,590.74,11,53.7,0.339,4.5,0,No,Mobile App,72,No
+CUST10188,28,Male,West,112463.25,3.5,Yes,Responded,4,0,6,7.4,98,980.48,18,54.47,0.319,3.9,0,No,Mobile App,39,Yes
+CUST10997,46,Female,North,46870.4,1.1,No,Ignored,5,0,6,3.2,86.2,800.7,11,72.79,,8,0,No,In-Store,66,No
+CUST11037,20,Female,North,17464.02,0.1,No,Responded,7,2,6,1,52.8,779.66,7,111.38,0.522,4.3,0,No,Online,13,No
+CUST10007,47,Male,South,55031.69,6.9,Yes,Ignored,3,1,14,4.7,33.8,1735.56,9,192.84,0.571,6.2,4,No,Online,2,No
+CUST10870,36,Male,West,42347.13,1.8,Yes,Unsubscribed,4,1,4,2.7,89.9,2898.77,9,322.09,0.095,6.7,3,Yes,In-Store,2,Yes
+CUST10681,24,Male,East,54780.97,9.9,Yes,Unsubscribed,5,1,10,5,21.4,779.71,12,64.98,0.652,5.2,1,Yes,Mobile App,25,Yes
+CUST10979,47,Other,North,99175.55,0.8,No,Responded,5,1,10,4.2,90.9,879.97,3,293.32,0.27,8.8,1,No,Online,88,Yes
+CUST10215,47,Female,Central,36207.69,2.2,Yes,Responded,3,0,4,7.2,48.9,2317.63,5,463.53,0.284,7.2,1,No,Online,128,No
+CUST10109,37,Male,North,54614.22,2.1,No,Ignored,3,1,9,8.2,40.2,1343.88,14,95.99,,6.5,2,Yes,Mobile App,50,No
+CUST10219,39,Female,East,67737.72,1.6,No,Ignored,10,4,11,0.1,78.2,822.12,12,68.51,0.06,7.3,1,No,Mobile App,49,No
+CUST10342,41,Male,South,27819.55,1,Yes,Responded,4,1,5,1,15.9,1312.85,5,262.57,0.062,7.1,1,No,In-Store,8,No
+CUST10802,39,Female,West,65865.01,6,No,Responded,4,0,8,10.6,76.9,842.87,5,168.57,0.113,7.7,2,No,In-Store,39,No
+CUST10203,51,Male,West,75065.88,0.3,Yes,Ignored,5,1,9,2.3,74.9,631.25,11,57.39,0.464,4.3,2,No,In-Store,15,No
+CUST10560,41,Male,South,64360.54,10.3,Yes,Responded,7,2,8,0.7,24,742.99,9,82.55,0.361,,1,No,Online,5,No
+CUST10386,42,Female,North,79757.54,2.4,Yes,Unsubscribed,4,1,8,3.9,67.8,763.73,7,109.1,0.442,,2,No,Online,84,Yes
+CUST10027,43,Male,South,45894.21,4.7,No,Unsubscribed,5,1,8,3.5,73.4,479.02,15,31.93,0.622,7.4,4,Yes,Online,80,Yes
+CUST10230,29,Male,West,,1.4,Yes,Unsubscribed,5,0,9,3.5,18.3,1136.75,8,142.09,0.305,5.2,1,No,Online,22,Yes
+CUST10390,27,Female,East,52853.42,8,Yes,Ignored,7,3,7,4.2,58.5,940.71,12,78.39,0.185,7.6,1,No,Online,46,Yes
+CUST10653,25,Male,North,25666.09,2.7,Yes,Ignored,1,0,9,1.8,89.2,955.02,5,191,0.359,7.3,0,No,Online,21,No
+CUST10627,36,FEMALE,West,53996.41,13.4,No,Ignored,4,3,6,1.5,16.8,920.45,10,92.04,0.161,6.6,4,Yes,Online,26,No
+CUST11052,44,Female,South,77226.22,2.8,Yes,Responded,3,1,7,,67.1,868.38,8,108.55,0.475,6.2,2,Yes,Online,31,No
+CUST10074,18,Female,East,66080.59,3,No,Unsubscribed,3,2,8,22.6,39.9,1593.4,13,122.57,0.136,4.3,2,No,Mobile App,55,Yes
+CUST10046,32,Female,South,34763.08,6.8,Yes,Ignored,9,2,6,2.3,,981.78,14,70.13,0.447,8.4,0,No,Online,4,No
+CUST10196,27,Male,West,85364.72,2.7,No,Ignored,7,4,5,3.9,2.5,488.48,11,44.41,0.508,6.3,3,No,Online,108,Yes
+CUST10522,30,Female,South,68453.64,2.9,Yes,Ignored,11,1,9,1.1,25.5,1350.45,6,225.08,0.256,4.9,1,No,Online,34,No
+CUST10675,29,MALE,North,,2.4,No,Ignored,5,2,14,1.2,,1706.54,14,121.9,0.516,8.7,0,No,In-Store,19,No
+CUST10126,26,Female,West,108180.31,2.2,Yes,Ignored,5,0,8,2.9,19.3,875.43,12,72.95,0.229,7.3,2,Yes,Online,12,Yes
+CUST10822,66,Female,South,32412.47,0.4,Yes,Ignored,6,0,9,11.7,82.5,1176.7,9,130.74,0.159,8.6,1,No,Online,28,No
+CUST10407,36,Female,East,96764.82,,No,Ignored,3,1,8,12,78.3,864.57,5,172.91,0.049,6.7,1,Yes,Online,85,Yes
+CUST10064,48,Female,West,86386.07,9.5,Yes,Ignored,7,2,6,3,33,2091.93,9,232.44,0.155,9.8,1,Yes,Online,7,No
+CUST10638,23,Female,South,48772.13,6.3,Yes,Responded,8,1,3,2.4,91.6,1658.35,8,207.29,0.293,7.7,2,Yes,Online,23,No
+CUST10938,41,Female,Central,,0.7,Yes,Responded,9,4,9,0.1,17.3,1051.69,10,105.17,0.273,7.6,2,No,Mobile App,33,No
+CUST10676,25,Male,West,40876.56,2.5,Yes,Responded,2,1,10,12.2,34.3,566.81,9,62.98,0.571,8,3,No,In-Store,56,No
+CUST10916,45,Female,East,76875.86,,Yes,Unsubscribed,7,1,7,0.7,87.5,945.61,10,94.56,0.349,4.7,2,No,Online,35,Yes
+CUST10372,55,Female,South,42906.16,5.4,No,Responded,4,1,6,2.6,73.7,868.15,3,289.38,0.136,5.9,1,Yes,Online,4,Yes
+CUST10602,48,Male,North,62556.77,1.4,Yes,Ignored,6,1,12,1.2,95.6,1614.72,13,124.21,0.468,5.1,1,No,Online,23,No
+CUST11010,54,Male,South,28764.79,0.3,Yes,Responded,2,0,6,1.2,95.2,763.4,9,84.82,0.145,7.6,1,Yes,In-Store,66,Yes
+CUST10558,43,Female,South,41678.78,6.9,Yes,Ignored,5,1,2,0.4,17.4,1079.8,7,154.26,0.095,,2,Yes,Online,2,No
+CUST10864,31,Female,South,23462.79,0.9,Yes,Responded,4,1,6,0.6,64.8,928.52,10,92.85,0.228,5.9,1,No,In-Store,109,Yes
+CUST10062,25,Female,South,32574.59,2.2,No,Responded,5,2,6,5.1,47.8,1352.24,6,225.37,0.525,7.8,3,No,Online,1,Yes
+CUST10218,32,Female,West,37804.86,,No,Ignored,9,3,4,8.6,64.1,968.48,7,138.35,0.13,2.7,2,Yes,Online,30,No
+CUST10699,36,Female,West,60172.78,3,No,Ignored,6,1,5,1.1,88.9,972.32,7,138.9,0.228,5,1,Yes,Online,118,Yes
+CUST10317,34,Female,South,80702.05,1.3,Yes,Unsubscribed,6,3,14,,58.4,905.87,9,100.65,0.249,5.8,1,Yes,In-Store,42,Yes
+CUST10832,26,Female,East,69664.5,2.7,No,Responded,8,5,6,4,84,1020.63,17,60.04,0.375,7.7,1,No,Online,23,No
+CUST10275,44,Female,South,58937.01,0.2,Yes,Ignored,4,1,7,4.4,67.9,964.84,7,137.83,0.221,7,1,Yes,Online,30,No
+CUST10730,40,Female,East,47626.57,4.1,Yes,Ignored,8,0,9,1.7,21,1277.25,7,182.46,0.318,5.4,4,No,Online,181,Yes
+CUST10805,34,Female,East,42471.6,2.5,Yes,Responded,5,2,11,0.5,84.5,2477.8,7,353.97,0.386,7.3,0,Yes,In-Store,1,No
+CUST10912,41,OTHER,East,46100.69,3.9,Yes,Ignored,7,1,9,3.4,52,1015.29,12,84.61,0.305,6.2,1,No,Mobile App,37,No
+CUST10853,52,Male,East,49799.22,2.5,No,Unsubscribed,6,5,10,5.2,23.9,1504.08,5,300.82,0.416,5,1,No,In-Store,56,Yes
+CUST10881,32,Female,East,34003.74,4.3,Yes,Ignored,6,2,8,6.9,97.3,312.53,10,31.25,0.479,5.5,1,No,Online,3,No
+CUST10693,45,Male,East,21889.81,2.1,No,Responded,6,1,9,5.8,42.4,1205.83,7,172.26,,4.2,1,No,Mobile App,7,No
+CUST10235,46,Female,West,64515.84,3.6,Yes,Ignored,4,1,9,5.6,21.1,804.79,7,114.97,0.299,5.7,0,No,In-Store,2,No
+CUST10679,53,Female,East,123212.6,2.2,Yes,Ignored,6,2,7,0.5,92.9,647.42,10,64.74,0.132,9.5,1,No,Online,64,Yes
+CUST10576,41,Other,West,44513.4,1.2,Yes,Ignored,3,1,9,2.8,76.7,688.12,7,98.3,0.223,5.7,3,No,Online,78,No
+CUST10828,33,Male,North,83987.16,0.3,No,Ignored,4,1,4,0.7,80.9,778.72,4,194.68,0.131,5.8,1,No,Online,11,No
+CUST11171,41,Male,West,32436.41,7.1,Yes,Responded,5,2,11,12.4,62.8,902.44,4,225.61,0.217,5.4,0,Yes,Mobile App,12,No
+CUST10100,21,Female,East,34891.69,7.5,Yes,Responded,3,1,6,,24.7,1321.71,10,132.17,0.11,8.9,1,Yes,Online,16,No
+CUST10647,37,Male,Central,91751.87,15.9,Yes,Ignored,8,2,3,0.8,93.1,569.6,5,113.92,0.454,9.1,3,No,In-Store,6,No
+CUST10182,25,Male,East,44508.17,0.9,Yes,Responded,4,1,8,1.3,36.5,1000.69,8,125.09,0.642,9,0,Yes,In-Store,33,No
+CUST10996,60,Male,North,33365.77,1.5,Yes,Responded,1,0,8,0.6,51.3,763.85,12,63.65,,7.4,2,Yes,Online,10,No
+CUST11095,37,Female,South,87418.56,4.4,Yes,Ignored,6,1,11,0.4,58,2273.71,8,284.21,0.155,7.5,0,No,Online,26,No
+CUST10847,67,Male,East,9333.3,6,No,Unsubscribed,8,2,11,10.5,30.8,874.42,5,174.88,,5.5,2,No,Mobile App,32,Yes
+CUST10896,36,Male,West,48493.56,2.4,Yes,Ignored,6,0,8,7.2,90.5,993.05,5,198.61,0.398,5,2,Yes,Online,39,No
+CUST10720,42,Male,West,47388.44,1.2,Yes,Ignored,4,1,12,,61.9,988.33,13,76.03,0.102,4,1,Yes,Mobile App,62,Yes
+CUST10489,49,Male,Central,110317.12,2.2,Yes,Ignored,6,1,11,2.3,33.6,1771.64,10,177.16,,6.2,1,Yes,In-Store,25,Yes
+CUST10138,48,Female,East,60735.35,4.7,No,Ignored,8,3,9,0.1,3.6,1394.69,10,139.47,0.619,6.8,0,Yes,In-Store,15,No
+CUST10855,31,Male,South,76286.18,4.6,Yes,Ignored,2,1,5,5.6,5,1636.41,11,148.76,0.469,5.5,3,Yes,Online,30,No
+CUST10872,21,Male,West,39753.77,0.7,Yes,Unsubscribed,7,1,8,7.9,5.1,1758.28,8,219.78,0.167,7.5,1,No,Online,0,No
+CUST10520,18,Male,East,61204.27,2.4,Yes,Ignored,11,4,7,3.2,31.1,925.9,10,92.59,0.254,6.7,0,No,Online,29,No
+CUST10527,39,Female,West,30482.64,2.7,No,Ignored,8,1,6,6.4,6.8,1207.56,9,134.17,0.197,1.9,1,Yes,Mobile App,20,Yes
+CUST10579,52,Male,East,45513.72,7,No,Ignored,4,1,8,0.7,20,957.04,14,68.36,0.177,7.4,4,No,In-Store,11,No
+CUST11098,49,Other,Central,84627.92,1.2,Yes,Ignored,13,3,8,10,69,307.27,11,27.93,0.318,,0,No,Online,76,Yes
+CUST10572,42,Female,East,62553.22,6,Yes,Ignored,4,2,5,1.9,59.3,607.85,7,86.84,0.017,5.6,0,No,In-Store,135,No
+CUST10040,47,Male,Central,138414.7,3.8,Yes,Responded,13,6,7,2.7,23.9,1892.92,8,236.62,0.176,4,1,Yes,Online,61,Yes
+CUST10961,54,Female,Central,37589.42,4.9,Yes,Ignored,5,3,5,3.2,35.6,232.4,13,17.88,0.371,8.7,1,Yes,In-Store,57,No
+CUST10871,28,Male,North,103444.26,1.8,Yes,Ignored,3,1,6,0,92.4,1251.75,12,104.31,0.31,6,1,Yes,In-Store,28,No
+CUST10072,38,Male,Central,73138.76,0.7,Yes,Ignored,5,2,9,8,96.5,1047.8,11,95.25,0.184,6.9,2,No,In-Store,10,No
+CUST10692,25,Female,South,56844.29,4.3,Yes,Unsubscribed,8,1,9,1.6,56.7,963.25,12,80.27,0.44,5.8,1,Yes,Online,5,No
+CUST10472,20,Other,East,96562.7,10.2,No,Responded,5,1,6,0.6,54.4,1498.32,8,187.29,0.195,4.2,3,No,In-Store,78,Yes
+CUST10975,18,Male,North,,1.1,No,Ignored,1,0,10,7.7,75.6,2331.67,11,211.97,0.174,7.8,1,Yes,Mobile App,30,Yes
+CUST10084,28,Female,North,82097.09,1.3,Yes,Responded,4,2,8,3.8,34.5,548.99,14,39.21,0.321,4.5,2,Yes,Online,64,No
+CUST10032,38,Male,North,85278.8,3,Yes,Ignored,6,3,6,0.4,79.5,1151.17,9,127.91,0.278,7.5,2,No,Online,42,No
+CUST10308,45,Female,East,54339.76,4.8,Yes,Ignored,4,1,10,0.2,15.9,833.91,8,104.24,0.218,5.6,1,No,Online,9,Yes
+CUST10866,41,Female,South,32859.83,6.4,Yes,Ignored,3,1,4,1.1,81,675.63,4,168.91,0.132,7.1,1,Yes,In-Store,2,No
+CUST10474,58,Female,North,58277.66,5.2,Yes,Ignored,2,0,7,6.9,46.5,483.72,13,37.21,0.282,5.5,1,No,Online,52,No
+CUST11181,55,Female,North,84683.82,0,Yes,Responded,8,4,16,7.9,99,1284.65,9,142.74,0.161,4.8,2,No,Online,148,No
+CUST10191,48,Male,North,28004.05,3.5,Yes,Responded,3,1,5,6.4,14.6,676.3,7,96.61,,8.3,1,Yes,Online,34,No
+CUST11016,30,Male,East,56081.64,0.3,No,Responded,3,1,8,2.4,91.9,1644.11,12,137.01,0.469,5.1,4,Yes,Online,35,Yes
+CUST11075,32,Female,South,22589.38,1.3,No,Ignored,9,5,5,1.2,37.4,478.92,10,47.89,0.14,7.9,0,No,Online,69,No
+CUST10994,26,Female,West,75254.63,5.3,No,Ignored,2,0,5,13.2,39,500.3,8,62.54,0.246,5.7,1,Yes,Online,71,No
+CUST10277,31,Female,South,77284.32,5,Yes,Unsubscribed,7,3,11,3.6,93.3,714.16,4,178.54,0.365,4.2,0,Yes,Online,27,Yes
+CUST10494,56,Female,East,41207.13,3.5,Yes,Ignored,5,1,7,5.6,42,698.47,10,69.85,0.55,7.7,0,No,In-Store,90,No
+CUST10991,18,Female,East,29966.22,3.6,No,Ignored,7,1,6,,87.7,1374.91,12,114.58,0.121,5.3,1,No,Online,136,Yes
+CUST10412,20,Male,South,51086.08,1.4,Yes,Responded,1,0,13,5.2,20.5,830.71,10,83.07,0.324,5.8,1,Yes,Online,15,Yes
+CUST10070,42,Female,North,68236.68,1,Yes,Ignored,6,3,8,1.9,18.5,1030.53,11,93.68,0.093,6.1,0,No,Mobile App,11,No
+CUST10580,42,Female,North,79201.63,0.6,Yes,Ignored,4,2,4,1.3,75.7,1729.96,6,288.33,0.157,6,2,No,In-Store,20,Yes
+CUST10942,46,Male,West,45815.53,1.3,Yes,Unsubscribed,6,1,8,0.8,86.4,408.29,5,81.66,0.287,8.1,1,Yes,In-Store,93,Yes
+CUST11190,39,Other,North,80039.25,0.5,yes,Unsubscribed,5,1,14,3.9,18.5,2173.04,8,271.63,0.17,7.3,1,No,In-Store,71,Yes
+CUST10756,44,Female,Central,30391.3,2.2,Yes,Ignored,8,1,13,3.1,23,1094.26,10,109.43,,7.7,1,No,In-Store,193,Yes
+CUST11056,38,Male,South,108491.82,8.2,Yes,Responded,6,2,4,1.8,85.7,556.76,15,37.12,0.273,6.2,1,Yes,Mobile App,106,Yes
+CUST10368,39,Female,West,53798.32,1.1,No,Ignored,6,1,10,0.2,97.9,1107.47,6,184.58,0.205,4.9,2,Yes,Mobile App,9,No
+CUST10862,57,FEMALE,East,111214.68,0.3,Yes,Ignored,1,0,9,2.9,59.4,558.49,3,186.16,0.472,9.5,0,Yes,In-Store,36,No
+CUST10722,22,Male,North,95255,3.7,No,Responded,10,4,5,1.7,8.9,1025.97,8,128.25,,7.9,2,Yes,Online,33,No
+CUST10132,25,Male,South,34248.66,0.2,No,Unsubscribed,5,1,7,3.9,,859.89,11,78.17,0.323,5.7,0,No,Online,18,Yes
+CUST10222,46,Male,South,34511.88,2.2,No,Ignored,2,0,5,,,852.49,7,121.78,0.006,6.3,0,Yes,Online,8,No
+CUST10946,20,Female,South,,1,No,Ignored,5,1,9,11.5,86.2,1235.54,9,137.28,0.285,5,0,No,Online,17,No
+CUST10267,21,Other,South,86375.32,2.3,Yes,Responded,7,1,5,1.9,98.5,860.83,8,107.6,0.195,6.6,0,Yes,In-Store,1,No
+CUST10948,37,Female,Central,49062.34,1.4,yes,Responded,6,1,9,3,5.2,1112.58,5,222.52,0.281,4.9,1,Yes,In-Store,22,Yes
+CUST10081,42,Male,North,122900.41,1.8,Yes,Ignored,6,0,6,5.1,92.5,940.29,10,94.03,0.191,6.3,0,Yes,Online,35,No
+CUST10625,32,Female,West,30651.84,2.4,No,Ignored,4,0,4,3,47.2,1119.29,4,279.82,0.329,1.8,2,No,Online,1,Yes
+CUST10669,51,Male,West,93963.56,1.1,No,Responded,4,1,8,1,81.1,388.68,6,64.78,0.107,5.7,0,No,Online,109,Yes
+CUST10115,42,Female,East,32191.14,1.3,Yes,Ignored,7,1,10,,31.3,377.79,7,53.97,0.228,6.1,1,No,Online,14,No
+CUST10955,51,Other,West,81675.13,4.1,Yes,Responded,11,0,6,13.4,32.3,832.76,8,104.1,0.43,6.7,1,No,Online,30,Yes
+CUST10734,50,Female,South,19303.04,3,No,Responded,7,2,12,6,73.7,1255.13,3,418.38,0.181,8.5,1,Yes,In-Store,43,No
+CUST11135,50,Male,South,46087.6,1.3,Yes,Ignored,5,2,6,0.2,45.5,1632.77,9,181.42,0.37,5.2,3,No,In-Store,30,No
+CUST10208,44,Other,West,51385.11,0.7,Yes,Responded,8,3,9,,10.7,950.56,7,135.79,0.172,7.1,0,No,Online,18,No
+CUST10344,32,Female,South,70629.19,1.1,Yes,Ignored,11,1,8,2.9,31.5,710.71,9,78.97,0.573,3.8,0,No,Online,65,No
+CUST10329,46,Female,North,16913.21,8.5,Yes,Ignored,7,1,5,10.2,16.9,1172.1,5,234.42,0.559,5.8,1,Yes,Online,74,No
+CUST11047,19,Female,West,72014.78,10.8,Yes,Responded,10,3,10,1.1,59.7,338.72,12,28.23,,6,0,Yes,Online,5,No
+CUST10014,18,Female,East,,7,Yes,Ignored,9,5,5,2.7,55.1,841.17,11,76.47,0.186,8,1,Yes,Online,44,No
+CUST10817,49,Male,West,61607.49,4,Yes,Ignored,4,2,14,1.6,13.6,2061.32,8,257.67,0.33,7.1,2,No,Mobile App,19,No
+CUST10519,47,Male,East,68799.07,1.7,Yes,Ignored,4,1,6,2,35.6,753.87,5,150.77,0.39,10,1,Yes,In-Store,2,No
+CUST10536,28,Female,South,97329.74,9.5,Yes,Ignored,5,0,10,4.2,95.3,603,8,75.38,0.059,,2,No,In-Store,6,No
+CUST10704,19,Female,West,72584.25,0.4,Yes,Responded,7,3,8,6.7,56.7,873.94,8,109.24,0.551,3.8,0,No,Online,40,Yes
+CUST10711,37,Male,East,69606.07,,Yes,Ignored,10,1,9,3.3,10.5,705.7,11,64.15,0.26,7.1,1,No,Online,8,No
+CUST10662,38,Female,South,77198.17,0.8,No,Responded,9,2,14,2.2,40.8,744.67,8,93.08,,6.1,1,Yes,Online,92,Yes
+CUST10405,45,Female,South,52202.33,0.3,Yes,Responded,3,1,13,3.6,42.3,803.6,8,100.45,0.109,7.7,2,Yes,In-Store,1,No
+CUST11153,22,Other,South,20389.94,1.7,No,Ignored,5,1,12,4.3,58.4,1072.73,8,134.09,0.128,6.4,2,No,Online,57,No
+CUST10935,32,Male,South,69572.5,8.2,No,Ignored,6,1,10,11.4,34.9,1101.58,10,110.16,0.172,7.2,1,Yes,Online,14,No
+CUST10965,55,Female,East,16386.48,14.4,Yes,Unsubscribed,6,3,11,5.2,79.8,1202.94,5,240.59,0.655,4.3,1,No,Mobile App,128,No
+CUST10485,21,Other,North,17713.33,7.7,Yes,Ignored,7,4,8,10,96.8,1721.09,7,245.87,0.374,6.2,1,No,Mobile App,40,No
+CUST10006,57,Male,Central,,0.5,Yes,Ignored,7,2,7,0.7,51.1,769.26,12,64.1,0.196,4.6,0,Yes,Online,52,No
+CUST10425,54,Female,North,20512.12,0.5,Yes,Responded,7,3,6,3.5,49.4,741.45,9,82.38,0.202,10,3,No,Mobile App,4,No
+CUST10797,46,Female,North,67331.12,1.7,Yes,Responded,4,0,9,0,8.6,1993.7,3,664.57,0.43,7,1,No,Online,44,No
+CUST10367,38,Female,Central,17587.21,6.3,Yes,Responded,7,0,5,9.9,54.3,332.29,8,41.54,0.239,4.9,1,No,Mobile App,111,Yes
+CUST10816,41,Female,South,80442.64,1.8,Yes,Responded,2,0,13,1.2,73,1825.04,7,260.72,0.358,6.1,0,Yes,Mobile App,24,No
+CUST10559,33,Female,North,52515.38,0.4,No,Unsubscribed,3,1,7,2,10.6,976.17,13,75.09,0.573,5,3,Yes,Online,97,Yes
+CUST11029,26,Female,East,70080.19,4.1,Yes,Ignored,10,2,6,4.1,,1145.82,7,163.69,0.218,9.1,0,No,In-Store,8,No
+CUST10375,29,MALE,South,72610.95,0.6,Yes,Ignored,3,0,4,11.3,7.3,995.68,7,142.24,0.173,6.7,0,No,In-Store,35,No
+CUST10534,30,Male,Central,111761.24,2.6,Yes,Responded,3,1,7,1.8,9.9,2064.32,10,206.43,0.235,7.1,1,No,In-Store,85,No
+CUST10026,24,Male,East,53532.39,2.9,Yes,Ignored,3,0,12,4.5,60.9,1605.07,6,267.51,0.126,7.1,2,Yes,In-Store,11,No
+CUST10733,18,Male,East,75549.19,4.1,No,Responded,3,1,8,13.7,88.5,1767.67,4,441.92,0.548,9.1,1,No,Mobile App,76,No
+CUST11139,46,Male,East,36685.62,6.7,Yes,Responded,4,1,8,1.9,43.8,632.39,5,126.48,0.265,4.3,3,No,Online,5,No
+CUST10930,31,Male,West,48445.39,20,Yes,Ignored,2,1,1,0.7,80.4,635.96,5,127.19,0.138,7.8,0,Yes,In-Store,26,No
+CUST10664,29,Male,North,21841.54,10,Yes,Ignored,5,1,7,3.9,69,743.68,7,106.24,0.354,,1,Yes,Online,17,No
+CUST10801,32,Male,East,33767.56,1.4,No,Responded,4,1,3,0.2,35.6,1086.58,6,181.1,0.408,8.4,1,No,In-Store,41,No
+CUST11144,36,Male,West,53649.87,0.4,Yes,Responded,6,1,13,1.1,29.5,582.6,10,58.26,0.213,,1,Yes,Online,86,Yes
+CUST10763,37,Female,North,34664.08,2.2,Yes,Unsubscribed,4,0,12,4.2,14.5,690.66,7,98.67,0.286,5.1,0,Yes,Online,174,Yes
+CUST10889,51,MALE,North,58133.51,2.5,Yes,Ignored,7,1,8,1.1,71.1,769.21,8,96.15,0.321,5.5,3,Yes,Mobile App,224,Yes
+CUST11198,41,Female,West,63362.98,0.8,Yes,Ignored,5,4,8,13.8,,758.17,12,63.18,0.316,6.3,4,No,In-Store,59,Yes
+CUST10623,54,Male,East,99003.27,0.3,Yes,Ignored,7,1,8,,51.5,986.82,10,98.68,0.438,9.8,0,Yes,Online,293,Yes
+CUST10232,39,Male,South,65021.95,0.9,No,Responded,3,0,13,2.3,24.2,653.21,11,59.38,0.166,7.3,0,No,Online,37,Yes
+CUST11167,45,Male,South,78450.55,2.1,No,Ignored,6,1,6,1,61.6,757.05,8,94.63,0.248,5.4,2,No,Mobile App,77,Yes
+CUST10957,43,Male,Central,72663.06,3.7,Yes,Responded,5,0,8,2.2,64.9,1529,4,382.25,0.1,6.7,1,No,Online,99,Yes
+CUST10028,31,Male,North,28325.27,3.8,No,Responded,4,1,7,1.4,26.3,888.31,13,68.33,0.021,9.6,1,Yes,Mobile App,5,No
+CUST10631,56,Female,West,88757.37,3.6,Yes,Ignored,8,5,10,3.1,4.7,645.18,12,53.76,0.205,9,2,Yes,Online,47,No
+CUST10539,31,Female,West,58094.27,1.8,Yes,Ignored,5,1,5,0.1,89.2,616.11,14,44.01,0.534,9.6,5,Yes,Mobile App,61,No
+CUST11195,43,Male,South,31450.16,3.5,Yes,Unsubscribed,10,6,7,8.2,22.7,939.47,9,104.39,0.211,6.9,3,No,In-Store,1,No
+CUST10288,41,Male,South,47660.94,2.7,No,Ignored,7,0,5,1,85.6,1253.67,8,156.71,0.253,,0,Yes,Online,34,No
+CUST10824,33,Female,West,16462.46,1.4,Yes,Ignored,3,1,9,18.8,88.8,687.47,9,76.39,0.281,6.7,2,No,Online,29,No
+CUST11049,55,Female,North,181662.72,8.9,No,Ignored,6,1,8,4.9,95.2,822.63,6,137.1,0.036,3.5,1,No,Mobile App,34,No
+CUST10932,21,Male,West,51701.34,3.9,No,Ignored,10,5,8,5,1.7,946.79,9,105.2,0.334,7.2,0,Yes,Online,11,No
+CUST10596,35,Female,East,14115.54,5.7,No,Ignored,9,1,11,6.2,41.6,2732.43,9,303.6,0.644,6.6,2,No,Online,32,No
+CUST11100,50,Male,West,58219.67,0.4,Yes,Ignored,8,4,5,1.5,73.6,328.2,6,54.7,0.274,7.9,2,No,Online,53,No
+CUST10434,56,Male,South,76512.86,11.2,No,Ignored,5,1,8,3,9.6,1053.5,13,81.04,0.105,6.4,1,Yes,Mobile App,3,Yes
+CUST10544,18,Male,South,72898.77,1.1,Yes,Unsubscribed,2,0,9,12.4,78,974.04,9,108.23,0.251,6.9,0,Yes,In-Store,4,Yes
+CUST10894,55,Female,South,58948.45,0.4,Yes,Ignored,7,2,6,0.1,84.7,1212.68,7,173.24,0.508,6.6,2,No,In-Store,117,No
+CUST10078,39,Male,West,50051.48,4,No,Ignored,8,4,7,1.2,65,1043.5,8,130.44,0.395,8.2,2,Yes,Mobile App,18,Yes
+CUST10530,46,Other,South,52327.01,,No,Responded,4,1,10,6.6,17.8,862.34,9,95.82,0.241,10,1,No,Online,57,No
+CUST10943,37,Male,East,74893.44,0.7,Yes,Ignored,9,2,9,2.4,25.1,2112.97,9,234.77,0.251,7.9,1,Yes,Online,70,No
+CUST10448,32,Other,Central,47724.65,5.7,No,Ignored,10,2,8,0.6,28.7,1007.41,5,201.48,0.457,4.2,1,Yes,Mobile App,36,No
+CUST10015,31,Male,South,39492.8,1.3,No,Ignored,8,3,6,0.3,31.1,1443.46,8,180.43,0.511,8.6,2,Yes,Online,20,No
+CUST10454,32,Female,North,66681.39,2.7,Yes,Unsubscribed,7,2,6,0.5,58,1434.06,9,159.34,0.318,6.6,1,Yes,Online,34,Yes
+CUST10771,31,Male,North,75873.83,0.5,Yes,Ignored,4,1,7,4.1,74.5,1071.65,10,107.16,0.286,5,0,Yes,Online,15,Yes
+CUST10283,23,Female,South,34846.59,2.2,No,Ignored,9,4,10,1.9,38.7,2101.51,7,300.22,0.366,2.3,0,Yes,Online,34,No
+CUST10986,56,Female,South,36682.45,4.9,Yes,Ignored,5,0,6,,12.7,593.35,6,98.89,0.386,8,1,No,Mobile App,199,No
+CUST10654,69,Male,Central,50767.86,2.3,Yes,Ignored,3,1,3,2.5,63.7,298.25,7,42.61,0.474,7.9,2,No,Online,80,Yes
+CUST10721,18,Female,North,15932.16,1.9,No,Responded,6,2,10,6.9,11.2,1811.15,7,258.74,0.262,7.7,2,Yes,Online,70,No
+CUST10628,39,Male,West,42057.9,0.6,No,Responded,6,3,9,8.1,44.2,369.7,6,61.62,0.11,6.2,2,No,Online,43,Yes
+CUST10285,18,Female,North,41146.51,0,No,Responded,1,0,10,0.1,39,1130.28,6,188.38,0.384,7,4,Yes,Mobile App,77,Yes
+CUST11106,45,Female,West,82356.51,1.4,Yes,Responded,7,3,7,1.8,76.9,870.89,10,87.09,0.192,6.1,2,No,Online,23,No
+CUST10037,18,Male,South,82508.93,6,No,Responded,9,2,9,2.1,55.7,728.46,7,104.07,0.17,9.8,1,Yes,In-Store,292,Yes
+CUST10562,48,Male,West,39021.73,0,Yes,Responded,3,1,7,1.4,54.8,937.89,7,133.98,0.283,7.9,3,Yes,Online,56,No
+CUST10898,52,Male,East,44267.71,8.8,No,Ignored,5,1,8,0.6,30,1694.38,10,169.44,0.504,8,1,Yes,Online,15,No
+CUST10290,36,Female,North,44080.57,4.2,Yes,Unsubscribed,8,4,11,3.7,,1561.89,8,195.24,0.47,3.4,1,Yes,In-Store,66,Yes
+CUST10134,27,Female,North,,0.9,Yes,Ignored,6,1,7,1.1,42.2,499.97,9,55.55,0.06,8.9,4,No,Online,36,No
+CUST10105,43,Male,Central,115186.26,0.6,No,Responded,12,4,6,1.5,,1609.35,13,123.8,0.033,6.9,2,No,Online,67,No
+CUST10649,46,Female,West,44954.78,3.7,No,Responded,6,1,8,3.2,23.3,957.42,5,191.48,0.517,6.2,1,No,Mobile App,63,Yes
+CUST11020,44,Female,North,58174.83,1.3,Yes,Ignored,7,2,10,5.1,59.3,763.34,15,50.89,0.246,6.9,0,Yes,Mobile App,23,No
+CUST10125,64,Female,South,48946.67,1.3,Yes,Ignored,6,1,8,2.9,78.8,1071.14,14,76.51,0.201,3.3,0,No,Online,9,No
+CUST11134,35,Male,Central,87304.27,15,No,Ignored,6,2,9,6.9,93.9,1430.17,16,89.39,0.323,5.6,1,No,Online,19,Yes
+CUST10707,59,Female,North,35746.45,0.3,Yes,Ignored,4,0,13,7.5,31.9,1968.25,10,196.82,0.178,5.7,1,Yes,In-Store,20,No
+CUST10852,30,Male,North,739660.5457,1.6,Yes,Responded,10,5,9,,60.9,1475.97,16,92.25,0.092,9.4,1,Yes,In-Store,6,No
+CUST10784,45,Female,South,91209.36,1.1,Yes,Responded,7,2,7,1.2,60.8,1234.55,10,123.46,,9.8,2,Yes,Online,184,No
+CUST10384,29,Female,Central,70397.48,9.3,Yes,Responded,11,5,2,0.4,98.6,1121.73,9,124.64,0.367,8.6,0,No,In-Store,15,No
+CUST10759,46,Female,South,23997.74,1.3,No,Ignored,5,2,12,2,29.8,1016.55,13,78.2,0.257,7.3,1,No,Mobile App,45,Yes
+CUST10161,47,Female,South,127583.64,1.8,No,Ignored,3,0,8,0.6,49.3,924.16,10,92.42,0.414,4.5,1,No,In-Store,1,Yes
+CUST10583,65,Male,West,44363.12,8.6,Yes,Responded,9,2,9,8.2,24.5,748.31,3,249.44,0.295,4.7,1,Yes,Online,48,No
+CUST11137,23,Male,Central,50697.08,0.4,Yes,Responded,8,3,8,2,67.4,1150.67,11,104.61,0.123,2,0,No,Online,88,Yes
+CUST10199,24,Male,East,100174.33,0.7,Yes,Responded,5,1,6,0.7,64,777.21,5,155.44,0.335,8.1,2,Yes,Online,8,No
+CUST10777,35,Other,North,51513.3,4.3,Yes,Ignored,4,1,9,3.8,37.9,1293.22,6,215.54,0.328,5.3,3,Yes,Online,8,No
+CUST10373,50,MALE,South,60826.04,1.8,No,Responded,6,1,8,2,65.9,862.81,9,95.87,0.072,6.4,0,Yes,Online,38,Yes
+CUST10441,38,Female,West,86456.27,1.9,Yes,Responded,3,1,6,0.8,93.4,375.6,10,37.56,0.185,3.4,1,Yes,Online,159,Yes
+CUST10119,47,Female,West,27531.49,5.7,Yes,Responded,8,2,12,7.2,27.1,653.1,6,108.85,,4.5,1,No,Online,105,No
+CUST11110,36,Male,South,87126.21,8,No,Ignored,8,2,9,3.6,21.1,685.81,6,114.3,0.117,6.2,2,No,Mobile App,4,No
+CUST10080,35,MALE,South,75081.31,17.3,No,Ignored,4,1,10,2.5,67.7,1193.53,11,108.5,0.183,7.8,1,No,In-Store,131,No
+CUST11009,32,Male,South,43985.56,11.7,Yes,Ignored,9,3,10,,12.5,701.98,9,78,0.588,,2,Yes,Online,52,No
+CUST11117,37,MALE,South,26915.82,2.4,No,Ignored,10,2,10,1.2,55.8,274.13,11,24.92,0.092,9.4,0,No,Online,52,No
+CUST10714,38,Female,East,80947.49,15.2,No,Ignored,5,2,6,1.3,39.8,244.46,9,27.16,0.3,6.7,2,Yes,Mobile App,7,Yes
+CUST10374,64,Female,North,97034.4,3.6,Yes,Responded,10,4,5,2.7,77.8,1459.95,10,146,0.203,5.6,1,Yes,In-Store,23,Yes
+CUST10211,52,Female,West,57337.71,1.1,Yes,Responded,6,2,9,4.3,17.9,1316.42,8,164.55,0.185,5.4,0,No,In-Store,32,No
+CUST10612,41,Female,West,57187.57,3,Yes,Ignored,7,1,7,4.4,2.7,1816.91,7,259.56,0.243,4,3,No,In-Store,52,Yes
+CUST11022,38,Male,East,38928.69,0.3,Yes,Responded,5,0,15,2.7,84.1,1377.7,7,196.81,0.171,8.9,1,No,Online,39,No
+CUST10118,52,Male,East,72238.78,9.8,No,Ignored,10,3,7,5.3,21.5,1269.47,6,211.58,0.223,6.8,1,No,In-Store,44,No
+CUST10597,26,Female,West,44103.86,0.3,Yes,Ignored,3,1,6,7.3,72.9,299.78,9,33.31,0.399,4.9,0,Yes,Online,9,No
+CUST10529,27,Male,East,24850.04,5.1,Yes,Ignored,11,3,8,0.2,39.1,605.01,16,37.81,0.157,6.6,1,No,Online,40,No
+CUST11156,30,Female,West,,2.1,Yes,Responded,8,2,8,6,,370.98,8,46.37,0.276,3.8,1,No,Mobile App,15,No
+CUST10921,26,Female,South,87148.63,0.3,No,Ignored,6,1,5,6,58.1,872.21,11,79.29,0.453,4.6,1,No,Online,182,Yes
+CUST10377,40,Male,East,56204.53,1.7,No,Responded,3,1,8,1.4,93.2,626.04,11,56.91,0.213,7.7,1,Yes,Online,37,No
+CUST10548,42,Female,East,98832.8,2.9,No,Ignored,9,4,9,4,13.5,1029.22,10,102.92,,7.9,0,No,Mobile App,154,Yes
+CUST10887,34,Male,East,41663.79,2.1,No,Ignored,7,1,5,0.4,32.3,1019.43,7,145.63,0.267,6,2,Yes,Online,55,Yes
+CUST10569,34,Female,North,110112.81,7.1,Yes,Responded,7,1,6,4.7,69.9,410.32,10,41.03,0.242,4.5,2,No,In-Store,46,No
+CUST10532,37,Male,South,46524.1,1.6,Yes,Responded,3,0,5,0.3,89.7,1139.67,4,284.92,0.432,8.2,1,No,Mobile App,10,No
+CUST10258,43,Female,Central,57867.49,1.8,Yes,Ignored,8,5,7,0.1,24.5,757.06,10,75.71,0.083,4.6,0,No,Online,80,Yes
+CUST10292,31,Male,North,37497.6,2.7,No,Ignored,5,2,4,1.8,24.7,471.69,10,47.17,0.357,6,2,Yes,Mobile App,102,Yes
+CUST10271,21,Male,West,56017.7,1.3,Yes,Ignored,2,0,7,10.6,6.6,154.46,11,14.04,0.208,4.8,1,No,Mobile App,114,No
+CUST10127,31,Male,East,43585.97,1.2,Yes,Responded,10,6,9,3.4,15.2,395.87,10,39.59,0.112,5.8,2,Yes,In-Store,85,No
+CUST10101,33,Female,South,65242.75,1.4,No,Responded,13,2,13,10,98.4,1084.45,11,98.59,0.16,7.4,1,No,In-Store,11,No
+CUST10436,58,Male,East,52695.66,1.1,Yes,Ignored,5,2,10,5.1,86.9,1683.77,8,210.47,0.206,7.5,0,Yes,In-Store,32,No
+CUST10357,35,Male,South,37457.67,2.4,Yes,Ignored,5,1,9,6,17.6,1205.39,7,172.2,0.138,10,0,Yes,Online,73,No
+CUST10618,44,Female,South,55855.98,2.8,Yes,Responded,12,4,9,2.1,90.2,1111.82,14,79.42,0.348,8.7,1,Yes,In-Store,108,Yes
+CUST10682,32,Female,East,24183.57,1.4,No,Ignored,4,1,3,0.6,72.5,976.28,11,88.75,0.234,7.3,0,Yes,In-Store,8,No
+CUST10645,35,Female,South,54252.54,1.6,No,Responded,6,3,9,0.8,22.9,2211.64,7,315.95,0.15,8.1,0,No,Mobile App,18,No
+CUST10886,45,Other,North,55001.66,3.5,No,Responded,5,2,8,3.4,9.7,497.04,9,55.23,0.115,5.2,1,No,Online,6,No
+CUST10488,58,Male,North,48100.53,2.6,Yes,Responded,8,1,12,2.1,69.3,429.77,5,85.95,0.195,9.2,3,No,Online,38,Yes
+CUST10619,41,Male,South,92442.87,1.2,Yes,Responded,11,3,8,3,99.9,1485.73,14,106.12,0.525,7.8,1,No,In-Store,48,No
+CUST10360,44,Male,East,97042.99,1.7,Yes,Ignored,6,1,10,,43.3,797.98,4,199.5,0.457,10,3,No,Online,73,No
+CUST11072,39,Female,South,133889.16,3.2,Yes,Responded,3,1,10,3.2,,1108.98,3,369.66,0.36,4.9,1,Yes,In-Store,5,No
+CUST10160,26,Female,South,50428.51,3.9,Yes,Ignored,7,4,9,,98,1206.38,8,150.8,0.36,10,3,Yes,Online,78,No
+CUST10670,53,Female,South,32469.45,3.7,Yes,Ignored,10,6,11,3.1,16,1146.18,9,127.35,0.116,4.6,0,No,Online,17,No
+CUST10399,53,Male,West,94600.84,2.4,Yes,Unsubscribed,2,0,14,2.1,62.1,864.25,9,96.03,0.267,8.4,1,No,Mobile App,29,No
+CUST10453,44,Male,East,57572.09,0.5,No,Ignored,5,0,9,8.2,13.8,1136.55,8,142.07,0.188,4.9,1,Yes,In-Store,34,No
+CUST10509,28,Male,North,31145.46,5.2,Yes,Ignored,6,2,5,0.8,87.6,1065.14,9,118.35,0.104,2.6,1,Yes,Online,26,No
+CUST10920,51,Female,North,62721.32,2.6,Yes,Responded,7,4,5,15.8,77.3,1109.9,10,110.99,0.2,7.4,1,No,Online,99,Yes
+CUST10052,30,Male,West,23097.65,5.2,No,Unsubscribed,2,0,16,0.5,66.9,1181.84,10,118.18,0.353,9.9,2,No,Mobile App,18,No
+CUST10581,33,Male,West,85659,5.9,No,Responded,13,7,9,0.4,91.2,749.51,7,107.07,0.244,7,2,No,Online,215,No
+CUST10174,41,Male,West,137978.36,0.5,Yes,Ignored,12,4,5,4.2,17.6,922.83,7,131.83,0.469,1.6,1,No,Online,3,No
+CUST10320,39,Male,South,,0.6,Yes,Ignored,10,1,7,4.7,52.8,748.45,13,57.57,0.039,5.4,0,Yes,Mobile App,56,No
+CUST10469,31,Female,North,41666.43,3.4,Yes,Ignored,7,1,11,0.3,44.6,972.97,10,97.3,0.122,7.6,1,No,In-Store,79,Yes
+CUST10806,41,Female,North,81132.78,1.8,Yes,Ignored,5,0,12,5.4,1.4,616.41,9,68.49,,7.1,0,No,Online,83,No
+CUST11133,43,Female,West,40594.19,0.5,Yes,Responded,9,6,7,3.4,0.1,1285.6,6,214.27,0.244,7.6,1,No,In-Store,8,No
+CUST10079,18,Female,North,57201.01,0.3,No,Ignored,7,5,8,0.6,74.6,1157.93,5,231.59,0.326,10,1,Yes,Mobile App,5,No
+CUST10697,23,Female,East,14274.09,1.6,Yes,Responded,4,0,6,7,1.5,1195.16,8,149.4,0.326,6.9,1,No,Online,10,No
+CUST10457,26,Female,West,41906.4,2.3,No,Ignored,10,1,6,0.6,73.5,1820.79,9,202.31,0.091,6,1,Yes,In-Store,141,Yes
+CUST10290,36,Female,North,44080.57,4.2,Yes,Unsubscribed,8,4,11,3.7,,1561.89,8,195.24,0.47,3.4,1,Yes,In-Store,66,Yes
+CUST10370,38,Male,South,47950.81,2.7,No,Responded,8,2,7,0.6,19.5,2069.05,12,172.42,0.164,6.1,2,Yes,In-Store,48,No
+CUST10914,37,Female,North,63999.85,0,Yes,Ignored,7,1,7,5.2,35.3,508.49,11,46.23,0.457,4.4,1,No,In-Store,11,No
+CUST10477,42,Male,Central,99268.43,4.5,No,Responded,12,2,7,0.4,36.7,772,9,85.78,0.273,6.2,3,No,In-Store,55,Yes
+CUST10890,48,Female,South,55023.43,2.6,Yes,Ignored,6,1,4,2.3,88.1,628.23,14,44.87,0.221,3.3,2,No,Online,52,Yes
+CUST11028,45,Other,West,54674.96,1.9,Yes,Ignored,8,3,7,4,46,1320.79,11,120.07,0.052,5.3,1,Yes,In-Store,27,No
+CUST10810,36,Female,North,41918.43,7.2,Yes,Ignored,6,0,10,3.7,79.4,684.6,9,76.07,0.173,7.1,1,Yes,Online,9,Yes
+CUST10473,54,Female,North,65501.66,0.5,yes,Ignored,5,3,6,4.8,9,687.71,11,62.52,0.137,9.3,2,Yes,Online,94,Yes
+CUST10197,40,Female,North,17229.64,1.3,Yes,Responded,4,0,4,5.7,72.5,620.72,8,77.59,0.336,8.9,1,Yes,Online,28,No
+CUST10185,47,Male,East,127858.07,5.3,No,Ignored,10,1,8,2.8,91.3,1227.88,11,111.63,0.138,8.2,1,Yes,Online,52,No
+CUST10712,31,Female,South,88637.14,2,Yes,Ignored,14,6,8,0,4.3,1459.93,6,243.32,0.124,7.1,2,No,Online,18,No
+CUST10421,59,Male,South,84413.75,0.3,Yes,Ignored,2,1,6,3.8,94.4,501.11,8,62.64,0.27,10,2,No,In-Store,10,Yes
+CUST10451,49,Male,South,,,Yes,Ignored,7,2,6,5.6,45,592.43,17,34.85,0.136,5.9,0,No,In-Store,100,Yes
+CUST10256,53,Male,East,121989.89,3.3,Yes,Responded,10,3,7,,47.2,1480.22,12,123.35,,6.9,3,Yes,In-Store,76,No
+CUST10135,57,Female,North,21181.5,2.2,No,Ignored,7,2,11,2.3,59.1,827.11,9,91.9,0.325,7.1,1,No,Online,40,Yes
+CUST10800,49,Female,South,34502.64,3.3,Yes,Unsubscribed,6,0,5,6.6,86.5,1203.88,5,240.78,0.078,5.4,1,No,In-Store,10,Yes
+CUST10798,38,Female,North,50221.03,6.3,No,Ignored,2,0,7,4.7,16.9,821.23,5,164.25,0.103,5.2,1,No,In-Store,23,No
+CUST10835,41,Male,Central,43740.18,0.5,Yes,Ignored,6,1,11,0.6,19.7,197.05,8,24.63,0.124,6.8,0,No,Mobile App,17,No
+CUST10789,18,Male,South,77535.92,1.8,Yes,Ignored,4,1,6,1.2,74.8,897.65,8,112.21,,3.9,1,Yes,Online,102,No
+CUST11081,34,MALE,South,65605.43,3.8,Yes,Ignored,6,1,9,3.3,78.3,333.97,11,30.36,0.241,7.9,0,No,Online,5,No
+CUST11162,21,Female,North,,0.8,Yes,Ignored,6,1,5,7.5,82.5,1417.72,11,128.88,0.545,4.9,2,Yes,Mobile App,301,Yes
+CUST10049,18,Male,East,68530.42,2,Yes,Unsubscribed,11,1,5,0.9,41.9,1012.6,13,77.89,0.402,7.8,1,No,Online,15,No
+CUST10875,60,Male,Central,53883.03,15.9,Yes,Ignored,7,1,5,3.8,30.1,1020.39,9,113.38,0.507,7.2,1,Yes,In-Store,108,No
+CUST10775,19,Male,North,42074.62,3.6,Yes,Ignored,9,5,5,3.3,63.1,610.38,7,87.2,0.397,7.7,2,No,Mobile App,6,No
+CUST10526,18,Female,West,41143.87,5.9,No,Responded,2,0,7,3.6,23.8,2091.2,5,418.24,0.269,9.4,1,Yes,Online,86,No
+CUST11175,35,Male,South,43858.25,2.2,Yes,Ignored,9,5,8,1.1,79.5,1056.06,8,132.01,0.053,5.7,3,No,Mobile App,22,No
+CUST10907,47,Male,North,108734.42,0.6,Yes,Responded,5,0,7,1.1,75.5,1044.7,11,94.97,0.213,3.9,3,No,In-Store,2,No
+CUST10462,30,Male,North,37037.58,1.2,No,Responded,8,2,6,2.9,27.1,1412.74,12,117.73,0.481,5.7,0,No,In-Store,64,No
+CUST11124,58,Female,North,49199.62,2,Yes,Responded,4,2,9,,47.7,312.14,5,62.43,0.681,4.6,2,Yes,In-Store,12,No
+CUST10636,48,Female,North,35994.97,0.1,Yes,Ignored,4,1,5,6.3,11.3,1566.79,7,223.83,0.207,8.1,2,No,Online,6,No
+CUST11031,18,Female,Central,64399.54,1.1,No,Responded,4,1,7,0.5,46.3,931.67,6,155.28,0.685,8,2,No,In-Store,57,Yes
+CUST10468,32,Male,North,78388.56,7.1,No,Ignored,2,1,5,0.9,23.8,636.73,10,63.67,0.273,5.6,1,No,In-Store,113,Yes
+CUST10033,25,Male,West,70458.3,4.8,Yes,Ignored,11,4,5,10,21.1,924.59,10,92.46,0.711,6.1,1,Yes,Mobile App,19,No
+CUST10416,57,Female,North,110734.75,3.7,Yes,Unsubscribed,2,0,13,3.4,50.2,570.27,6,95.04,0.3,7,0,Yes,Mobile App,15,Yes
+CUST10247,30,Male,Central,57349.91,0.7,Yes,Responded,8,2,9,0,30.2,1251.02,5,250.2,0.388,7.8,2,No,In-Store,7,No
+CUST10846,41,Female,East,40173.27,3.3,No,Ignored,4,1,7,3.7,75.8,338.24,10,33.82,0.369,6.4,2,Yes,Online,43,Yes
+CUST10766,38,Other,Central,30397.05,0.1,Yes,Responded,1,0,12,5.5,99.9,859.46,6,143.24,0.126,,1,No,In-Store,132,No
+CUST11071,44,Male,East,143824.95,0.3,Yes,Ignored,8,3,9,2.3,42.4,489.33,12,40.78,0.158,4.3,1,No,Online,1,No
+CUST10836,57,Male,South,57460.68,2.8,Yes,Unsubscribed,10,3,9,,1.6,594.04,12,49.5,0.419,8.2,1,No,Online,14,Yes
+CUST10216,29,Male,Central,68043.54,10,No,Ignored,8,4,8,2.8,25.6,821.85,8,102.73,0.263,5,0,No,Online,41,Yes
+CUST11179,25,Male,West,32529.89,2.4,Yes,Ignored,12,1,10,1.8,39.3,895.95,16,56,0.348,4.8,2,No,In-Store,65,No
+CUST10774,45,Female,South,54216.79,0.5,Yes,Responded,4,1,12,0.4,65.2,440.01,7,62.86,0.297,8.3,4,No,In-Store,60,No
+CUST10543,55,Other,Central,33282.29,0.7,No,Responded,6,1,7,2.5,70.3,1402.29,10,140.23,0.213,5.7,1,No,In-Store,43,No
+CUST10493,28,Female,South,11079.76,1.9,Yes,Responded,6,4,5,5.2,7.5,2197.23,8,274.65,0.336,10,1,Yes,Online,13,No
+CUST10464,37,Female,North,41599.23,3.9,No,Ignored,5,1,8,2.2,4.2,1008.9,6,168.15,0.379,7,1,No,Online,63,No
+CUST10391,44,Male,North,46259.95,8.5,No,Ignored,11,3,9,2.8,78.9,1019.38,14,72.81,0.11,4.4,1,Yes,Mobile App,144,No
+CUST10438,18,Female,South,48060.01,0.1,Yes,Responded,8,1,5,5.4,16.6,1602.39,9,178.04,,5.7,2,No,In-Store,10,No
+CUST11196,38,Female,North,23525.7,1.3,Yes,Ignored,7,3,9,4.5,0.3,955.49,5,191.1,0.512,9,0,No,Mobile App,11,No
+CUST10326,52,Female,East,67728.09,9.2,Yes,Ignored,7,3,6,5.9,13.7,1008.74,13,77.6,0.312,6.3,0,Yes,In-Store,231,Yes
+CUST11114,40,Male,South,32523.38,7.4,No,Ignored,3,1,5,2.4,79.9,2169.11,8,271.14,0.844,5.8,2,No,Online,8,Yes
+CUST10465,35,Male,West,90227.51,0.6,Yes,Ignored,5,1,10,2.4,83.8,1433.32,6,238.89,0.294,6.3,3,No,Mobile App,7,No
+CUST10553,41,Female,Central,,1,Yes,Responded,7,2,7,6.2,19.5,492.41,2,246.2,0.342,8.5,1,No,In-Store,33,No
+CUST10061,36,Female,West,18190.2,5.8,Yes,Unsubscribed,9,6,6,2.6,16.9,1933.83,6,322.3,0.09,8.9,4,No,In-Store,142,Yes
+CUST10418,52,Male,Central,60190.01,3.7,Yes,Responded,5,1,8,0.9,47.3,1853.07,7,264.72,0.415,9,0,Yes,In-Store,77,No
+CUST10792,41,Female,North,78304.36,2.3,Yes,Ignored,6,0,13,0.3,73,1012.11,9,112.46,0.255,9.7,1,No,Online,9,No
+CUST11168,45,Female,West,91768.41,3.3,Yes,Ignored,4,0,10,1.7,34.2,841.47,10,84.15,0.218,5.8,1,Yes,Mobile App,43,No
+CUST10538,50,Male,South,81369.2,1,Yes,Ignored,6,1,13,6.2,81.6,938.37,9,104.26,,6.3,0,No,Online,20,No
+CUST10155,29,Female,South,137931.79,11.8,Yes,Responded,8,4,6,6.5,25.2,841.83,4,210.46,0.646,8.3,1,Yes,Online,108,No
+CUST10945,25,Male,South,64351.13,1.8,Yes,Ignored,3,0,6,0.2,60.8,1021.16,8,127.64,0.533,5.2,3,No,In-Store,28,Yes
+CUST10977,18,Male,Central,43526,4.1,No,Ignored,9,3,12,1.8,10.6,756.85,11,68.8,0.278,4.7,1,No,Online,36,Yes
+CUST10610,46,Male,West,,5,No,Ignored,10,3,6,4.4,81.6,851.89,10,85.19,0.219,7.8,1,Yes,Online,51,No
+CUST10366,41,Male,North,69134.76,2.1,Yes,Responded,6,1,15,2.2,82.4,1692.53,7,241.79,0.735,8.2,1,No,Online,204,Yes
+CUST10348,29,Female,Central,,1,Yes,Ignored,4,1,5,7.7,25.9,796.89,11,72.44,0.38,8.6,2,No,Mobile App,83,No
+CUST11151,18,Female,West,33960.85,2.9,No,Responded,7,1,10,,63.2,1018.65,6,169.78,0.498,4.5,0,Yes,Online,41,No
+CUST11088,35,Other,Central,56817.82,1.1,No,Responded,6,1,11,1.6,77,743.56,11,67.6,0.6,,0,Yes,In-Store,57,No
+CUST10166,48,Male,South,,8.2,No,Ignored,7,1,12,3.5,51.1,826.87,7,118.12,0.288,9.1,1,Yes,In-Store,51,No
+CUST10850,31,Female,South,100276.55,5.4,No,Responded,4,1,4,2.8,,998.21,11,90.75,0.287,9.1,0,No,Online,21,No
+CUST10904,40,Female,West,56886.22,0.6,Yes,Unsubscribed,6,2,7,5.3,53.6,697.5,9,77.5,,6.3,4,No,In-Store,82,Yes
+CUST10546,45,Male,Central,25417.79,0.6,Yes,Unsubscribed,3,1,5,2.7,26.8,1757.03,12,146.42,0.244,7.9,4,No,In-Store,63,Yes
+CUST10204,21,Male,West,47943.31,3.4,No,Ignored,9,4,7,5.6,58.8,1311.04,11,119.19,0.166,8.8,1,No,Online,38,Yes
+CUST10878,38,Male,North,70799.34,5.3,Yes,Ignored,7,1,7,1.2,86.1,492.4,5,98.48,0.277,6.8,2,Yes,Online,29,No
+CUST11087,41,Female,South,27933.24,4.8,Yes,Ignored,5,1,7,11.7,75.9,535.51,11,48.68,0.103,7.5,2,No,Mobile App,47,Yes
+CUST10186,44,Male,West,56489.26,0.1,No,Ignored,8,2,5,,3,331.79,11,30.16,0.434,4.9,1,Yes,Mobile App,40,No
+CUST11164,50,Male,North,36798.95,0.8,Yes,Unsubscribed,9,1,6,0.9,40.8,1099.64,6,183.27,0.205,6.2,2,Yes,Mobile App,11,Yes
+CUST10009,45,Male,Central,68286.82,1,Yes,Ignored,7,1,16,4.9,64.5,983.27,10,98.33,0.436,5.1,1,Yes,In-Store,46,Yes
+CUST10010,32,Female,West,69192.33,2.8,No,Ignored,9,3,12,2.3,88.6,807.98,14,57.71,0.464,6.8,2,Yes,Online,5,No
+CUST10913,57,Female,East,,1.8,No,Ignored,7,4,6,0.8,94.3,239.13,6,39.85,0.116,8.9,4,No,Online,112,No
+CUST10831,27,Female,East,47520.4,3.9,Yes,Responded,5,1,5,6,72.6,1044.75,5,208.95,,6.6,0,No,Mobile App,11,No
+CUST10742,31,Female,North,24640.58,1.9,Yes,Responded,9,2,6,9.9,99,1501.73,8,187.72,,5.2,0,Yes,In-Store,55,Yes
+CUST10555,33,Female,South,46884.04,1.3,Yes,Ignored,5,1,7,2.5,88.8,840.06,3,280.02,0.025,8.3,0,No,Online,24,No
+CUST10289,31,Male,Central,66151.29,4,Yes,Responded,4,0,9,1.9,3.2,979.6,11,89.05,0.613,5.9,1,No,Online,23,No
+CUST10427,46,Female,North,16182.62,3.1,No,Ignored,5,0,13,1.4,3.6,624.51,6,104.08,0.295,6.1,0,Yes,Online,146,No
+CUST10561,63,Other,South,32131.04,1.9,Yes,Ignored,0,0,6,2,31.4,1139.62,16,71.23,0.631,9,1,No,Mobile App,38,No
+CUST10659,36,Female,Central,34353.35,4.7,No,Responded,7,3,13,2.2,0.6,1612.3,5,322.46,0.665,7.4,2,No,Online,10,No
+CUST11131,43,Female,South,77101.42,1.1,No,Responded,9,4,7,4.6,5.2,2098.73,14,149.91,0.135,6.9,4,Yes,Online,10,No
+CUST10992,35,Female,Central,32694.55,,Yes,Responded,11,1,12,8.1,16.5,966.07,9,107.34,0.243,7,0,No,Online,31,No
+CUST10876,32,Male,South,62540.99,0.6,Yes,Responded,9,2,6,14.5,91.5,673.35,7,96.19,0.094,6.1,0,No,In-Store,65,Yes
+CUST10702,30,Male,South,46158.17,,Yes,Ignored,5,3,10,6.7,90,1149.95,11,104.54,0.096,6.5,0,Yes,Online,75,No
+CUST10151,42,Female,North,54104.21,4.3,No,Responded,9,2,8,6.2,12.9,501.84,7,71.69,0.226,7.2,1,No,Online,43,No
+CUST10112,39,Female,Central,35681.2,1.5,Yes,Ignored,6,2,6,1.9,12.2,2133.95,13,164.15,0.463,2.9,0,No,Mobile App,19,No
+CUST10785,51,Female,South,54634.56,3.2,Yes,Ignored,5,1,4,8.7,88.4,182.01,8,22.75,0.154,6.9,1,No,Online,9,No
+CUST10423,50,Female,South,24923.77,9,No,Responded,7,1,7,0.7,53.1,847.78,10,84.78,0.427,6.5,0,Yes,In-Store,138,Yes
+CUST11123,24,Male,North,54214.22,0.9,Yes,Ignored,3,1,6,2.9,59.7,1050.16,13,80.78,0.487,6.9,1,Yes,Mobile App,26,No
+CUST10953,55,Female,West,83513.6,2.9,No,Responded,5,2,5,2.7,31.6,858.92,8,107.36,0.159,7.8,2,No,Online,1,No
+CUST10461,38,Female,East,70448.22,10.2,Yes,Unsubscribed,7,2,6,2.6,66,904.09,13,69.55,0.344,6.3,0,Yes,Online,69,No
+CUST10849,32,Male,East,50351.64,1,No,Responded,4,1,6,2,22,822.03,7,117.43,,5.8,3,No,Online,40,No
+CUST10000,44,Male,West,44376.72,0.6,Yes,Responded,5,1,8,3.3,12.7,1076.05,12,89.67,0.17,5.8,1,No,Online,37,No
+CUST10768,30,Male,North,27747.07,0.8,No,Unsubscribed,7,2,3,3.7,21.3,1469.61,6,244.93,0.249,5.2,0,No,Mobile App,22,Yes
+CUST11093,39,Male,North,24582.72,0.3,Yes,Ignored,7,1,11,11,83.4,568.81,6,94.8,0.268,6.9,1,No,Online,34,No
+CUST10857,44,Female,North,62624.51,3.3,No,Responded,6,3,13,0.1,18.7,544.72,14,38.91,0.21,8.4,2,Yes,Online,15,Yes
+CUST11085,43,Male,South,,1.9,Yes,Responded,2,0,10,4.1,13.3,1074.86,9,119.43,0.257,10,1,No,Online,23,No
+CUST10646,18,Male,Central,65975.02,0.2,Yes,Ignored,10,2,10,0,79.8,656.54,7,93.79,0.088,5.8,1,No,Online,34,Yes
+CUST10656,38,Female,West,25007.47,0.2,Yes,Responded,5,2,6,3.6,78.3,472.09,4,118.02,0.353,5.3,0,Yes,Online,58,No
+CUST10888,45,Male,Central,72807.31,0.7,Yes,Ignored,9,2,11,0.9,63.5,971.38,9,107.93,0.386,8.7,6,Yes,Online,2,No
+CUST10411,25,Female,South,39250.6,4.7,Yes,Responded,11,4,7,1,3.4,837.65,7,119.66,0.036,5.9,0,No,Online,15,No
+CUST10322,28,Female,West,88399.42,10.3,No,Unsubscribed,5,2,4,7.6,22.6,1291.05,10,129.1,0.155,8.7,1,No,Online,81,No
+CUST10001,36,Female,East,41582.62,0.5,Yes,Responded,10,4,9,2,11.3,921.84,12,76.82,0.408,4.4,1,No,Online,36,No
+CUST10671,18,Male,North,41937.16,2.7,No,Ignored,6,4,9,1.1,82.7,825.05,11,75,0.177,7.3,2,No,Online,13,No
+CUST10435,39,Female,South,42785.44,3.3,Yes,Unsubscribed,5,1,4,0.9,95.3,397.66,10,39.77,0.306,4.8,1,No,Online,8,No
+CUST10452,26,Male,East,105684.64,8.3,Yes,Ignored,4,2,12,1.3,23.5,829.12,9,92.12,0.255,7.2,3,No,Online,140,No
+CUST10038,22,FEMALE,Central,82483.96,9.3,Yes,Responded,8,5,7,4,75.3,847.32,9,94.15,0.291,5.5,2,Yes,Mobile App,76,No
+CUST10183,44,FEMALE,West,29357.83,9.4,Yes,Ignored,4,1,14,21.4,34.9,1375.33,8,171.92,0.149,6.9,2,No,Mobile App,15,No
+CUST10217,35,Male,West,69250.82,9.4,no,Ignored,1,0,10,3.3,47.5,516.44,6,86.07,0.207,9.3,2,No,Online,9,No
+CUST10655,39,Male,South,,4.2,Yes,Ignored,5,2,4,0.3,25.7,1066.86,16,66.68,0.298,,1,Yes,Mobile App,9,No
+CUST10306,53,Female,West,87150.18,2.8,No,Responded,6,1,7,0.9,,709.91,11,64.54,0.088,2.7,0,Yes,In-Store,69,No
+CUST11115,42,Female,South,58128.31,0,Yes,Ignored,2,1,5,,97.6,1357.35,17,79.84,0.143,6.3,1,No,Online,33,No
+CUST10549,31,Female,North,82257.23,4.4,Yes,Unsubscribed,5,3,8,0.9,51.1,1863.84,5,372.77,0.087,8.1,1,Yes,Online,21,No
+CUST10313,48,Female,North,94290.88,2.7,Yes,Ignored,7,3,17,7.1,68.5,1084.29,9,120.48,0.095,7.3,0,No,Online,25,No
+CUST10840,37,Female,North,36003.47,3.3,Yes,Responded,6,1,9,9.5,47.6,804.29,13,61.87,0.121,5,2,No,Online,11,No
+CUST10331,27,Female,Central,51426.77,3.4,Yes,Responded,6,1,4,7.3,53,1135.63,11,103.24,0.111,5,1,No,Online,77,Yes
+CUST10036,41,Other,Central,30352.24,2.2,Yes,Responded,4,2,7,3.8,55,1045.31,6,174.22,0.259,8,2,No,In-Store,48,No
+CUST10993,30,Female,West,55745.18,3.4,No,Responded,4,1,7,2.2,89.3,406.77,12,33.9,0.085,9.5,1,No,In-Store,30,No
+CUST11103,36,Male,North,39624.4,4.3,Yes,Responded,3,1,7,,36.8,1225.82,13,94.29,,5.9,3,Yes,Mobile App,2,No
+CUST10829,35,Female,East,,6.6,Yes,Ignored,14,3,8,0.2,64.1,1052.52,13,80.96,0.271,6.6,1,Yes,Mobile App,38,No
+CUST10937,47,Other,East,70198.56,3.9,No,Unsubscribed,6,3,7,9.8,10.1,936.68,7,133.81,0.527,7.3,1,Yes,Online,4,Yes
+CUST10738,58,Other,South,91402.52,3.9,No,Ignored,4,1,5,5.3,22.7,981.66,9,109.07,,6.8,3,Yes,Online,133,No
+CUST10577,47,Female,West,56333.22,0.2,No,Ignored,6,2,2,7.3,28.7,2173.15,10,217.32,0.374,8.4,0,No,Mobile App,1,No
+CUST10433,47,Female,South,100446,0.8,Yes,Ignored,6,1,8,2.8,40.5,954.2,6,159.03,0.704,6.3,1,No,Mobile App,46,No
+CUST10163,28,Male,North,46187.48,0.3,No,Responded,4,1,3,0.7,70.1,528.33,16,33.02,0.072,8.1,3,No,Mobile App,2,No
+CUST10263,26,Female,South,73165.81,0.3,Yes,Ignored,8,1,10,3,22.8,585.37,14,41.81,0.52,5.9,2,Yes,Online,8,No
+CUST10231,41,Female,Central,37469.8,1.9,Yes,Responded,4,1,10,1.6,9.7,896.5,10,89.65,0.133,6.8,1,No,Online,43,No
+CUST10302,47,Male,North,92958.8,0.8,No,Ignored,5,2,11,0.9,50.6,1588.09,11,144.37,0.374,7.8,1,No,In-Store,45,Yes
+CUST10175,48,Male,North,82352.59,,No,Ignored,7,2,7,2.7,39.4,850.45,17,50.03,0.147,5.9,0,No,In-Store,3,No
+CUST11185,49,Other,South,93316.92,1.2,Yes,Ignored,9,6,6,0.9,79.4,558.58,12,46.55,0.135,7.3,1,No,Online,54,Yes
+CUST10149,42,Male,South,81437.44,9.4,Yes,Unsubscribed,4,2,8,1,41.7,821.54,8,102.69,0.25,7.6,2,No,Mobile App,75,No
+CUST11155,50,Male,South,,4.6,Yes,Responded,5,1,13,6.9,94.7,698.46,12,58.21,0.15,,3,No,Online,45,Yes
+CUST10071,56,Female,South,39063.41,9.8,Yes,Ignored,5,1,9,1.6,69.5,1114.34,2,557.17,0.157,,1,No,Mobile App,5,No
+CUST10168,35,Male,West,67780.39,1.6,Yes,Responded,10,1,8,6.7,46,630.72,7,90.1,0.329,9.2,1,No,In-Store,37,No
+CUST10455,28,Male,Central,47421.15,7.4,Yes,Ignored,7,1,7,0.9,72.6,502.88,7,71.84,0.415,7.5,4,No,In-Store,2,No
+CUST10089,44,Male,North,59554,3,No,Ignored,6,1,6,3.1,95.5,466.62,9,51.85,0.33,9.5,1,No,In-Store,5,No
+CUST10117,24,Female,East,108150.44,7.3,No,Ignored,5,4,14,1.3,57.7,718.23,6,119.7,0.459,6.1,2,No,In-Store,59,Yes
+CUST10944,60,Female,West,37637.7,8.1,No,Unsubscribed,4,1,9,0.2,68.3,3443.06,3,1147.69,,9.4,3,Yes,Mobile App,144,Yes
+CUST10321,45,Female,West,65072.25,0.1,Yes,Ignored,6,2,5,6.2,31.4,624.82,14,44.63,0.169,6.4,0,No,Online,39,Yes
+CUST10911,41,Male,Central,50104.27,4.3,Yes,Ignored,6,1,14,1.1,89.7,918.93,10,91.89,0.277,5.6,1,No,Mobile App,43,Yes
+CUST10459,24,Female,West,71125.12,1.1,No,Responded,7,1,13,4.9,33.8,1576.55,9,175.17,0.459,8,1,No,Mobile App,71,No
+CUST11178,26,Male,East,171778.42,6.2,Yes,Responded,6,3,10,1.9,46.5,1515.26,14,108.23,0.539,4.3,0,Yes,Online,81,No
+CUST10780,40,Female,Central,35801.08,3.7,No,Ignored,3,1,5,3.2,23,1860.75,1,1860.75,0.452,3.9,1,Yes,Online,209,Yes
+CUST10859,46,Male,South,42580.87,,Yes,Unsubscribed,10,1,12,3.9,55.6,1466.22,9,162.91,0.529,8.5,3,Yes,Mobile App,12,No
+CUST11017,32,Male,South,94319.34,5.1,No,Ignored,3,2,7,5.5,76.6,255.22,7,36.46,0.325,3.8,1,Yes,Online,120,Yes
+CUST10827,32,Male,South,50586.15,0.3,Yes,Responded,6,3,7,5.7,10.3,1273.44,8,159.18,0.174,5.8,2,Yes,Mobile App,8,No
+CUST10270,55,Female,North,127716.09,2.4,Yes,Ignored,9,3,9,2.8,57.8,937.83,7,133.98,0.519,6.3,3,No,In-Store,27,Yes
+CUST10111,38,Male,North,61239.73,0.2,No,Responded,4,1,6,4.2,58.9,1291.04,10,129.1,0.175,5.5,0,Yes,Mobile App,15,No
+CUST10595,32,Male,North,63113.62,0,No,Responded,5,3,7,2,7.5,1080.83,8,135.1,0.325,5.5,0,No,In-Store,6,No
+CUST10516,44,Male,West,45913.89,0.9,Yes,Unsubscribed,3,0,9,10.5,61.6,1128.19,7,161.17,0.497,10,2,Yes,In-Store,27,No
+CUST10226,39,Female,South,20673.27,2.4,Yes,Unsubscribed,8,1,6,0.6,50.3,1031.48,8,128.94,0.491,6.5,2,No,In-Store,71,Yes
+CUST10496,26,Female,West,74074.38,4.3,Yes,Ignored,5,1,5,2.4,78.9,547.04,8,68.38,0.329,5.9,1,No,Mobile App,6,No
+CUST10498,27,Male,East,61309.88,6.9,Yes,Ignored,6,0,6,9.6,99.2,868.16,13,66.78,0.262,5.8,1,Yes,In-Store,3,No
+CUST10906,22,Female,North,69861.1,0,No,Ignored,2,1,11,5.6,55.5,1213.09,7,173.3,0.517,6.6,3,No,Mobile App,15,No
+CUST11014,59,Male,East,44907.08,3.3,Yes,Ignored,5,1,7,1.5,64.3,522.68,11,47.52,0.514,4.7,1,No,Online,19,No
+CUST10195,43,Male,West,32760.05,0.3,Yes,Ignored,3,0,14,,88,1969.7,3,656.57,0.802,8.4,0,No,Online,24,No
+CUST10336,28,Male,West,88561.17,1.5,no,Responded,2,1,3,0.9,92.1,946.15,10,94.62,0.126,7.5,1,Yes,Online,124,No
+CUST10970,40,Female,South,59948.66,0.2,No,Ignored,5,1,8,0,88,840.38,12,70.03,0.275,7.3,3,Yes,Online,25,No
+CUST10856,28,Female,North,132495.8,1.5,No,Ignored,8,1,7,2.5,4.6,764.15,7,109.16,0.446,2.5,4,No,In-Store,6,Yes
+CUST10701,51,Male,North,41682.49,8.1,Yes,Responded,4,3,7,4.9,53.7,924.78,8,115.6,0.473,6.4,2,No,In-Store,166,Yes
+CUST10137,34,Female,Central,43443.92,5.6,Yes,Responded,6,2,8,9.9,,872.42,6,145.4,0.094,6.2,0,Yes,Online,27,Yes
+CUST10793,23,Male,West,20814.95,1.6,yes,Ignored,6,4,8,10.6,24.5,1138.48,14,81.32,0.595,5,0,Yes,In-Store,14,Yes
+CUST10528,41,Male,West,88006.87,0.5,Yes,Ignored,3,0,8,1.2,43.5,788.19,12,65.68,0.792,10,0,No,In-Store,34,No
+CUST10507,28,Female,North,108500.53,2.3,Yes,Ignored,6,2,9,0.8,89.9,623.58,8,77.95,0.217,7.2,2,No,Online,45,No
+CUST10709,58,Male,West,88923.55,1.8,Yes,Unsubscribed,3,2,12,3.7,96.6,1028.73,6,171.46,0.356,6.3,2,No,Online,77,Yes
+CUST10393,60,Male,Central,,2.6,Yes,Responded,6,1,6,4.7,10.3,2777.86,10,277.79,0.194,6.6,2,Yes,Online,141,No
+CUST10382,18,Female,West,23916.57,7.4,No,Ignored,4,1,7,1.2,65.9,442.31,11,40.21,0.476,8.9,1,No,In-Store,22,Yes
+CUST10221,18,Male,East,13043.87,2.5,No,Responded,12,2,6,0.7,70.8,1782.47,11,162.04,0.263,4.8,1,No,Online,36,No
+CUST10954,37,Female,South,32941.38,0.6,Yes,Unsubscribed,5,3,7,4.1,76.6,1278.67,7,182.67,0.1,7.8,0,No,Online,5,Yes
+CUST10677,59,Male,East,17733.56,1.1,Yes,Ignored,3,1,7,1.1,67.6,807.28,10,80.73,0.358,,1,No,Online,80,No
+CUST10706,23,Female,Central,,0.5,No,Ignored,7,1,5,0.4,62,1898.55,11,172.6,0.113,,1,No,Mobile App,85,No
+CUST10328,45,Female,Central,63605.02,3.8,No,Responded,5,2,4,2.8,25.6,361.77,8,45.22,0.174,,1,No,Mobile App,10,Yes
+CUST10012,41,Male,North,53470.26,3.7,Yes,Ignored,8,2,4,0.6,68.8,1155.12,16,72.19,0.254,8.8,0,No,Online,9,No
+CUST10980,47,Male,North,41671.12,1.3,Yes,Ignored,3,0,9,1.8,,229.7,9,25.52,0.314,,2,Yes,Mobile App,73,No
+CUST10083,32,Male,West,74486.31,2.9,Yes,Ignored,5,2,7,0.6,32,888.41,11,80.76,0.232,9.7,2,Yes,Mobile App,23,No
+CUST10206,44,Other,Central,70333.64,6.8,No,Ignored,1,0,7,0.3,21.3,996.13,13,76.63,0.124,5.5,0,Yes,Online,13,No
+CUST10103,28,Male,South,89658.23,,No,Unsubscribed,3,1,5,4.6,2.4,1500.4,7,214.34,0.111,7.2,0,Yes,In-Store,6,Yes
+CUST10309,36,Male,North,57910.43,6.2,no,Ignored,4,1,9,20.1,77.2,912.85,9,101.43,0.155,9.1,0,No,Online,4,No
+CUST10736,41,Male,East,69409.64,1.6,Yes,Ignored,5,1,7,0.2,67.3,1546.32,9,171.81,0.539,6.5,3,No,Online,61,No
+CUST11163,18,Female,South,45606.78,1.9,No,Ignored,4,1,6,0.1,50.7,1349.89,2,674.94,0.154,5.6,1,Yes,Mobile App,24,Yes
+CUST10180,46,Female,West,53158.81,3.2,No,Responded,9,3,12,0.3,27.1,933.25,9,103.69,0.196,6.7,0,Yes,In-Store,15,No
+CUST10837,26,Female,South,48350.39,10.2,Yes,Ignored,4,2,5,6.3,13.2,427.47,4,106.87,0.429,6.7,0,No,Online,59,Yes
+CUST11129,42,Male,Central,68600.44,0.6,No,Ignored,7,1,7,8,33,686.45,13,52.8,0.223,7.1,1,No,Online,13,Yes
+CUST10497,36,Female,North,34150.29,0.2,No,Ignored,13,3,10,1.2,81,655.64,13,50.43,0.642,8.8,0,No,Online,5,No
+CUST10316,46,Other,East,,6.5,Yes,Ignored,4,1,10,0.1,20.3,1770.74,3,590.25,0.24,7.3,0,Yes,Mobile App,14,No
+CUST10141,54,Female,West,102661.53,1.3,Yes,Ignored,2,0,9,1.6,87.4,461.77,8,57.72,,8,0,Yes,Mobile App,41,No
+CUST10951,42,Male,South,54391.62,2,Yes,Responded,8,5,11,1.7,1.5,557.38,9,61.93,0.134,6.7,0,Yes,Online,8,Yes
+CUST10327,47,Female,Central,57028.82,3,Yes,Responded,7,1,7,0.5,72.8,1833.05,5,366.61,0.205,5,2,Yes,Mobile App,2,No
+CUST10660,31,Male,South,76285.79,0.7,No,Responded,5,2,8,4,57,1616.05,10,161.6,0.392,7.9,3,No,In-Store,32,Yes
+CUST11018,34,Male,East,85531.96,4.8,No,Ignored,7,4,11,8.9,54,733.59,10,73.36,0.388,6.7,0,No,In-Store,3,Yes
+CUST10210,45,Male,South,57180.51,5.1,Yes,Responded,6,1,13,6.6,42.1,2240.78,8,280.1,0.309,3.7,0,Yes,Online,8,No
+CUST10567,26,Male,West,65225.66,2.2,Yes,Responded,6,2,10,10.1,3.3,1224.97,3,408.32,0.439,7.9,2,Yes,In-Store,18,No
+CUST10142,19,Male,South,117126.04,5.2,No,Unsubscribed,4,3,6,1.3,63.3,999.77,6,166.63,0.283,5.8,1,No,Mobile App,6,Yes
+CUST10514,31,Female,South,,5.3,No,Responded,10,2,11,13.6,19.8,882.27,10,88.23,0.374,5.4,0,No,Mobile App,38,No
+CUST10362,37,Male,East,42854.76,3.8,Yes,Ignored,6,2,8,5,96.5,1400.25,13,107.71,,8.6,2,Yes,Online,2,No
+CUST10004,35,Female,South,19654.29,1,No,Ignored,9,4,8,0.9,38.2,491.06,12,40.92,0.423,7.3,1,No,In-Store,7,No
+CUST10044,20,Male,East,60938.76,4.3,Yes,Ignored,10,5,7,0.3,28.7,513.99,11,46.73,0.475,4.8,2,Yes,Online,304,Yes
+CUST10281,46,Male,East,65614.49,0.1,Yes,Unsubscribed,1,0,7,1.2,23.6,356.25,8,44.53,0.224,4.7,3,Yes,Mobile App,123,Yes
+CUST10202,51,Female,West,105770.33,2.4,Yes,Ignored,1,0,3,0.1,55.4,613.71,9,68.19,0.127,6.1,2,No,Online,19,No
+CUST11078,56,Male,South,17600.41,0.7,No,Ignored,7,3,9,2.1,90.9,1597.25,11,145.2,0.311,5.7,3,No,In-Store,203,Yes
+CUST10358,42,Other,West,80167.82,0.1,Yes,Responded,6,3,9,11.5,44.4,308,12,25.67,0.375,3.4,5,Yes,In-Store,41,No
+CUST10563,34,MALE,West,110840.6,2,Yes,Ignored,12,5,3,3.7,88.1,701.7,9,77.97,,8.7,0,Yes,Online,18,No
+CUST10972,48,Female,South,84372.77,2.1,Yes,Unsubscribed,15,3,8,7.3,35,1148.12,9,127.57,0.45,6.6,2,No,Online,12,No
+CUST10371,44,Male,North,68921,3.8,Yes,Ignored,9,1,3,0.8,34.6,1622.99,9,180.33,0.251,6.5,1,Yes,Online,5,No
+CUST10983,37,Female,Central,85022.18,0.6,Yes,Ignored,6,2,8,1.3,68.4,1414.18,6,235.7,0.087,6.9,0,No,Online,47,No
+CUST10909,64,Female,East,36372.94,4.4,Yes,Ignored,8,3,6,0.5,61.4,985.38,9,109.49,0.288,2.7,1,No,Online,17,No
+CUST10237,40,Female,Central,55076.42,0.2,Yes,Responded,2,0,9,,81.9,923.33,14,65.95,0.188,4.1,1,No,In-Store,47,No
+CUST10903,53,Other,South,37898.2,2.7,Yes,Unsubscribed,11,2,6,7.1,86.8,549.96,2,274.98,0.215,3.9,0,No,Online,34,Yes
+CUST10683,44,Male,Central,18062.95,0.2,Yes,Responded,6,2,13,,30.1,1025.75,8,128.22,0.171,10,3,No,Online,3,No
+CUST10273,38,Male,South,88991.62,7.1,No,Ignored,5,1,11,4.7,17.2,763.71,11,69.43,0.236,4.6,3,Yes,In-Store,34,No
+CUST10987,49,Female,East,69248.88,4.9,Yes,Ignored,9,2,6,0.4,53.6,784.7,9,87.19,0.436,5.6,1,Yes,In-Store,41,Yes
+CUST10632,36,Male,South,61640.6,0.5,Yes,Ignored,6,3,7,0.3,38.1,1121.94,4,280.48,0.031,7.6,3,No,Online,29,No
+CUST10194,40,Female,South,57365.65,11.1,no,Ignored,10,3,6,10.6,68.1,1410.3,10,141.03,0.585,6.2,6,Yes,Mobile App,1,No
+CUST10513,27,Female,East,61477.43,1.8,Yes,Ignored,7,2,12,2.1,,1869.28,7,267.04,0.204,7.1,1,Yes,In-Store,3,No
+CUST10614,67,Male,West,119235.11,0.5,No,Ignored,8,2,9,,,746.22,5,149.24,0.161,8.9,1,Yes,Online,62,Yes
+CUST10431,18,Female,West,46416.38,7.7,No,Responded,6,3,7,5.8,56.9,549.2,7,78.46,0.17,6.7,3,No,In-Store,83,No
+CUST10674,21,Male,West,31100.98,4.1,No,Unsubscribed,8,2,6,1.4,28.2,627.4,12,52.28,0.128,6.4,1,No,In-Store,10,No
+CUST10895,46,Female,South,56682.06,4.5,No,Ignored,10,0,9,4,72.4,981.43,12,81.79,,4.7,2,No,Online,44,Yes
+CUST10209,75,FEMALE,Central,47253.5,0.7,Yes,Ignored,6,1,8,0.8,1.5,331.38,12,27.62,0.319,8.2,1,Yes,In-Store,30,No
+CUST10162,52,Male,South,40262.6,9.4,Yes,Ignored,7,2,8,1.1,74.4,327.07,11,29.73,0.287,8.1,0,No,Online,90,Yes
+CUST10635,18,Male,South,53656.19,7.7,No,Ignored,6,2,11,1.9,31.3,955.32,6,159.22,0.381,5.9,3,Yes,Online,86,Yes
+CUST10963,47,Female,West,75718.95,3.2,Yes,Unsubscribed,7,3,8,1.1,10.9,1922.33,11,174.76,0.487,7.8,3,No,Mobile App,23,Yes
+CUST10915,41,Female,North,40460.81,0.4,No,Unsubscribed,8,1,6,0.3,96.7,385.97,11,35.09,0.403,5.5,2,No,Online,37,Yes
+CUST10087,42,Male,Central,98998.33,2.1,Yes,Responded,7,1,8,0.2,48.7,478.71,6,79.78,0.259,5.3,2,No,Mobile App,8,No
+CUST10345,41,Male,West,64759.62,0.7,Yes,Responded,8,1,10,2.6,35.7,2017.37,9,224.15,0.102,10,3,No,Mobile App,30,No
+CUST10967,60,Female,South,42661.57,0.2,Yes,Ignored,6,1,7,3.7,58.6,409.61,17,24.09,0.05,6.9,1,Yes,Online,109,No
+CUST10717,40,Female,West,32799.31,1.4,Yes,Ignored,7,3,8,1.4,58.3,790.33,14,56.45,0.268,5.9,1,Yes,In-Store,14,No
+CUST10190,33,Male,Central,60667.96,8.4,Yes,Ignored,2,1,8,14.3,35.5,385.93,8,48.24,0.178,6.5,0,Yes,Online,141,No
+CUST10752,26,Female,South,80911.73,0.8,No,Ignored,7,4,6,1.4,51.5,1160.11,4,290.03,0.508,8.2,0,No,Online,61,No
+CUST10178,35,Female,West,59734.77,1.9,No,Ignored,6,3,12,0.5,47.8,522.97,8,65.37,0.311,7.5,1,Yes,Online,10,No
+CUST10556,32,Female,South,49941.2,7.9,Yes,Ignored,4,1,4,,53.2,513.96,13,39.54,0.389,5.8,0,No,Mobile App,9,No
+CUST10825,55,Male,Central,49108.96,2.9,Yes,Ignored,3,1,3,1.9,49.7,473.87,5,94.77,0.121,7.1,1,Yes,In-Store,29,No
+CUST10392,22,Male,South,63275.01,10,Yes,Ignored,7,2,13,9.6,45,1085.26,12,90.44,0.517,2.5,1,No,Online,47,No
+CUST10822,66,Female,South,32412.47,0.4,Yes,Ignored,6,0,9,11.7,82.5,1176.7,9,130.74,0.159,8.6,1,No,Online,28,No
+CUST11158,50,Male,East,46970.13,10.1,Yes,Ignored,9,2,6,1.3,55.5,558.7,7,79.81,0.648,9.1,0,No,Online,25,No
+CUST10803,32,Female,North,32586.53,0.1,Yes,Ignored,4,2,9,1.6,67.6,1478.3,6,246.38,0.106,7.2,2,No,Online,23,No
+CUST11012,63,Female,North,89506.68,9.7,yes,Ignored,8,1,6,0.7,34.7,1333.53,6,222.26,0.14,5.3,0,No,In-Store,2,Yes
+CUST10818,39,Male,East,34158.85,1.9,Yes,Unsubscribed,3,0,9,1.7,5.3,1081.77,7,154.54,0.24,7.8,1,No,Online,7,Yes
+CUST11148,57,Female,North,38395.13,1,Yes,Ignored,7,2,7,5.3,0.5,1375.96,10,137.6,0.595,6.3,4,No,Mobile App,2,No
+CUST11003,30,MALE,Central,61660.72,2.9,Yes,Ignored,7,1,10,4.7,38.1,690.03,10,69,0.113,10,2,No,Online,2,No
+CUST10511,37,Female,Central,70498.14,2.4,Yes,Responded,3,0,9,5.9,31.4,845.45,9,93.94,0.271,6.2,2,No,Mobile App,104,Yes
+CUST10893,52,Female,Central,76905.43,3.8,No,Ignored,3,0,5,10.6,35.9,1080.6,6,180.1,0.343,6,1,No,Online,12,No
+CUST10439,37,Female,South,72602.89,1,Yes,Ignored,7,4,5,2.1,58.1,506.46,9,56.27,0.494,7.8,0,Yes,In-Store,7,No
+CUST10728,32,Female,Central,42851.1,0.6,Yes,Unsubscribed,10,2,8,2.1,56.6,1885.23,10,188.52,0.531,6.8,0,No,In-Store,29,Yes
+CUST10471,18,Female,West,126171.14,0.5,No,Ignored,3,0,10,1.3,24.7,234.28,8,29.28,0.113,6.8,0,No,Online,4,No
+CUST10398,37,Male,Central,26618.91,0.1,No,Unsubscribed,4,1,7,19.7,8.8,1322.87,7,188.98,0.628,5.7,0,No,In-Store,56,Yes
+CUST10854,55,Male,North,73864.88,2.9,Yes,Ignored,5,2,6,2.6,17.2,332.26,11,30.21,0.164,8.5,1,No,Online,39,No
+CUST10035,23,Female,West,47855.2,1.3,No,Ignored,6,2,7,1.1,,338.77,9,37.64,0.413,6.1,2,No,In-Store,27,Yes
+CUST11008,51,FEMALE,North,68416.85,4.8,Yes,Responded,3,1,4,9.7,91.6,1286.3,11,116.94,0.324,10,2,Yes,Mobile App,60,No
+CUST10608,18,Male,West,49614.27,1.3,Yes,Unsubscribed,5,2,16,4.9,90.9,2523.9,7,360.56,0.467,5.9,3,No,Mobile App,23,Yes
+CUST11038,41,Male,East,99873.63,2.8,No,Responded,8,1,8,3.2,4.4,463.11,8,57.89,0.461,7.3,3,No,Online,255,Yes
+CUST10808,53,Female,South,102707.75,3.9,Yes,Responded,5,0,7,1.8,82.9,991.89,8,123.99,0.335,5.5,0,No,Online,71,Yes
+CUST10043,34,Other,Central,19994.24,0.9,Yes,Ignored,4,2,5,0.3,87.3,457.52,7,65.36,0.315,6.7,1,No,In-Store,25,Yes
+CUST10261,37,Male,North,46343.75,3.6,Yes,Ignored,3,0,8,,42.2,932.92,11,84.81,0.514,8,1,No,Mobile App,12,No
+CUST10814,50,Male,North,30695.18,2,Yes,Ignored,12,4,5,5.3,31.5,328.58,13,25.28,0.116,4.8,2,Yes,Online,23,No
+CUST10429,18,Male,Central,75949.56,0.2,No,Ignored,5,2,8,2.7,70.5,922.22,12,76.85,0.586,5.6,1,No,Online,36,Yes
+CUST10228,29,Female,West,53361.32,5.8,Yes,Unsubscribed,11,4,10,12.3,46.1,1186.65,13,91.28,0.264,6,1,Yes,Online,13,No
+CUST10724,40,Female,East,65582.52,5.8,Yes,Responded,2,1,8,6,65,998.5,9,110.94,0.258,8.7,1,No,Online,40,No
+CUST10005,35,Female,South,97597.35,0.2,No,Ignored,10,2,5,2.7,13.6,744.18,10,74.42,0.459,5.6,0,No,In-Store,162,Yes
+CUST11173,37,Female,South,70116.24,2,Yes,Responded,5,1,4,8.2,59.2,792.05,6,132.01,0.36,7.6,2,Yes,Mobile App,1,Yes
+CUST10791,40,Male,North,50515.79,1,No,Responded,8,3,7,3.4,60.4,1000.69,10,100.07,0.388,3.8,1,Yes,In-Store,79,No
+CUST11197,45,Female,North,,12.7,Yes,Responded,12,4,10,0.2,56,1150.29,7,164.33,0.292,5.4,1,No,Online,69,Yes
+CUST11111,41,Female,West,70037.89,2.6,Yes,Ignored,3,1,7,0.1,65.5,977.12,10,97.71,0.192,5.6,0,No,In-Store,51,No
+CUST10585,41,Female,North,55759.56,8.2,Yes,Responded,6,3,5,1.1,25,1025.24,5,205.05,0.092,5.1,3,No,Mobile App,21,No
+CUST10727,42,Female,West,15796.63,0.2,Yes,Ignored,7,3,7,1.9,75,639.18,9,71.02,0.284,4.6,0,No,Online,5,Yes
+CUST10318,42,Male,North,93887.14,2,Yes,Unsubscribed,4,2,6,3.7,75.7,1415.93,9,157.33,0.173,4.5,0,Yes,Online,58,Yes
+CUST10629,51,Female,North,76134.92,2.3,Yes,Ignored,9,3,6,1.6,8.5,364.15,14,26.01,0.405,5.8,2,Yes,Online,63,No
+CUST11104,51,Male,East,27111.64,1,Yes,Ignored,4,1,6,11,11.7,16820.18821,15,48.12,0.226,5.8,0,Yes,In-Store,9,No
+CUST10034,48,Female,Central,31985.37,1.7,Yes,Ignored,4,2,7,4.4,18.4,1875.43,5,375.09,0.243,6.9,3,Yes,Mobile App,10,No
+CUST10312,48,Female,South,60761.2,0.8,Yes,Responded,9,0,8,1.6,3.1,1665.61,5,333.12,0.198,8.2,2,Yes,Online,8,Yes
+CUST11188,45,Other,South,85167.14,1.8,No,Ignored,2,1,12,6.8,44.8,575.9,7,82.27,0.31,3.1,1,No,Online,5,No
+CUST10075,48,Other,South,59927.31,6.9,Yes,Ignored,4,1,9,5.3,22.4,952.5,9,105.83,0.714,7.6,2,No,Mobile App,60,No
+CUST10173,42,MALE,West,98649.41,0.6,Yes,Ignored,10,2,12,0.5,90.6,898.35,7,128.34,0.264,4.6,2,No,Online,44,No
+CUST10094,33,Female,Central,41252.59,0.6,Yes,Ignored,7,2,14,5.1,11,1409.15,8,176.14,0.128,7,0,Yes,Online,73,No
+CUST10051,33,Female,North,,1.2,Yes,Unsubscribed,5,2,7,5.9,5.1,1736.39,8,217.05,0.372,6.8,1,No,Mobile App,30,Yes
+CUST10551,36,Male,West,,8.5,Yes,Responded,3,1,7,7.8,16.2,602.85,11,54.8,0.318,10,0,No,Online,16,No
+CUST10788,37,Male,South,36174.74,3.3,Yes,Responded,7,2,6,2.5,79.7,1163.15,13,89.47,0.21,4.7,0,No,Online,45,No
+CUST11070,37,Female,West,76678.49,3.8,Yes,Ignored,10,4,7,21.7,58.1,420.53,12,35.04,0.419,8.2,1,No,Online,9,No
+CUST10419,39,Male,North,32097.95,3.4,Yes,Responded,8,1,4,5.1,89.9,1625.49,13,125.04,0.252,4.6,2,No,Mobile App,33,Yes
+CUST10747,29,Male,North,31053.3,2.7,No,Ignored,4,3,8,0.5,93.7,375.38,11,34.13,0.298,9.1,1,Yes,Online,7,No
+CUST10220,66,Male,Central,70069.79,0.6,Yes,Ignored,5,1,11,0.3,8.2,1440.85,12,120.07,0.146,7.3,1,No,Online,21,No
+CUST10508,39,Male,West,79473.37,16.8,Yes,Ignored,8,2,8,1.2,39.5,326.44,10,32.64,0.558,6,3,No,Online,37,Yes
+CUST10710,41,Male,West,84167.68,3.1,Yes,Ignored,0,0,4,11.1,11.1,632.45,11,57.5,0.267,7.7,2,Yes,Mobile App,36,No
+CUST11051,43,Male,East,45049.32,14.8,Yes,Ignored,8,1,11,0.4,43.8,1556,11,141.45,0.285,3.9,0,No,Online,63,No
+CUST10607,23,Male,North,,7.3,No,Ignored,8,2,8,,69,1658.06,12,138.17,0.135,4.2,0,No,Online,37,Yes
+CUST10387,61,Female,East,36602.12,0.4,No,Responded,6,1,8,0.9,26.2,1173.3,7,167.61,0.508,8.6,1,Yes,Online,75,No
+CUST10093,34,Female,West,104713.31,0.6,Yes,Ignored,6,2,5,6.5,38.9,768.78,8,96.1,0.244,10,1,No,Mobile App,86,No
+CUST10751,22,Male,West,96308.41,4.4,Yes,Ignored,5,2,10,0.2,56.8,909.54,8,113.69,0.291,6.9,1,No,Online,26,No
+CUST11177,37,Male,North,56349.4,3.3,Yes,Unsubscribed,11,1,5,0.3,13.8,1627.62,8,203.45,0.159,7.7,0,Yes,Online,20,No
+CUST10651,52,Male,East,70246.43,10.4,No,Ignored,8,1,8,3.7,56.3,535.16,8,66.9,0.313,8.3,0,No,Online,67,No
+CUST10148,44,Male,East,42616.06,0.9,Yes,Ignored,8,2,9,4,19.3,880.2,10,88.02,0.121,8.2,1,Yes,Online,1,Yes
+CUST10753,51,Female,West,70411.01,4.1,Yes,Ignored,6,1,14,0.3,25.5,490.05,10,49,0.321,5.2,1,No,Online,12,No
+CUST10482,19,Male,East,38224.17,5.1,No,Responded,11,7,13,2.8,28.1,900.15,8,112.52,0.503,6.6,3,No,Online,8,No
+CUST10402,38,Male,East,39541.8,1.6,Yes,Ignored,5,1,4,,51.1,1945.54,8,243.19,,10,1,Yes,Online,24,No
+CUST10249,43,Male,South,88721.24,8.5,Yes,Ignored,9,1,5,3.5,32.1,1858.5,9,206.5,,4.2,1,No,Online,45,Yes
+CUST10340,28,Female,East,52895.14,1,Yes,Responded,7,2,8,3.9,74.4,749.47,6,124.91,0.274,4.7,2,No,In-Store,16,No
+CUST10905,39,Male,North,70556.33,4.8,Yes,Responded,10,3,7,1.3,57.1,466.31,17,27.43,0.261,8.4,1,Yes,Online,1,No
+CUST10200,42,Female,South,47146.24,3,Yes,Responded,8,1,8,1.5,,302.41,14,21.6,0.536,3.6,0,No,Mobile App,1,No
+CUST10841,46,Female,North,78484.51,9.3,no,Responded,6,2,9,1.7,75.8,354.47,8,44.31,0.392,8.7,1,No,Online,66,Yes
+CUST10091,50,Female,South,56782.12,1.2,Yes,Ignored,5,2,10,1.3,82.3,1207.76,8,150.97,0.372,6.9,3,No,Mobile App,16,No
+CUST10732,43,Male,North,71559.41,0.2,Yes,Ignored,7,1,8,0.5,77.1,872.8,7,124.69,0.243,6.8,0,No,Online,18,No
+CUST10540,48,Female,Central,32075.56,1.7,Yes,Responded,7,3,6,0.3,37.8,163.7,10,16.37,0.355,8.1,1,No,In-Store,17,No
+CUST10691,52,Male,Central,43449.36,7.3,No,Ignored,12,2,9,1.4,74.7,812.72,5,162.54,0.085,5.4,0,No,In-Store,97,Yes
+CUST10584,40,Female,North,,1.1,No,Responded,2,0,4,1.5,39.9,473.01,13,36.39,0.013,3.8,0,Yes,Online,17,Yes
+CUST10442,18,Female,South,36828.21,4.5,Yes,Ignored,3,1,7,6.7,75.6,1016.76,10,101.68,,7.6,1,Yes,Mobile App,27,No
+CUST10609,56,Male,South,43178.14,0.3,No,Responded,4,1,13,6.1,16.2,699.7,12,58.31,0.587,4.7,1,No,In-Store,31,No
+CUST11187,35,Female,East,36877.42,1.9,No,Responded,6,3,6,3.7,36.5,1393.51,3,464.5,0.088,5.6,1,Yes,Online,9,No
+CUST10280,39,Female,West,27418.04,7.5,Yes,Ignored,8,3,9,1.6,33,362.5,6,60.42,0.391,7.4,0,No,Online,82,No
+CUST10410,47,Female,West,52168.73,,Yes,Responded,4,0,8,4.2,74.9,661.36,4,165.34,0.101,6.6,1,No,Online,36,No
+CUST11048,56,Male,East,76540.37,0.9,Yes,Responded,6,1,13,6.1,78.8,867.56,6,144.59,0.158,8.2,1,Yes,Online,84,No
+CUST11033,46,Female,South,50109.21,4.9,No,Ignored,6,1,10,12.8,25.2,491.65,8,61.46,0.335,8.8,0,Yes,In-Store,60,No
+CUST10568,18,Male,East,73624.22,3.3,Yes,Unsubscribed,8,3,6,0.4,8.4,200.64,6,33.44,0.535,5.7,0,Yes,In-Store,5,No
+CUST10883,51,Female,North,72339.96,1.8,Yes,Ignored,5,1,6,2.3,13.3,2124.61,9,236.07,0.324,6.3,3,No,Online,3,No
+CUST10694,45,Female,North,43004.13,2.7,No,Unsubscribed,4,1,8,0.8,97.1,596.31,9,66.26,0.668,6.6,1,No,Mobile App,40,No
+CUST11152,30,Female,South,28581.84,1.5,Yes,Ignored,4,0,5,,63.7,1316.53,10,131.65,0.272,5.1,0,Yes,In-Store,50,No
+CUST10687,34,Female,South,72773.71,5,No,Responded,6,2,6,3.1,96.9,619.7,8,77.46,0.229,5,3,No,Online,99,Yes
+CUST10335,36,Female,East,69893.21,5.1,Yes,Ignored,10,8,11,0.2,89.2,1004.14,10,100.41,0.261,7.1,4,No,In-Store,11,No
+CUST10642,35,Male,South,,11.9,Yes,Responded,2,0,6,0.8,3,696.22,12,58.02,0.399,5.8,3,Yes,Mobile App,2,No
+CUST10314,54,Male,East,148286.02,9.6,Yes,Ignored,4,0,14,1.2,85.5,672.97,10,67.3,0.287,7.1,0,No,In-Store,38,No
+CUST10782,43,Male,South,88721.77,2.7,Yes,Ignored,8,4,9,4.6,44,1009.35,9,112.15,0.164,5.3,1,No,In-Store,68,No
+CUST10891,44,Male,North,143533.94,5.8,Yes,Responded,6,2,7,0.2,54.1,894.25,11,81.3,,7.2,3,No,Online,156,No
+CUST11149,28,Male,West,31552.04,9.9,No,Ignored,2,0,6,2.4,30.3,1136.14,7,162.31,0.192,7.6,1,No,Mobile App,7,Yes
+CUST11011,40,Female,West,52367.79,0.2,Yes,Unsubscribed,6,1,10,0.4,74.5,849.61,4,212.4,0.346,8,0,No,In-Store,8,No
+CUST10506,31,Female,South,49531.59,0.4,Yes,Ignored,4,1,10,,98.4,962.9,13,74.07,0.074,5.7,0,No,Mobile App,57,No
+CUST11193,42,Male,Central,43166.68,0.8,No,Ignored,3,0,17,8.6,92.1,739.36,19,38.91,0.308,4.5,3,Yes,Online,72,No
+CUST10133,44,Other,Central,31107.28,0.4,No,Ignored,11,1,9,7.7,89.7,495.28,7,70.75,0.097,8.3,0,Yes,Online,24,No
+CUST10092,30,Female,South,24491.2,1.2,No,Unsubscribed,4,1,4,1.3,82.5,1091.39,9,121.27,0.31,5,0,No,In-Store,146,Yes
+CUST10834,38,Female,South,102313.13,0.5,Yes,Responded,7,1,8,5.4,17.5,758.1,9,84.23,0.278,6.2,0,Yes,Mobile App,64,Yes
+CUST10592,44,Female,Central,45879.27,1,No,Ignored,6,3,11,1,7.3,1154.29,8,144.29,0.2,5.5,2,No,Online,14,Yes
+CUST11176,18,Male,Central,116178.02,6,Yes,Responded,8,2,5,2.8,34.6,1114.77,10,111.48,0.479,5.8,3,No,Online,134,Yes
+CUST11036,23,Female,West,33714.9,,Yes,Ignored,8,1,12,3.7,18.8,1480.25,8,185.03,0.103,3.3,3,No,In-Store,19,No
+CUST10394,52,Female,East,92197.06,4,No,Ignored,4,2,8,1.9,33.3,735.97,12,61.33,0.108,5.5,2,No,Online,16,No
+CUST11041,32,Female,Central,,6.4,No,Responded,6,2,10,3.7,84.6,793.36,6,132.23,0.281,5.8,1,No,In-Store,11,No
+CUST11140,34,Female,East,36353,1,Yes,Responded,3,1,11,16.4,69.1,842.63,11,76.6,0.492,8.7,1,Yes,Online,17,No
+CUST10575,18,Male,East,70788.39,2.7,Yes,Responded,6,2,6,1.2,64,676.01,9,75.11,0.052,7,1,No,Online,166,Yes
+CUST10573,35,Female,North,58262.04,8.3,Yes,Ignored,7,3,6,1.5,54.5,2207.3,7,315.33,0.153,,0,No,In-Store,14,No
+CUST10278,39,Male,Central,34135.18,0.5,Yes,Ignored,5,2,5,0.8,21.3,1334.15,14,95.3,0.12,9,0,No,In-Store,109,No
+CUST10735,44,Male,Central,38491.27,1.8,Yes,Ignored,6,3,9,1.4,57.6,626.46,6,104.41,0.284,7.8,3,No,In-Store,37,No
+CUST11030,35,Male,West,52863.03,1.5,Yes,Responded,3,1,8,6.1,31.8,985.12,6,164.19,0.118,7.3,1,Yes,Online,6,No
+CUST10279,33,Other,East,48952.11,0.9,No,Unsubscribed,8,0,7,0.1,36.4,964.42,2,482.21,0.417,5,0,No,In-Store,15,Yes
+CUST10639,22,Female,East,63884.46,1.2,Yes,Ignored,6,1,4,3.4,90.9,494.55,5,98.91,0.283,7.9,3,No,Online,49,No
+CUST10337,34,Male,West,81316.98,1.7,Yes,Ignored,4,1,10,9,73.3,1366.68,3,455.56,0.274,6.4,0,No,In-Store,37,No
+CUST10227,25,Male,North,32928.88,7.9,No,Unsubscribed,3,1,6,0.6,47.6,371.47,6,61.91,,5.3,2,No,Mobile App,4,Yes
+CUST10698,49,Male,West,127368.66,2.4,No,Ignored,5,1,6,1.7,30.1,502.81,8,62.85,0.182,3.6,1,Yes,Mobile App,70,Yes
+CUST10008,32,Female,South,57078.13,3.5,No,Ignored,6,2,6,6.9,35.2,771.74,7,110.25,0.164,8.2,0,Yes,Online,29,No
+CUST10085,32,Female,South,76851.27,0.3,Yes,Ignored,4,2,9,1,23.2,1143.47,13,87.96,0.241,9,0,Yes,Online,5,No
+CUST11042,51,Female,North,71955.65,0.1,No,Responded,9,1,11,2.2,34.8,793.23,8,99.15,0.188,,2,No,In-Store,12,Yes
+CUST10885,60,Male,South,84592.91,2.2,Yes,Responded,3,0,8,0.7,11.8,1228.54,5,245.71,0.275,9.7,1,No,Mobile App,89,No
+CUST10068,42,Other,East,22926.05,10.1,Yes,Ignored,9,1,9,8.1,24.8,796.7,9,88.52,0.445,8.8,0,No,Online,25,No
+CUST11096,39,Male,North,33990.29,3.8,Yes,Unsubscribed,5,2,13,4.6,10.9,1237.58,9,137.51,0.285,6,2,No,Online,10,Yes
+CUST10096,42,Male,East,101408.72,5.5,Yes,Unsubscribed,8,3,15,4,65.6,734.39,8,91.8,,6,1,No,Online,100,Yes
+CUST10341,41,Other,South,,0.8,Yes,Ignored,6,1,4,2,93.2,2176.55,2,1088.28,0.213,4.5,3,Yes,In-Store,11,Yes
+CUST10121,27,Female,South,76370.27,2.8,No,Ignored,8,1,12,4.1,74,977.73,6,162.96,0.2,2,1,Yes,In-Store,39,No
+CUST10156,60,Male,East,46157.36,0.8,Yes,Unsubscribed,3,1,6,1.5,50.3,2145.51,8,268.19,0.379,6.8,1,No,In-Store,61,Yes
+CUST11043,38,Female,North,110008.6,1.6,No,Responded,4,1,4,1.9,34.8,1187,16,74.19,0.383,7.4,0,Yes,Online,33,No
+CUST10925,20,Female,North,55374.16,7.9,no,Ignored,2,0,9,3.3,2.3,1381.42,5,276.28,0.179,6.2,2,Yes,Online,170,Yes
+CUST10971,30,Female,South,81740.96,0.1,Yes,Responded,7,2,16,1.5,33.1,1258.33,6,209.72,0.252,8,2,Yes,In-Store,49,No
+CUST10633,33,Male,South,62283.4,2,Yes,Responded,7,0,10,3,10,1734.67,7,247.81,0.079,8,0,No,Mobile App,39,No
+CUST10470,35,Male,West,65950.3,3.9,Yes,Responded,3,0,6,23.1,79,999.53,14,71.4,0.143,6.2,1,No,Mobile App,52,No
+CUST10557,33,Male,South,19904.88,12.5,Yes,Ignored,12,4,7,2,74.8,568.9,10,56.89,0.306,9,1,No,Mobile App,81,No
+CUST10723,47,Male,West,84272.52,0.1,Yes,Ignored,3,2,9,3.4,77.8,1228.88,11,111.72,0.093,5.9,2,No,Online,11,No
+CUST10293,48,Male,Central,31800.55,1.8,Yes,Ignored,5,2,9,0.2,61.7,1324.03,8,165.5,0.02,7.6,0,No,Mobile App,52,No
+CUST10772,46,Female,South,63171.64,3.6,No,Unsubscribed,1,0,7,7.6,75.2,392.45,16,24.53,,8.2,2,Yes,Online,28,No
+CUST10414,42,Female,South,50594.65,2,No,Ignored,4,1,5,3,19,1223.87,8,152.98,0.498,5.8,3,No,Online,35,No
+CUST11039,51,Female,South,59056.5,5,No,Ignored,6,1,8,0.7,12.7,1205.43,13,92.73,0.33,5.8,2,No,Mobile App,170,Yes
+CUST11136,52,Male,Central,52839.54,0.4,No,Responded,6,2,9,2.7,10.2,1531.42,8,191.43,0.144,8.7,2,No,Online,37,No
+CUST10164,50,Female,West,42915.64,2.5,Yes,Unsubscribed,4,0,9,3.8,49.1,292.37,13,22.49,0.071,5.8,3,No,Online,43,Yes
+CUST10120,47,Male,South,52226.36,6.7,No,Unsubscribed,5,1,9,5,62.1,1870.99,12,155.92,0.207,8,1,No,In-Store,14,No
+CUST10696,42,Female,Central,74471.16,2.3,Yes,Unsubscribed,3,2,9,0.1,65.7,900.48,9,100.05,,6.3,1,No,In-Store,4,Yes
+CUST10282,57,Other,North,121008.01,4.9,Yes,Responded,8,1,6,6.2,99.3,980.58,8,122.57,0.229,7.2,1,No,Mobile App,74,No
+CUST10364,46,Other,West,38524.63,3.1,No,Ignored,8,5,10,0.8,65.3,609.34,3,203.11,0.309,8.2,2,No,In-Store,77,No
+CUST10746,40,Male,West,,2.3,Yes,Unsubscribed,6,2,3,5.7,39.6,915.14,6,152.52,0.332,4.9,1,Yes,In-Store,13,Yes
+CUST10310,35,Female,North,92921.45,5.2,Yes,Unsubscribed,5,1,8,0.1,75.9,878.96,7,125.57,0.71,5,2,No,Online,32,Yes
+CUST10510,41,Female,South,9936.03,0.8,Yes,Responded,7,1,10,0.9,3.3,2007.24,12,167.27,0.153,5.3,0,Yes,In-Store,45,No
+CUST10179,71,Other,Central,108101.72,2.1,Yes,Ignored,9,3,9,8.2,18.1,692.34,14,49.45,0.025,8.1,0,No,In-Store,30,No
+CUST10809,27,Male,East,56367.59,0,No,Ignored,5,2,9,0.3,93.8,1983.21,9,220.36,0.206,5.5,1,No,In-Store,16,Yes
+CUST10820,32,Male,West,92972.53,3.2,Yes,Responded,8,1,10,10.7,90.5,958.51,9,106.5,0.124,7.1,1,Yes,In-Store,19,No
+CUST10069,30,Female,North,88173.16,0,Yes,Ignored,1,0,6,0.5,93,690.47,10,69.05,0.056,10,4,Yes,Online,14,No
+CUST10783,45,Male,West,92501.37,2,Yes,Unsubscribed,6,2,13,6.8,21.4,609.15,7,87.02,0.372,3,3,No,Online,36,Yes
+CUST10523,45,Female,North,,2.3,Yes,Responded,2,1,8,6.3,35.3,1515.5,8,189.44,0.295,9.1,1,No,Mobile App,3,No
+CUST11132,57,Male,East,39901.34,0.1,no,Ignored,5,1,3,0.7,92.8,891.22,13,68.56,0.312,8.1,3,No,In-Store,123,Yes
+CUST10981,43,Other,East,33603.55,3.1,yes,Unsubscribed,7,1,7,6,80.4,766.71,9,85.19,0.413,,1,No,Online,17,Yes
+CUST10804,33,Female,East,113428.16,7.2,Yes,Responded,8,3,8,9.8,63.9,496.42,13,38.19,0.404,8.7,1,No,Mobile App,55,No
+CUST10815,20,Female,South,,2.4,Yes,Unsubscribed,4,1,9,19,10.9,580.56,7,82.94,0.241,7.7,1,No,Online,125,Yes
+CUST10123,21,Female,Central,33384.76,1.3,Yes,Responded,8,0,7,,48.2,1129.74,11,102.7,0.28,7.4,2,No,Online,100,No
+CUST10863,60,Male,North,74668.83,0.4,No,Responded,6,1,5,0.4,65.9,767.12,11,69.74,0.252,7,0,No,Online,10,Yes
+CUST10058,42,Male,West,36790.79,1.4,No,Ignored,5,1,5,3.6,17.5,1132.3,5,226.46,,9.4,0,No,Online,88,Yes
+CUST11121,52,Male,North,45437.41,3,Yes,Responded,5,3,3,2.7,85.3,1267.24,8,158.4,0.332,7,2,Yes,Online,34,No
+CUST10363,43,Female,South,38075.88,1.2,Yes,Responded,8,2,6,1,30.6,1605.36,7,229.34,,4.2,0,No,Mobile App,15,No
+CUST11189,26,Female,North,,0.9,Yes,Ignored,11,4,13,8.7,90.2,588.91,14,42.06,0.126,7.1,4,Yes,Online,21,No
+CUST10265,23,Male,South,25737.24,0.5,Yes,Ignored,6,1,2,,33.7,722.48,9,80.28,0.543,4.3,1,No,Online,21,Yes
+CUST10833,29,Female,West,57777.05,6.3,No,Ignored,8,1,5,1,86.3,1589.26,9,176.58,0.137,6.9,0,Yes,Online,38,No
+CUST11057,52,Female,Central,,0.5,Yes,Ignored,6,2,6,13.1,8.5,636.48,8,79.56,0.504,7,1,Yes,Mobile App,12,No
+CUST10248,59,Female,North,62150.67,1.7,No,Ignored,10,3,11,0.5,93.1,1311.21,6,218.54,0.362,5.4,3,No,Mobile App,76,No
+CUST10380,28,Female,Central,61679.99,0.8,No,Ignored,4,1,8,2.4,71.7,788.43,10,78.84,0.192,9.2,1,No,In-Store,16,No
+CUST10604,43,Female,Central,58914.55,3.6,Yes,Ignored,6,3,7,0.7,96.3,1285.44,7,183.63,0.176,6.8,1,No,Online,17,No
+CUST10976,33,Female,South,59896.01,0.6,Yes,Ignored,1,1,9,2.3,68.2,997.3,8,124.66,0.135,4.5,1,Yes,Online,53,No
+CUST11053,41,Male,Central,29037.14,9.3,Yes,Responded,5,1,10,3.6,96.7,1014.14,11,92.19,0.186,,0,No,Mobile App,7,No
+CUST10550,39,Female,South,48713.44,9.7,No,Ignored,6,2,1,1.2,61.3,283.35,10,28.34,0.263,7.7,1,Yes,Online,127,Yes
+CUST10147,22,Male,Central,89838.55,0.5,No,Ignored,5,1,9,8,65.3,1145.93,8,143.24,0.101,2.2,3,Yes,Online,132,Yes
+CUST10251,49,Male,Central,,1.9,Yes,Ignored,4,2,11,12.4,46,466.91,7,66.7,0.512,4.7,1,No,In-Store,62,No
+CUST10926,31,Female,East,93312.35,0.4,Yes,Responded,12,3,6,15.2,9,1251.94,10,125.19,0.413,5.7,1,Yes,Online,13,No
+CUST11113,44,Female,East,61391.78,0.1,No,Ignored,6,1,5,7.1,60,2122.69,10,212.27,0.192,6.5,1,No,Mobile App,45,Yes
+CUST10212,49,Male,North,64796.64,5.1,Yes,Ignored,2,1,11,1.6,85.6,837.76,9,93.08,0.216,,2,Yes,Mobile App,2,No
+CUST10440,43,Male,West,38989.77,7.5,Yes,Responded,4,1,4,0.5,23.2,1326.4,9,147.38,0.356,5.7,1,Yes,Mobile App,2,No
+CUST11032,43,Male,South,40664.34,20,Yes,Unsubscribed,7,1,10,3,20.1,897.05,11,81.55,,6.1,0,Yes,Online,67,Yes
+CUST10564,52,Male,West,88582.06,0.2,Yes,Responded,4,1,8,1.8,42.6,1210.81,14,86.49,0.127,7.9,2,Yes,Online,84,Yes
+CUST10330,38,Male,North,189158.85,1.5,Yes,Ignored,5,1,8,2.3,38.2,1052.59,9,116.95,0.154,8.2,3,No,Mobile App,79,No
+CUST10432,35,Male,North,86185.08,0,No,Ignored,8,3,7,7.6,27.1,910.31,7,130.04,0.362,10,2,No,Online,6,No
+CUST10276,40,Female,North,75949.5,2.9,No,Responded,8,1,5,0.3,49.9,583.61,12,48.63,0.55,9.5,0,No,Online,18,No
+CUST11073,23,Female,South,40017.99,0.6,Yes,Ignored,5,1,8,2.8,14.7,1830.82,11,166.44,0.251,5.4,2,Yes,Online,54,Yes
+CUST11065,25,Female,East,29706.79,5.8,No,Ignored,8,1,7,2.5,10.4,705.33,8,88.17,0.128,4.1,1,Yes,Online,7,Yes
+CUST10952,23,Female,East,62489.34,6.9,Yes,Responded,1,0,8,5.7,24,1024.53,10,102.45,0.261,7.1,4,No,In-Store,57,No
+CUST10990,41,Female,West,37278.29,2.3,Yes,Ignored,5,1,8,1.4,66.8,1055.24,10,105.52,0.55,5.2,1,Yes,In-Store,23,Yes
+CUST10901,33,Male,Central,63885.89,,Yes,Responded,3,1,9,3.2,16.4,1433.61,10,143.36,0.399,9.8,1,No,In-Store,87,No
+CUST10448,32,Other,Central,47724.65,5.7,No,Ignored,10,2,8,0.6,28.7,1007.41,5,201.48,0.457,4.2,1,Yes,Mobile App,36,No
+CUST10385,40,Female,East,74752.69,2.3,No,Responded,2,1,8,3.3,88.9,1307.47,8,163.43,0.529,7.1,1,Yes,Online,75,Yes
+CUST11005,43,Female,West,,2.6,Yes,Ignored,11,5,12,1.6,78,711.69,4,177.92,0.189,7.1,1,No,Online,18,No
+CUST10524,29,Male,West,63555.89,2.5,No,Ignored,4,1,6,2.7,14.3,1458.85,6,243.14,0.228,10,2,Yes,Online,67,No
+CUST10303,45,Female,East,29311.79,3.2,No,Responded,6,0,7,4.1,76.5,764.78,11,69.53,0.061,8.3,3,No,Online,43,No
+CUST10487,25,Male,South,17560.59,6.1,Yes,Ignored,5,0,6,6.3,35.1,2086.7,8,260.84,0.298,,2,Yes,Online,7,No
+CUST11035,57,Male,West,102732.52,1.5,No,Ignored,5,1,7,1.4,11.7,905.97,9,100.66,0.138,9.8,2,No,Online,211,Yes
+CUST11122,46,Female,South,49583.67,2.8,Yes,Ignored,3,1,11,2.8,84.6,1793.81,8,224.23,0.519,6.6,1,No,Mobile App,99,No
+CUST10940,23,Female,North,23980.98,1.4,Yes,Ignored,7,1,10,1.8,50.1,1682.18,13,129.4,0.303,8.1,1,Yes,Mobile App,5,Yes
+CUST10067,50,Female,West,84002.04,2.9,Yes,Ignored,1,0,8,0.7,15,1606.89,8,200.86,0.044,6.9,3,No,Online,23,No
+CUST10019,21,Male,South,46834.63,1.5,Yes,Unsubscribed,8,2,9,9.6,82.7,1115.25,20,55.76,0.645,8.9,1,No,Online,48,Yes
+CUST10877,41,Female,South,84457.73,0.2,Yes,Responded,5,2,8,7.7,21.7,1040.36,7,148.62,0.137,4.9,2,Yes,Mobile App,27,Yes
+CUST10324,26,Female,South,,1,Yes,Responded,11,1,2,2.4,91.3,518.74,4,129.68,0.27,6,0,No,Online,72,No
+CUST10260,27,Male,West,94671.83,4.2,No,Ignored,4,0,12,5,89.5,1358.57,9,150.95,0.25,6.3,1,Yes,Mobile App,36,No
+CUST10130,19,Male,East,51815.14,0.4,No,Ignored,10,6,9,7.8,,1072.19,7,153.17,0.238,4.7,1,No,Mobile App,21,Yes
+CUST10409,44,Male,North,47049.34,3.6,Yes,Unsubscribed,3,0,5,7.7,99,1186.15,11,107.83,0.144,6.6,1,No,Online,53,Yes
+CUST10400,19,Male,West,66432.86,0.6,Yes,Ignored,5,2,7,9.2,87.4,762.15,1,762.15,0.36,6.9,2,No,Online,52,No
+CUST11199,54,Male,East,67534.01,1.5,Yes,Ignored,6,2,7,10,63.1,1677.15,8,209.64,0.203,6.8,1,No,Mobile App,9,Yes
+CUST10054,50,Male,Central,32950.16,6.2,Yes,Ignored,5,2,7,13,57.6,1906.7,6,317.78,0.313,6.1,2,No,Mobile App,24,No
+CUST10931,61,Female,South,17411.56,1.2,Yes,Responded,6,1,9,,35.1,1344.08,6,224.01,0.239,10,2,No,Mobile App,4,No
+CUST11125,24,Male,West,55630.88,3.7,Yes,Unsubscribed,2,1,4,2.9,31.1,280.92,10,28.09,0.596,6.7,1,No,In-Store,17,No
+CUST10150,41,Other,South,,6.9,Yes,Ignored,11,4,8,1.8,82.6,914.96,11,83.18,0.539,7.6,0,Yes,In-Store,32,No
+CUST10995,35,Female,North,,2.4,Yes,Responded,10,6,8,3.5,84.4,1424.01,9,158.22,0.39,6.1,0,Yes,In-Store,22,No
+CUST10672,34,Female,West,82738.57,10.1,Yes,Responded,7,3,9,0.1,97.3,1430.44,6,238.41,0.445,7.3,1,No,Online,29,No
+CUST11019,43,Male,South,26982.18,1.3,No,Ignored,7,3,7,3.5,92.8,262.17,15,17.48,0.306,7.8,1,No,Online,20,No
+CUST11004,46,Female,South,98834.36,7.5,No,Ignored,9,2,7,2.9,16.7,211.71,10,21.17,0.062,6.5,0,Yes,Online,10,Yes
+CUST10106,61,Male,North,55991.87,2,Yes,Responded,4,1,10,0.1,26.1,558.86,15,37.26,0.539,8.5,1,No,Online,47,No
+CUST10743,38,Male,East,74975.3,2.1,No,Ignored,7,1,11,1.2,98.5,1601.91,6,266.98,0.336,5.3,3,Yes,Mobile App,12,Yes
+CUST11109,61,Female,East,57783.24,5.7,No,Ignored,5,2,11,,99.7,955.36,10,95.54,0.297,6.5,3,Yes,Online,2,Yes
+CUST10443,37,Male,Central,53763.86,8.8,Yes,Ignored,7,1,7,1.2,27.3,1767.02,9,196.34,,10,0,Yes,Mobile App,88,No
+CUST10749,21,Male,Central,67540.34,0.7,Yes,Ignored,4,2,9,3,99.9,1257.65,8,157.21,0.156,9.3,1,No,In-Store,9,No
+CUST10755,70,Male,North,77991.05,1.9,No,Responded,6,2,7,3.6,61.9,465.43,13,35.8,,6.1,0,No,Mobile App,76,No
+CUST10024,31,Female,West,31089.24,4,No,Ignored,8,3,7,0.9,22.2,824.61,15,54.97,0.345,4.1,2,No,Online,36,No
+CUST10811,33,Male,South,48596.85,2.1,Yes,Ignored,7,2,8,0.1,87.9,714.51,4,178.63,0.181,8.6,1,Yes,Online,22,No
+CUST10661,31,Female,North,41204.16,3,No,Responded,5,1,3,3.4,8.8,257.77,9,28.64,0.223,8.1,2,No,Mobile App,11,No
+CUST10838,50,Male,South,55570.51,1.9,No,Ignored,9,1,9,14.4,,1183.85,8,147.98,0.408,6.5,1,Yes,Online,32,Yes
+CUST10533,23,Male,North,48445.19,0.5,No,Ignored,7,2,7,11.1,6.8,1254.2,5,250.84,0.223,6.2,1,Yes,In-Store,83,No
+CUST11191,22,Male,South,67722.87,0.8,Yes,Responded,3,1,11,0.1,80.7,846.11,9,94.01,0.207,5.6,0,No,Online,55,No
+CUST10082,56,Female,East,62216.58,1.2,No,Ignored,6,1,6,,14.6,1496.85,11,136.08,0.156,6.6,2,Yes,Online,160,No
+CUST10255,32,Male,East,,2.9,No,Ignored,9,1,6,0.3,76.1,835.86,9,92.87,0.124,9.1,0,Yes,In-Store,14,No
+CUST10934,43,Female,West,63133.76,3,Yes,Responded,8,2,9,7.6,99.7,1122.62,7,160.37,0.305,7.6,1,No,Mobile App,30,No
+CUST10869,62,Male,West,50215.45,1.5,Yes,Ignored,5,1,12,1,1.7,792.56,9,88.06,0.147,9.2,1,No,In-Store,3,No
+CUST11108,31,Female,South,38380.15,1.5,Yes,Ignored,9,4,7,0.9,0.2,1739.42,9,193.27,0.227,7.5,0,No,In-Store,5,No
+CUST10892,51,Female,South,92651,4.7,Yes,Ignored,7,1,7,2.8,39.3,884.04,10,88.4,0.327,8.2,1,Yes,Mobile App,50,No
+CUST10873,29,Male,South,37793.29,0.2,Yes,Responded,9,5,12,0.1,0.5,1219.41,8,152.43,0.236,9.9,0,Yes,In-Store,2,No
+CUST10613,24,Female,South,71756.5,0.2,Yes,Responded,11,2,13,1.3,51.8,252.43,7,36.06,0.019,6.6,2,No,Online,56,Yes
+CUST10379,28,Female,North,51847.06,0.1,Yes,Ignored,4,0,7,2.2,9.4,1100.06,5,220.01,0.238,4.5,2,No,Online,98,Yes
+CUST10076,39,Male,South,36124.51,2.3,Yes,Ignored,6,2,9,7.6,22.2,276.17,8,34.52,0.143,8.6,1,No,Online,21,No
+CUST10388,49,Male,West,58570.26,5.7,Yes,Ignored,12,5,7,7,26.2,961.71,9,106.86,0.288,10,2,No,In-Store,46,No
+CUST10936,26,Male,West,19142.66,1.4,No,Ignored,4,1,7,8.8,96.1,989,9,109.89,0.305,6.5,6,Yes,In-Store,29,No
+CUST10406,25,Other,South,26458.55,2.5,Yes,Unsubscribed,6,0,10,10.1,85.5,317.3,7,45.33,0.484,10,2,No,Online,31,No
+CUST10291,32,Male,East,51399.35,10.9,No,Ignored,5,0,6,17.1,41.8,1001.65,8,125.21,0.104,4.8,0,Yes,Online,14,Yes
+CUST10794,25,Male,North,41891.59,8.6,Yes,Unsubscribed,5,1,4,1.3,36.6,330.96,7,47.28,0.388,4.6,1,No,In-Store,26,Yes
+CUST10715,51,Male,East,71224.84,2.9,Yes,Unsubscribed,3,1,9,2.8,9.5,636.35,15,42.42,0.339,4.8,1,No,Online,54,Yes
+CUST10110,18,Male,North,34200.45,15.9,No,Ignored,4,1,10,0.2,2.3,2272.96,11,206.63,0.197,8.7,2,No,In-Store,25,Yes
+CUST10624,57,Male,South,24468.19,0.4,Yes,Ignored,6,1,4,1.9,60.6,1072.88,7,153.27,0.091,5.6,1,Yes,Online,3,No
+CUST11068,32,Male,South,77167.51,8.6,Yes,Responded,4,1,7,1.5,65.1,643.44,5,128.69,0.126,8.1,1,Yes,Online,86,Yes
+CUST11118,40,Male,South,111543.16,1.5,Yes,Ignored,7,1,10,6.4,36.4,860.86,7,122.98,0.175,6.5,0,No,In-Store,26,No
+CUST10246,32,Male,North,84699.32,1.2,Yes,Ignored,6,3,6,9.8,99.3,534.73,11,48.61,0.226,8.6,2,No,In-Store,43,No
+CUST10145,47,Male,West,132962.5,5.6,Yes,Ignored,3,1,8,4.1,36.9,1096.57,15,73.1,,8.5,1,No,Online,16,No
+CUST11116,67,Female,North,54972.17,10.1,Yes,Ignored,6,2,7,12.4,86,1337.64,8,167.2,0.216,7.4,1,No,Online,66,No
+CUST10128,39,Male,East,47619.38,11.4,Yes,Ignored,4,2,7,7,66.5,140.58,6,23.43,0.409,9.7,2,No,Online,5,No
+CUST11099,42,Female,East,140463.48,1.7,No,Ignored,5,1,6,7.3,31.2,825.45,6,137.58,0.612,6.3,2,Yes,Online,31,No
+CUST10622,61,Female,North,24351.25,4.5,No,Unsubscribed,5,2,8,2.6,18.4,1817.87,6,302.98,,6.1,1,Yes,Online,46,Yes
+CUST11180,40,Male,West,73044.81,0.4,No,Unsubscribed,10,2,6,0.7,97.2,393.76,7,56.25,0.429,5.1,0,Yes,Online,7,Yes
+CUST10460,62,Male,South,67849.38,1.4,No,Unsubscribed,6,1,5,0.3,74.5,1212.34,10,121.23,0.206,8.1,1,No,Mobile App,72,Yes
+CUST10486,30,Female,South,56740.95,1.1,Yes,Ignored,7,1,10,2.7,63.7,972.73,7,138.96,0.163,7.5,1,Yes,Mobile App,72,No
+CUST11138,45,Male,Central,138138.77,4.4,Yes,Ignored,12,3,5,1,89.6,872.6,11,79.33,0.388,5.6,2,No,Online,5,No
+CUST10090,39,Other,West,36500.59,20,Yes,Ignored,8,2,12,4.2,12.9,724.34,12,60.36,0.377,5.3,2,No,Online,37,No
+CUST10205,27,Male,South,50646.82,1.5,No,Ignored,4,0,7,0.7,3.8,666.15,15,44.41,0.082,5.6,1,No,Mobile App,62,Yes
+CUST10492,39,Female,South,69167.22,4.6,No,Ignored,3,0,8,3.3,26.7,334.54,11,30.41,0.285,5.5,1,No,Mobile App,13,No
+CUST10170,27,Other,South,62805.81,0.6,Yes,Ignored,8,2,12,1,1.8,900.31,12,75.03,0.509,,3,Yes,In-Store,31,Yes
+CUST11146,25,Other,West,43934.04,0.9,Yes,Unsubscribed,5,2,8,9.1,28.2,1284.23,8,160.53,0.411,9.5,6,No,Mobile App,74,Yes
+CUST10744,44,Male,Central,92808.48,1,No,Responded,4,2,11,5.1,58.6,766,9,85.11,0.572,8.5,0,No,Online,2,No
+CUST10056,28,Male,East,63682.43,3.2,No,Ignored,5,0,12,9.6,35.2,619.15,8,77.39,0.027,5.5,3,Yes,Online,56,Yes
+CUST10404,33,Female,West,80330.91,3.4,Yes,Unsubscribed,0,0,9,0.4,88.7,11439.78482,13,157.77,0.152,6.7,1,No,Online,2,Yes
+CUST10241,37,Female,Central,55167.35,2.3,No,Ignored,6,1,11,3.2,62.4,1138.23,0,1138.23,0.474,5.9,1,No,In-Store,44,No
+CUST10599,43,Male,North,24429.2,1.7,Yes,Responded,6,1,5,1.1,22.7,936.17,8,117.02,0.651,4.7,2,No,Mobile App,17,No
+CUST11015,40,Male,South,,2.3,Yes,Ignored,5,2,8,0.2,59.4,1125.71,9,125.08,0.272,8.8,1,No,In-Store,67,No
+CUST10346,21,Female,North,60470.56,2.5,Yes,Ignored,5,1,7,22.2,40.6,1563.55,5,312.71,0.385,,1,No,Online,173,No
+CUST10097,41,Female,South,96053.69,8.3,Yes,Ignored,9,1,7,0.4,98.2,632.74,6,105.46,0.085,9.3,2,Yes,In-Store,90,No
+CUST10826,57,Female,Central,96586.16,6.9,Yes,Ignored,2,0,11,11.9,98.8,1658.86,8,207.36,0.223,5.9,2,No,In-Store,13,No
+CUST10116,38,Other,South,,4.6,Yes,Ignored,6,1,8,1.7,16.3,1189.54,7,169.93,0.431,5.9,0,Yes,Mobile App,81,No
+CUST10201,45,Male,Central,54352.58,11.1,Yes,Responded,6,1,7,3.3,87.4,765.01,10,76.5,0.287,6.4,1,No,Mobile App,226,Yes
+CUST10325,23,Female,South,64358.72,0.3,Yes,Ignored,3,1,5,11.8,44.6,1387.95,8,173.49,0.439,6.3,1,No,Online,39,No
+CUST10479,51,Other,South,62535.14,0.9,Yes,Responded,6,2,6,4.3,74.4,1048.74,11,95.34,0.218,7.3,2,No,Online,7,No
+CUST10323,63,Male,East,102727.13,1,Yes,Unsubscribed,3,1,9,0.6,97,1075.27,9,119.47,0.121,6.4,1,No,Mobile App,79,Yes
+CUST11077,33,Other,North,88607.24,3.2,No,Ignored,4,2,12,5.6,,1330.55,5,266.11,0.139,7.8,3,No,In-Store,14,No
+CUST10098,38,Male,West,65227.56,12.9,Yes,Unsubscribed,1,0,8,7.8,48.4,1501.48,9,166.83,0.161,5,0,No,Online,119,Yes
+CUST10424,46,Male,North,51064.37,4.1,Yes,Ignored,6,2,8,3.9,31.9,537.33,9,59.7,0.422,4.6,0,No,In-Store,103,No
+CUST10296,49,Female,West,68339.25,1.2,Yes,Responded,7,1,10,4.8,82.8,1214.36,7,173.48,,3.5,0,Yes,Online,11,No
+CUST10737,50,Male,East,104449.54,0.9,Yes,Ignored,9,1,5,5,48.5,2441.15,15,162.74,0.181,6.1,1,Yes,Online,2,No
+CUST11130,42,Male,East,69372.65,0.9,Yes,Responded,7,2,6,8.7,84.3,1846.25,5,369.25,0.15,9,2,No,In-Store,9,No
+CUST10902,38,Male,West,84680.67,1.6,Yes,Responded,4,1,15,1,5.3,1136,5,227.2,0.208,8.4,3,No,In-Store,1,No
+CUST10601,27,Female,South,72149.98,1.5,Yes,Ignored,5,1,8,1.2,78.4,1291.99,5,258.4,0.277,6.7,1,Yes,Mobile App,81,Yes
+CUST10999,45,Male,South,31104.48,4.1,Yes,Ignored,2,0,5,3.3,50.9,1808.81,18,100.49,0.241,6.9,3,Yes,In-Store,2,Yes
+CUST10395,32,Female,East,92565.25,5.3,Yes,Ignored,4,1,10,1.1,16.1,826.32,10,82.63,,5.6,0,Yes,In-Store,84,No
+CUST10426,26,Male,North,35945.79,1.5,No,Ignored,3,1,8,1.7,55.7,2037.74,5,407.55,0.148,4.1,0,No,In-Store,2,Yes
+CUST11084,43,Male,West,52485.55,0.5,Yes,Responded,7,2,5,4.6,74.7,2583.73,7,369.1,0.211,7.9,1,No,Online,2,No
+CUST10252,63,Other,West,29106.98,9.5,Yes,Responded,6,2,8,7.9,78.3,1817.25,5,363.45,0.446,5.8,0,No,Online,8,No
+CUST10238,30,Female,North,65477.16,0.9,Yes,Responded,5,1,6,2.8,32.7,1295.12,11,117.74,0.411,7,3,No,Online,87,Yes
+CUST10844,40,Male,East,24739.31,0.1,No,Responded,9,1,11,3.9,11.1,498.96,6,83.16,0.489,7.2,2,No,Mobile App,15,No
+CUST10845,44,Male,East,43150.74,0.4,Yes,Ignored,4,0,11,21,77.7,408.94,5,81.79,0.31,9.3,2,No,In-Store,5,No
+CUST10554,42,Male,East,109758.5,0.5,Yes,Ignored,5,1,9,5.9,42.1,218.53,13,16.81,0.397,10,1,No,Online,218,No
+CUST10545,28,Female,East,,2.5,Yes,Responded,7,1,9,1.4,83.1,1650.06,13,126.93,0.28,8.4,2,No,Online,53,Yes
+CUST10250,23,Male,South,48636.95,3.3,Yes,Ignored,5,3,11,7.5,54,1344.21,10,134.42,,7.7,2,No,In-Store,35,No
+CUST10739,50,Male,North,64045.35,12.4,Yes,Ignored,9,2,4,13.3,88.2,385.45,10,38.54,0.402,5.8,0,No,Online,10,No
+CUST10964,37,Male,West,52407.72,1.4,No,Unsubscribed,11,2,10,0.1,36.1,964.29,10,96.43,0.222,5,2,Yes,In-Store,103,No
+CUST10198,39,Male,East,91543.4,1.7,Yes,Responded,6,2,12,3.3,,140.2,9,15.58,0.144,6,2,No,In-Store,36,No
+CUST10897,40,Male,North,61638.73,7.9,No,Ignored,8,1,6,1.5,96.4,1546.77,7,220.97,0.407,6.2,2,Yes,Mobile App,25,Yes
+CUST11054,31,Female,West,39041.46,0,Yes,Unsubscribed,5,3,7,0.9,89.1,1346.08,7,192.3,0.232,2,0,No,In-Store,35,Yes
+CUST10989,38,Male,West,,3.9,Yes,Ignored,7,3,5,1.5,45.2,910.23,10,91.02,0.325,8.5,2,No,Online,30,No
+CUST11040,58,Male,North,30331.94,2.7,Yes,Ignored,7,3,4,3.5,86.3,858.57,5,171.71,0.21,6.2,0,No,Online,40,No
+CUST10243,48,Female,West,59251.53,13.3,Yes,Ignored,4,1,10,0.3,71.4,181.16,11,16.47,0.219,6.4,2,No,In-Store,24,No
+CUST10066,37,Male,East,60926.01,0.6,Yes,Ignored,9,2,5,0.6,58.9,1158.38,8,144.8,0.258,7.9,1,No,Online,77,Yes
+CUST11150,26,Female,East,45924.64,8.3,Yes,Ignored,3,1,14,3,44.5,881.92,14,62.99,0.392,5.6,2,No,In-Store,59,No
+CUST10933,18,Female,North,53080.43,0.7,Yes,Ignored,4,0,9,0.1,48.3,1546.03,13,118.93,,10,1,Yes,In-Store,5,No
+CUST10359,28,Male,North,34330.07,14.5,Yes,Ignored,4,1,7,9.9,30.9,963.23,12,80.27,0.407,7.7,0,No,Online,1,No
+CUST10095,20,Female,Central,48860.13,1.2,Yes,Ignored,7,2,5,3.5,99,377.06,13,29,0.11,4.4,1,No,Online,75,Yes
+CUST11172,39,Female,Central,65871.63,2.9,Yes,Ignored,4,1,4,1,2.8,1244.79,7,177.83,0.134,6,1,Yes,In-Store,24,No
+CUST11184,26,Male,East,,5.5,Yes,Responded,6,1,6,9.2,91.1,345.49,5,69.1,0.431,8.7,1,No,Online,1,No
+CUST10521,45,Male,West,103099.7,3.3,Yes,Ignored,4,2,9,,88,505.83,5,101.17,0.335,6.7,1,No,Online,76,No
+CUST10974,33,Male,Central,37198.58,2,Yes,Responded,14,3,8,6.6,70.8,582.82,12,48.57,0.197,8,0,No,Online,39,No
+CUST10665,39,Other,South,46045.54,2.6,No,Ignored,8,2,15,8.5,78.6,465.5,7,66.5,0.638,9.2,1,No,In-Store,99,Yes
+CUST10361,56,Male,East,75058.81,0.6,Yes,Ignored,8,4,10,0.1,25.1,915.44,5,183.09,0.11,8.6,1,No,Online,142,No
+CUST10484,29,Male,South,77814.5,11.5,No,Ignored,5,1,9,3.2,86.9,471.17,15,31.41,0.461,8.1,0,No,Online,4,Yes
+CUST10311,51,Female,Central,53857.7,0.1,Yes,Responded,7,3,10,0.2,14.1,1406.17,14,100.44,0.324,6.3,2,No,In-Store,52,Yes
+CUST10842,25,Male,Central,40423.94,6.3,No,Ignored,10,3,10,2.2,48.7,487,9,54.11,0.663,6,1,Yes,In-Store,8,No
+CUST10413,53,Male,North,55817.57,5.1,No,Responded,10,1,10,15.3,3.5,1375.91,5,275.18,0.336,9.9,0,No,Online,3,No
+CUST10031,60,Female,North,38671.64,1.2,No,Ignored,4,1,5,2.7,83.4,319.87,8,39.98,0.151,8.5,0,No,In-Store,38,No
+CUST10765,30,Female,West,111707.93,0.8,Yes,Unsubscribed,10,2,8,9.5,30,700.93,15,46.73,0.278,6.2,3,Yes,Online,15,Yes
+CUST10458,31,Male,Central,14080.66,0.3,Yes,Unsubscribed,6,2,6,,18.3,1352.01,9,150.22,0.049,7.6,2,Yes,In-Store,26,Yes
+CUST10339,31,Male,North,79180.64,0,Yes,Ignored,9,4,9,5.4,25.5,2527.04,7,361.01,0.019,7.8,1,No,Online,60,Yes
+CUST10286,36,Female,South,50102.98,6,No,Responded,8,3,8,0.1,20.4,975.21,9,108.36,0.225,10,2,Yes,Online,2,No
+CUST10415,29,Male,East,64698.12,2.3,Yes,Ignored,10,6,10,1.2,6.1,1187.67,9,131.96,,4,1,No,In-Store,27,No
+CUST10949,41,Female,West,36813.87,4.8,Yes,Responded,11,4,12,3,57.4,1565.74,12,130.48,0.235,4.7,2,No,Online,0,Yes
+CUST10139,23,Female,South,67036.42,1.9,Yes,Ignored,2,0,3,1,42.4,582.08,11,52.92,0.151,9,2,Yes,In-Store,22,No
+CUST10848,30,Male,South,18294.14,1.2,Yes,Responded,6,1,7,1.2,32.9,358.17,10,35.82,0.226,,0,No,In-Store,30,No
+CUST11025,43,Female,West,95171.14,3.1,Yes,Ignored,10,4,7,2.2,58.4,2207.69,10,220.77,0.24,5.8,0,No,In-Store,2,No
+CUST10900,42,Male,East,54716.89,,Yes,Ignored,9,3,5,4.1,63.2,1131.4,12,94.28,0.127,8.6,0,Yes,In-Store,21,No
+CUST10731,26,Male,South,69991.5,1,No,Unsubscribed,8,1,8,4.8,62.9,1900.37,9,211.15,0.084,6.7,0,No,Online,4,No
+CUST10264,35,Male,South,139459.26,1.9,No,Ignored,6,0,5,9.4,41.2,623.12,9,69.24,0.385,5.8,1,No,Online,103,Yes
+CUST10274,26,Female,West,56886.73,3.9,No,Ignored,7,2,6,18.1,33.6,340.81,6,56.8,0.134,7.5,0,No,Mobile App,12,No
+CUST10444,22,Female,Central,71450.6,1.8,Yes,Responded,2,1,8,1.2,0.6,1585.35,8,198.17,0.347,,0,No,In-Store,20,Yes
+CUST10039,40,Male,North,118079.29,,No,Ignored,3,1,12,2.6,85.5,716.11,2,358.06,0.523,7.6,2,No,Online,26,Yes
+CUST10021,35,Male,West,58884.34,0.3,Yes,Ignored,7,4,13,0.6,91.2,925.85,8,115.73,0.096,5.7,1,Yes,Online,7,No
+CUST10705,45,Female,South,64835.67,3.2,Yes,Ignored,5,1,9,2.5,,621.81,5,124.36,0.126,8.1,0,Yes,Online,180,Yes
+CUST10517,26,Female,North,53338.44,8.9,Yes,Ignored,5,1,6,1.4,98.9,1138.35,10,113.84,,9,0,No,Mobile App,38,No
+CUST10354,38,Female,Central,127368.94,11.2,Yes,Ignored,5,2,8,0,95.3,1286.6,3,428.87,0.121,8,2,No,Mobile App,82,Yes
+CUST10297,42,MALE,West,37207.63,0.5,Yes,Ignored,6,1,7,,42.5,438.91,12,36.58,0.436,7.6,1,No,Online,43,No
+CUST11076,19,Male,North,80325.28,2.2,Yes,Ignored,7,4,11,0.7,73.6,1210.93,7,172.99,0.403,9.1,2,Yes,In-Store,70,No
+CUST10839,35,Female,West,53301.41,1.4,Yes,Responded,8,2,9,0.7,72.1,1138.33,11,103.48,0.283,6.4,0,No,Online,87,No
+CUST10924,52,Female,West,56503.92,4.5,Yes,Ignored,8,2,4,0.5,73.3,802.74,9,89.19,0.463,6.9,0,Yes,Online,39,No
+CUST10122,55,Male,Central,49941.62,6.1,No,Unsubscribed,6,0,3,1,74,2362.69,4,590.67,0.555,7.8,2,Yes,Online,1,Yes
+CUST11091,38,FEMALE,West,590587.9908,0.8,No,Ignored,10,3,8,5.5,86.7,1539.92,9,171.1,0.066,8.6,3,Yes,Online,67,No
+CUST10417,39,Female,East,27139.4,0.1,No,Ignored,5,1,7,4.7,2.8,2238.72,7,319.82,0.323,8.6,0,No,In-Store,158,Yes
+CUST10966,30,Female,Central,43365.45,3.9,No,Ignored,9,1,3,,41.4,882.65,7,126.09,0.53,8.3,0,No,In-Store,10,Yes
+CUST10157,44,Male,North,61221.85,5.8,Yes,Unsubscribed,9,1,7,5.9,30.2,855.65,5,171.13,0.401,6.5,1,Yes,Mobile App,37,No
+CUST11063,18,Male,South,39023.45,0.5,Yes,Responded,5,3,8,12.5,63.3,733.14,5,146.63,0.338,9.5,1,No,Online,34,No
+CUST10189,20,Male,East,120987.28,1.1,Yes,Responded,14,3,7,2.7,66,470.79,7,67.26,,7.8,2,No,Online,140,No
+CUST10589,28,Female,West,43809.71,0.2,Yes,Responded,7,4,7,,21,905.9,7,129.41,0.312,10,0,Yes,Online,13,No
+CUST10760,31,Male,West,67629.05,3.8,Yes,Ignored,7,1,8,1.5,88,236.3,15,15.75,0.35,10,1,No,Online,30,No
+CUST11062,52,Female,West,54512.23,2.6,Yes,Unsubscribed,9,3,7,0,88.6,1099.76,11,99.98,0.118,7,2,Yes,Online,55,Yes
+CUST10242,44,Male,North,74300.02,1.9,Yes,Responded,11,1,9,0.3,29.3,1332.71,11,121.16,0.164,7.4,1,Yes,In-Store,32,No
+CUST10884,46,OTHER,South,52730.54,3.8,Yes,Ignored,6,2,12,0.5,85.7,640.31,12,53.36,0.162,2.4,1,No,Online,30,Yes
+CUST10620,29,Female,North,119758.03,10.4,Yes,Ignored,5,0,10,2.7,39.2,1029.27,9,114.36,0.457,8.1,0,Yes,Online,33,No
+CUST10650,60,Female,South,60952.84,2,Yes,Responded,4,2,6,1.7,44,582.72,8,72.84,,4.9,1,No,In-Store,60,Yes
+CUST10503,45,Female,North,20405.48,7.6,Yes,Responded,3,1,10,1.7,26.6,735.82,9,81.76,0.112,7.3,1,No,Mobile App,6,No
+CUST10922,40,Male,South,,0.7,No,Ignored,12,1,6,7.9,40.2,1086.94,12,90.58,,7.2,0,Yes,Online,29,Yes
+CUST10159,46,Male,South,68079.12,0.8,Yes,Unsubscribed,11,4,10,1.2,27.8,1909.98,8,238.75,,6.1,0,No,Online,31,No
+CUST10882,32,Female,West,26269.45,10.2,Yes,Ignored,4,1,11,1.8,23.1,449.06,4,112.26,0.218,8.9,1,No,Mobile App,60,No
+CUST10537,33,FEMALE,North,,0.7,Yes,Ignored,13,3,9,8.8,8.5,1313.82,6,218.97,0.095,2.2,1,Yes,Mobile App,42,Yes
+CUST10240,28,Male,West,,6.7,No,Responded,3,0,10,1,84.4,642.84,12,53.57,0.442,2.1,2,Yes,Online,10,No
+CUST10013,18,Male,North,41781.6,0.9,Yes,Ignored,10,1,5,1.2,66,1155.06,10,115.51,0.175,5.9,2,No,In-Store,24,No
+CUST10475,35,Male,North,70175.08,1.1,Yes,Ignored,7,1,8,0.3,17.8,996.75,6,166.12,0.172,7.2,4,No,Online,168,No
+CUST11142,36,Female,West,51360.75,0.9,Yes,Unsubscribed,8,2,9,1.4,24.1,1321.65,10,132.17,0.383,5.5,2,Yes,Mobile App,21,No
+CUST10928,57,Male,North,63903.33,0.8,Yes,Unsubscribed,4,2,11,1.9,23.2,1190.64,13,91.59,0.337,8,1,No,Online,9,No
+CUST10795,51,Male,South,66155.66,1.6,Yes,Ignored,6,2,13,1.6,10.6,967.24,8,120.9,0.23,6.7,2,No,Mobile App,86,No
+CUST10355,26,Male,South,63502.05,5.5,No,Ignored,8,1,6,2.8,18.8,1290.97,13,99.31,0.184,4,0,No,Online,21,Yes
+CUST11058,45,Male,South,58009.5,0.4,Yes,Ignored,4,1,9,4.7,37.7,1719.01,9,191,0.406,3.4,2,No,Online,90,Yes
+CUST10334,50,Female,North,21283.58,6.2,No,Ignored,2,1,11,0.6,1.5,598.88,8,74.86,0.533,6.8,1,No,Online,121,No
+CUST10688,47,Female,South,75548.88,14.7,Yes,Responded,3,1,13,,53.2,864.94,11,78.63,0.165,5.3,1,Yes,Online,40,No
+CUST10184,35,Female,North,9214.53,8.4,No,Responded,2,1,9,2.2,13.2,381.37,8,47.67,0.407,6.6,2,No,Online,4,No
+CUST10823,34,Female,East,71373.39,1.8,No,Responded,11,3,4,8.5,59.6,1088.34,5,217.67,0.42,5.9,1,No,In-Store,88,Yes
+CUST11126,42,Female,North,59968.23,4.5,Yes,Responded,5,0,6,2.6,0.3,471.33,12,39.28,0.683,8.2,1,Yes,Online,24,No
+CUST11001,49,Male,Central,97859.4,1.5,Yes,Unsubscribed,6,1,9,10.8,96.9,2539.77,9,282.2,0.294,7.4,1,No,Online,26,Yes
+CUST10187,37,Female,North,,1.4,Yes,Ignored,2,1,1,4,44,848.84,8,106.1,,4.5,1,Yes,Online,11,Yes
+CUST10941,48,Male,North,101747.01,0.8,Yes,Ignored,6,2,11,8.1,76.5,676.37,7,96.62,0.127,4.1,2,No,In-Store,17,No
+CUST10284,64,Female,West,24771.44,2.1,Yes,Unsubscribed,7,2,1,5.3,94.1,856.15,8,107.02,0.241,,1,No,Online,37,Yes
+CUST10899,28,Male,South,30487.29,0.2,Yes,Responded,5,2,9,0.2,53,1941.28,8,242.66,0.133,7,2,No,Online,34,No
+CUST10165,43,Male,Central,52274.48,8.8,Yes,Ignored,7,3,11,3.7,23.9,552.9,7,78.99,0.545,7.3,1,Yes,Online,18,No
+CUST10347,21,Female,West,16399.58,7,Yes,Responded,2,0,6,1.9,95.2,1522.87,8,190.36,0.38,5.8,0,No,In-Store,26,No
+CUST10298,48,Male,South,56186.29,6.5,Yes,Ignored,3,1,10,0.5,51.8,520.44,8,65.06,0.414,6.4,1,No,Online,58,No
+CUST10535,39,FEMALE,Central,19624.84,0.4,Yes,Responded,3,1,6,11.4,24.5,1330.51,6,221.75,,3.4,1,Yes,Mobile App,23,Yes
+CUST10229,46,Male,North,29629.72,0,Yes,Ignored,2,0,5,,11.1,387.42,4,96.86,0.141,6.8,1,No,Online,28,No
+CUST10041,40,Female,Central,41466.35,8.2,Yes,Ignored,7,2,14,5.3,55.6,1005.63,5,201.13,0.133,4.9,2,No,In-Store,5,No
+CUST10868,46,Male,East,89836.15,5.4,Yes,Ignored,5,1,6,2.9,,899.73,14,64.27,0.51,7.7,0,No,Online,42,No
+CUST10748,31,Male,Central,81053.5,1.3,No,Ignored,5,1,6,4.8,28.8,1213.31,9,134.81,0.242,6.1,2,Yes,In-Store,21,Yes
+CUST11160,18,Male,East,41090.5,2.9,No,Responded,7,1,7,3.3,1.2,2727.15,8,340.89,0.653,9.8,1,Yes,Mobile App,15,No
+CUST10446,42,Female,South,62016.27,2.5,Yes,Ignored,6,4,6,4.3,42.4,1168.56,11,106.23,0.247,9.2,2,No,In-Store,54,No
+CUST10349,35,Male,North,42142.88,0.3,Yes,Responded,5,2,9,7.9,49.3,1330.18,12,110.85,0.442,8.7,2,Yes,Online,155,No
+CUST10045,29,Male,South,67768.65,6.1,Yes,Ignored,6,1,8,1.5,10.4,677.88,9,75.32,0.283,,2,No,Mobile App,22,No
+CUST11165,67,Male,Central,83586.83,7.3,No,Ignored,6,1,5,8.5,93.1,811.33,11,73.76,0.386,6.5,2,Yes,In-Store,8,No
+CUST11183,19,Female,North,49599.81,4.2,Yes,Responded,9,2,10,16.1,14.9,1024.53,10,102.45,0.164,8.4,1,Yes,Mobile App,41,No
+CUST10108,41,Female,South,33598.39,4.7,No,Responded,8,2,6,0,36.4,1640.82,6,273.47,0.299,6.6,1,Yes,In-Store,135,Yes
+CUST10029,34,Female,North,78621.97,1.5,Yes,Responded,4,1,11,6,69.5,989.13,8,123.64,0.315,6.1,1,Yes,In-Store,97,Yes
+CUST10181,28,Female,South,37617.46,0.3,Yes,Ignored,4,1,8,0.8,41.9,675.07,5,135.01,0.11,6.2,2,No,Online,11,No
+CUST10621,44,Male,West,67599.83,6.5,Yes,Ignored,6,2,4,5.1,25.5,322.23,11,29.29,0.259,7.9,3,No,Online,37,No
+CUST10634,26,Male,North,87358.73,1.1,Yes,Ignored,5,1,8,1.4,77.5,2426.59,11,220.6,0.409,4.9,0,Yes,In-Store,59,No
+CUST10104,36,Male,North,88265.9,3.5,Yes,Responded,0,0,11,,51.2,1184.13,9,131.57,0.077,6.5,0,No,In-Store,11,No
+CUST10060,32,Male,East,45850.12,11.4,No,Ignored,7,1,11,5.5,12.1,1027.75,6,171.29,0.368,8,2,Yes,Online,49,No
+CUST10658,40,Male,Central,37865.41,0.8,Yes,Ignored,5,2,5,2.3,96.5,867.38,13,66.72,0.594,,1,Yes,Online,15,Yes
+CUST11107,25,Male,North,31663.79,0.1,Yes,Responded,10,3,8,0.8,27.1,432.78,9,48.09,0.237,6.1,1,Yes,Online,83,No
+CUST10490,38,Male,East,65878.98,1.3,Yes,Ignored,5,0,6,,62.5,729.75,10,72.97,0.614,6.4,2,No,Mobile App,42,No
+CUST10315,38,Female,East,63148,6.3,no,Ignored,1,0,11,2.6,75.4,996.47,9,110.72,0.203,8.8,1,Yes,Online,8,No
+CUST10381,31,Male,West,27166.27,2.3,No,Ignored,6,3,10,3.7,31.5,2215.06,9,246.12,0.491,5.3,1,No,Online,92,Yes
+CUST10422,35,Male,West,62538.56,0.3,No,Ignored,6,1,10,1.5,22.7,1079.08,8,134.88,0.103,5.6,2,No,Online,47,No
+CUST11169,48,Other,South,43881.22,4.1,No,Ignored,6,1,9,5.6,7.1,587.07,14,41.93,0.127,10,1,No,Online,36,No
+CUST10445,46,Male,South,119186.03,0.7,Yes,Ignored,9,2,7,,79.9,1104.72,9,122.75,0.243,,0,No,Online,2,No
+CUST10663,31,Female,North,57157.8,6.9,Yes,Ignored,7,3,7,0.1,63.5,1479.95,7,211.42,0.149,6,3,No,Online,13,No
+CUST11024,59,Male,South,62460.49,1,No,Ignored,9,2,5,5.2,6.8,1527.69,8,190.96,0.237,6.5,0,No,In-Store,56,No
+CUST10779,45,Male,West,65524.11,1,Yes,Ignored,1,0,6,0.5,34.4,578.84,7,82.69,0.548,8.2,1,Yes,In-Store,18,No
+CUST10626,26,Male,West,102752.72,0.6,yes,Ignored,7,1,5,0,38.7,972.45,9,108.05,0.379,3.6,2,No,Online,150,No
+CUST11112,48,Female,West,67029.24,2.1,no,Ignored,11,3,9,2.1,92.7,891.73,6,148.62,0.314,9.3,1,Yes,Online,41,No
+CUST11101,18,Male,North,39463.83,4.4,Yes,Ignored,6,1,11,,55,464.25,10,46.42,0.627,7,1,No,In-Store,32,Yes
+CUST10268,33,Male,West,65173.66,1.3,Yes,Ignored,4,3,12,0.6,81.3,646.73,10,64.67,0.242,9.4,0,No,Online,167,Yes
+CUST10929,37,Female,South,162091.41,0,Yes,Unsubscribed,4,0,6,0.6,42.7,1384.39,6,230.73,0.402,10,1,No,Online,6,No
+CUST11147,21,Female,West,52185.67,2.5,Yes,Ignored,15,6,8,3.3,44.6,890,4,222.5,0.162,5.6,2,Yes,Online,63,No
+CUST11119,51,Female,West,42067.33,9,No,Unsubscribed,5,0,5,0.9,48.2,695.56,7,99.37,0.214,5.2,2,Yes,Online,5,Yes
+CUST10011,32,Female,North,49344.53,2.6,Yes,Responded,4,1,5,8.4,55.9,1072.62,7,153.23,0.244,5.6,1,No,Online,49,Yes
+CUST10114,36,Female,Central,69242.97,2.4,No,Responded,10,6,13,9.1,71.7,700.92,8,87.62,0.458,7.5,3,No,In-Store,2,No
+CUST10843,43,Male,North,39067.23,18.9,Yes,Unsubscribed,8,1,7,2.5,55.6,1989.78,6,331.63,0.064,9.4,1,No,Online,40,No
+CUST10352,48,Female,North,45165.78,2.8,No,Unsubscribed,5,2,7,14.9,86.4,844.27,8,105.53,0.241,7.9,1,Yes,In-Store,19,No
+CUST11194,19,Male,North,37365.19,0,No,Ignored,9,7,7,5,50,796.81,7,113.83,0.575,7.1,1,No,Mobile App,28,No
+CUST10773,50,Female,South,,0.3,Yes,Unsubscribed,5,2,8,0.3,0.9,1284.29,8,160.54,0.082,7.2,1,Yes,In-Store,18,Yes
+CUST10690,34,Male,Central,93058.61,0.8,No,Responded,2,0,5,1.5,25.8,984.56,11,89.51,0.339,8.1,2,No,In-Store,30,No
+CUST10790,43,Male,West,41044.59,0.9,Yes,Ignored,4,0,8,1.2,36.7,721.81,8,90.23,0.339,9.4,3,No,In-Store,41,No
+CUST10531,18,Female,West,47104.5,10.3,No,Ignored,6,2,11,15,13.4,1082.44,7,154.63,0.11,9.9,2,No,Mobile App,49,No
+CUST10867,42,Other,North,75946.75,4.2,No,Responded,4,2,10,5.5,91.8,1101.48,3,367.16,0.306,1.7,0,Yes,Online,30,Yes
+CUST10169,29,Female,West,67555.76,3.4,No,Responded,4,1,11,9.8,8.2,813.38,13,62.57,0.582,8.8,1,Yes,Mobile App,87,Yes
+CUST10239,48,Female,East,149598.09,5.7,Yes,Ignored,5,3,5,1.2,30.5,1596.68,10,159.67,0.676,6.9,1,No,In-Store,35,No
+CUST10073,57,Male,South,64090.2,0.4,No,Responded,10,2,4,2.6,12,410.19,8,51.27,0.451,3.2,0,Yes,Online,38,No
+CUST11086,50,Female,South,47751.28,1,Yes,Ignored,6,3,15,1.2,17.8,601.16,9,66.8,0.532,7.6,0,Yes,Mobile App,19,No
+CUST10761,39,Male,North,42314.84,3.8,No,Ignored,6,4,12,5.9,16.6,726.72,13,55.9,0.396,8.9,1,Yes,Online,8,Yes
+CUST10740,18,Female,North,95708.14,0.7,No,Unsubscribed,5,1,8,1.2,53.3,1309.55,12,109.13,0.551,5.5,3,Yes,In-Store,4,Yes
+CUST10750,27,Male,North,64802.67,0.3,yes,Ignored,10,5,7,12.4,8.4,557.66,10,55.77,0.149,4.7,0,Yes,Online,19,No
+CUST10741,23,Male,South,63823.09,3.2,No,Ignored,5,2,13,0.3,59.4,236.92,11,21.54,0.077,6.7,0,Yes,In-Store,19,Yes
+CUST10830,22,Male,West,49678.01,0.8,Yes,Ignored,5,1,6,1,58.1,1064.02,6,177.34,0.378,9.9,0,Yes,Mobile App,40,No
+CUST10047,51,Female,East,40219.73,1.9,Yes,Ignored,9,1,9,1.3,94.5,425.21,8,53.15,0.11,4.2,3,Yes,In-Store,3,No
+CUST10762,69,Female,South,66888.63,1.2,No,Ignored,7,3,8,0.3,26.5,607.15,9,67.46,0.299,8.3,1,No,In-Store,28,No
+CUST10591,32,Female,West,,2.1,Yes,Ignored,7,2,16,0,66.6,1130.42,13,86.96,0.508,8.7,0,No,Online,10,No
+CUST10807,32,Male,East,29797.4,2.4,Yes,Responded,4,2,6,3.5,92.9,243.85,11,22.17,0.041,6.6,1,Yes,Online,19,No
+CUST11083,63,Female,West,31667.7,4.1,No,Responded,6,1,5,5.2,19.3,799.61,6,133.27,0.185,9,2,Yes,Online,31,No
+CUST10505,32,Female,North,38092.87,4.8,No,Responded,5,3,7,1.5,31.4,1377.23,14,98.37,0.393,6.3,1,No,Mobile App,35,No
+CUST11044,36,Female,East,61142.53,0.9,No,Ignored,6,0,5,1.1,,1318.47,16,82.4,,6.7,1,No,In-Store,67,Yes
+CUST10652,35,Other,North,45569.38,1,Yes,Ignored,3,1,12,5.4,91.6,502.19,10,50.22,0.407,6.7,1,No,In-Store,28,No
+CUST10192,41,Female,South,45023.91,0.3,No,Ignored,5,0,8,2.1,96.4,947.25,6,157.88,0.036,6.9,1,No,Mobile App,5,Yes
+CUST10244,24,Female,East,62253.88,0.8,No,Ignored,7,1,5,3.3,34.5,570.06,7,81.44,0.343,5.9,1,No,Online,21,No
+CUST10059,50,Female,North,95041.48,0.3,No,Ignored,2,1,6,0.2,88.3,1508.71,10,150.87,0.586,7.5,2,No,Mobile App,85,Yes
+CUST10176,38,Female,South,647479.814,8.4,Yes,Ignored,5,1,6,5.7,71.2,619.37,11,56.31,0.301,10,2,Yes,In-Store,25,No
+CUST10449,25,Male,Central,84764.88,0.2,No,Ignored,4,2,10,1.3,14.3,10370.8109,11,23.23,,6.9,0,Yes,Online,7,Yes
+CUST10055,49,Male,Central,78021.14,2,Yes,Unsubscribed,8,2,6,0.9,,330.65,15,22.04,0.397,8.2,1,Yes,In-Store,60,Yes
+CUST10919,40,Male,North,33974.7,4.6,No,Responded,7,2,6,5.5,37.6,925.68,8,115.71,0.341,7.4,2,Yes,Online,54,Yes
+CUST11092,47,Male,East,73333.4,3.3,Yes,Ignored,9,4,14,2.1,72.3,869.69,8,108.71,0.099,4.4,3,Yes,In-Store,34,Yes
+CUST11192,31,Male,West,34509.66,0.2,No,Ignored,5,0,8,2.6,1.8,347.63,14,24.83,0.085,4.9,0,No,Mobile App,5,No
+CUST11059,34,Male,South,43753.6,1.9,Yes,Ignored,5,3,9,,1.3,737.41,12,61.45,0.374,10,0,No,Online,16,No
+CUST10641,58,Female,West,52643.99,0.1,yes,Ignored,4,1,8,5.5,72,2264.98,15,151,0.12,9.6,4,No,Online,12,Yes
